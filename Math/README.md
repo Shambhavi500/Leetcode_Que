@@ -50,6 +50,7 @@ Filed under their main topic, but they use this one too.
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 486 | [Predict the Winner](../Array/0486-predict-the-winner/README.md) | Array | Medium | Solved |
 | 628 | [Maximum Product of Three Numbers](../Array/0628-maximum-product-of-three-numbers/README.md) | Array | Easy | Solved |
+| 973 | [K Closest Points to Origin](../Array/0973-k-closest-points-to-origin/README.md) | Array | Medium | Solved |
 | 976 | [Largest Perimeter Triangle](../Array/0976-largest-perimeter-triangle/README.md) | Array | Easy | Solved |
 | 989 | [Add to Array-Form of Integer](../Array/0989-add-to-array-form-of-integer/README.md) | Array | Easy | Solved |
 | 1304 | [Find N Unique Integers Sum up to Zero](../Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | Array | Easy | Solved |

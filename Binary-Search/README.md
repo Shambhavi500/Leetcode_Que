@@ -33,3 +33,4 @@ Filed under their main topic, but they use this one too.
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Array | Easy | Solved |
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Array | Medium | Solved |
 | 1482 | [Minimum Number of Days to Make m Bouquets](../Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Array | Medium | Solved |
+| 2089 | [Find Target Indices After Sorting Array](../Array/2089-find-target-indices-after-sorting-array/README.md) | Array | Easy | Solved |

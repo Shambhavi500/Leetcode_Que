@@ -23,6 +23,7 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](../Array/0001-two-sum/README.md) | Array | Easy | Solved |
 | 49 | [Group Anagrams](../Array/0049-group-anagrams/README.md) | Array | Medium | Solved |
+| 128 | [Longest Consecutive Sequence](../Array/0128-longest-consecutive-sequence/README.md) | Array | Medium | Solved |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Array | Easy | Solved |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Array | Easy | Solved |
 | 219 | [Contains Duplicate II](../Array/0219-contains-duplicate-ii/README.md) | Array | Easy | Solved |

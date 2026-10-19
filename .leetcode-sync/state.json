@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 0,
+  "synced_through": 2176420802,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3047,6 +3047,135 @@
       },
       "submissions": [
         {"id":2175123636,"status":"Accepted","lang":"cpp","timestamp":1792300986,"runtime":"5 ms","memory":"95.9 MB"}
+      ]
+    },
+    "longest-consecutive-sequence": {
+      "id": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Union-Find"],
+      "topic": "Array",
+      "dir": "Array/0128-longest-consecutive-sequence",
+      "first_attempt_at": 1792302506,
+      "last_attempt_at": 1792303462,
+      "solved_at": 1792303462,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175148607,"status":"Accepted","lang":"cpp","timestamp":1792303462,"runtime":"14 ms","memory":"60.1 MB"}
+      },
+      "submissions": [
+        {"id":2175138510,"status":"Wrong Answer","lang":"cpp","timestamp":1792302506,"runtime":null,"memory":null},
+        {"id":2175139093,"status":"Wrong Answer","lang":"cpp","timestamp":1792302560,"runtime":null,"memory":null},
+        {"id":2175148607,"status":"Accepted","lang":"cpp","timestamp":1792303462,"runtime":"14 ms","memory":"60.1 MB"}
+      ]
+    },
+    "k-closest-points-to-origin": {
+      "id": "973",
+      "title": "K Closest Points to Origin",
+      "slug": "k-closest-points-to-origin",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Divide and Conquer","Geometry","Sorting","Heap (Priority Queue)","Quickselect","K-D Tree"],
+      "topic": "Array",
+      "dir": "Array/0973-k-closest-points-to-origin",
+      "first_attempt_at": 1792317476,
+      "last_attempt_at": 1792317476,
+      "solved_at": 1792317476,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175284959,"status":"Accepted","lang":"cpp","timestamp":1792317476,"runtime":"32 ms","memory":"64.7 MB"}
+      },
+      "submissions": [
+        {"id":2175284959,"status":"Accepted","lang":"cpp","timestamp":1792317476,"runtime":"32 ms","memory":"64.7 MB"}
+      ]
+    },
+    "top-travellers": {
+      "id": "1407",
+      "title": "Top Travellers",
+      "slug": "top-travellers",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1407-top-travellers",
+      "first_attempt_at": 1792318635,
+      "last_attempt_at": 1792318635,
+      "solved_at": 1792318635,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2175295937,"status":"Accepted","lang":"mysql","timestamp":1792318635,"runtime":"1541 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2175295937,"status":"Accepted","lang":"mysql","timestamp":1792318635,"runtime":"1541 ms","memory":"0B"}
+      ]
+    },
+    "game-play-analysis-i": {
+      "id": "511",
+      "title": "Game Play Analysis I",
+      "slug": "game-play-analysis-i",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0511-game-play-analysis-i",
+      "first_attempt_at": 1792321326,
+      "last_attempt_at": 1792321326,
+      "solved_at": 1792321326,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2175322458,"status":"Accepted","lang":"mysql","timestamp":1792321326,"runtime":"558 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2175322458,"status":"Accepted","lang":"mysql","timestamp":1792321326,"runtime":"558 ms","memory":"0B"}
+      ]
+    },
+    "customers-who-never-order": {
+      "id": "183",
+      "title": "Customers Who Never Order",
+      "slug": "customers-who-never-order",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0183-customers-who-never-order",
+      "first_attempt_at": 1792329488,
+      "last_attempt_at": 1792329488,
+      "solved_at": 1792329488,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2175406639,"status":"Accepted","lang":"mysql","timestamp":1792329488,"runtime":"595 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2175406639,"status":"Accepted","lang":"mysql","timestamp":1792329488,"runtime":"595 ms","memory":"0B"}
+      ]
+    },
+    "find-users-with-high-token-usage": {
+      "id": "3793",
+      "title": "Find Users with High Token Usage",
+      "slug": "find-users-with-high-token-usage",
+      "difficulty": "Easy",
+      "tags": [],
+      "topic": "Other",
+      "dir": "Other/3793-find-users-with-high-token-usage",
+      "first_attempt_at": 1792383261,
+      "last_attempt_at": 1792383437,
+      "solved_at": 1792383437,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2175876514,"status":"Accepted","lang":"mysql","timestamp":1792383437,"runtime":"321 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2175874878,"status":"Wrong Answer","lang":"mysql","timestamp":1792383261,"runtime":null,"memory":null},
+        {"id":2175876514,"status":"Accepted","lang":"mysql","timestamp":1792383437,"runtime":"321 ms","memory":"0B"}
+      ]
+    },
+    "find-target-indices-after-sorting-array": {
+      "id": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search","Sorting"],
+      "topic": "Array",
+      "dir": "Array/2089-find-target-indices-after-sorting-array",
+      "first_attempt_at": 1792428944,
+      "last_attempt_at": 1792428944,
+      "solved_at": 1792428944,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2176420802,"status":"Accepted","lang":"cpp","timestamp":1792428944,"runtime":"0 ms","memory":"15.1 MB"}
+      },
+      "submissions": [
+        {"id":2176420802,"status":"Accepted","lang":"cpp","timestamp":1792428944,"runtime":"0 ms","memory":"15.1 MB"}
       ]
     }
   }

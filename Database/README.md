@@ -4,13 +4,15 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 35 | 35 | 0 | 28 | 7 | 0 |
+| 38 | 38 | 0 | 31 | 7 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 175 | [Combine Two Tables](../Database/0175-combine-two-tables/README.md) | Easy | Solved | 1 | mysql | 2026-10-05 |
 | 180 | [Consecutive Numbers](../Database/0180-consecutive-numbers/README.md) | Medium | Solved | 2 | mysql | 2026-10-12 |
+| 183 | [Customers Who Never Order](../Database/0183-customers-who-never-order/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 197 | [Rising Temperature](../Database/0197-rising-temperature/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
+| 511 | [Game Play Analysis I](../Database/0511-game-play-analysis-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 550 | [Game Play Analysis IV](../Database/0550-game-play-analysis-iv/README.md) | Medium | Solved | 2 | mysql | 2026-10-11 |
 | 570 | [Managers with at Least 5 Direct Reports](../Database/0570-managers-with-at-least-5-direct-reports/README.md) | Medium | Solved | 2 | mysql | 2026-10-07 |
 | 577 | [Employee Bonus](../Database/0577-employee-bonus/README.md) | Easy | Solved | 1 | mysql | 2026-10-05 |
@@ -30,6 +32,7 @@
 | 1251 | [Average Selling Price](../Database/1251-average-selling-price/README.md) | Easy | Solved | 2 | mysql | 2026-10-07 |
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 1 | mysql | 2026-10-06 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
+| 1407 | [Top Travellers](../Database/1407-top-travellers/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](../Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 1633 | [Percentage of Users Attended a Contest](../Database/1633-percentage-of-users-attended-a-contest/README.md) | Easy | Solved | 1 | mysql | 2026-10-08 |
 | 1661 | [Average Time of Process per Machine](../Database/1661-average-time-of-process-per-machine/README.md) | Easy | Solved | 1 | mysql | 2026-10-06 |

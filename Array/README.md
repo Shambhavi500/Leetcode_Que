@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 81 | 79 | 2 | 45 | 31 | 5 |
+| 84 | 82 | 2 | 46 | 33 | 5 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -28,6 +28,7 @@
 | 88 | [Merge Sorted Array](../Array/0088-merge-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2025-08-26 |
 | 121 | [Best Time to Buy and Sell Stock](../Array/0121-best-time-to-buy-and-sell-stock/README.md) | Easy | Solved | 2 | cpp | 2025-09-07 |
 | 122 | [Best Time to Buy and Sell Stock II](../Array/0122-best-time-to-buy-and-sell-stock-ii/README.md) | Medium | Solved | 1 | cpp | 2025-09-07 |
+| 128 | [Longest Consecutive Sequence](../Array/0128-longest-consecutive-sequence/README.md) | Medium | Solved | 3 | cpp | 2026-10-18 |
 | 136 | [Single Number](../Array/0136-single-number/README.md) | Easy | Solved | 2 | cpp | 2026-01-22 |
 | 137 | [Single Number II](../Array/0137-single-number-ii/README.md) | Medium | Solved | 1 | cpp | 2026-07-27 |
 | 152 | [Maximum Product Subarray](../Array/0152-maximum-product-subarray/README.md) | Medium | Solved | 1 | cpp | 2026-01-23 |
@@ -66,6 +67,7 @@
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 2 | cpp | 2025-08-16 |
 | 860 | [Lemonade Change](../Array/0860-lemonade-change/README.md) | Easy | Solved | 4 | cpp | 2026-02-09 |
 | 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 1 | cpp | 2026-10-17 |
+| 973 | [K Closest Points to Origin](../Array/0973-k-closest-points-to-origin/README.md) | Medium | Solved | 1 | cpp | 2026-10-18 |
 | 976 | [Largest Perimeter Triangle](../Array/0976-largest-perimeter-triangle/README.md) | Easy | Solved | 2 | cpp | 2026-07-29 |
 | 989 | [Add to Array-Form of Integer](../Array/0989-add-to-array-form-of-integer/README.md) | Easy | Solved | 2 | cpp | 2026-07-30 |
 | 1200 | [Minimum Absolute Difference](../Array/1200-minimum-absolute-difference/README.md) | Easy | Solved | 1 | cpp | 2026-01-26 |
@@ -76,6 +78,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 2 | cpp | 2026-07-25 |
 | 1877 | [Minimize Maximum Pair Sum in Array](../Array/1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Solved | 2 | cpp | 2026-01-24 |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](../Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | Easy | Solved | 1 | cpp | 2026-01-25 |
+| 2089 | [Find Target Indices After Sorting Array](../Array/2089-find-target-indices-after-sorting-array/README.md) | Easy | Solved | 1 | cpp | 2026-10-19 |
 | 2144 | [Minimum Cost of Buying Candies With Discount](../Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | Easy | Solved | 1 | cpp | 2026-01-26 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2026-01-23 |
 | 2154 | [Keep Multiplying Found Values by Two](../Array/2154-keep-multiplying-found-values-by-two/README.md) | Easy | Solved | 1 | cpp | 2026-07-24 |
