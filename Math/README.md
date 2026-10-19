@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 26 | 26 | 0 | 22 | 4 | 0 |
+| 27 | 27 | 0 | 23 | 4 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -27,6 +27,7 @@
 | 492 | [Construct the Rectangle](../Math/0492-construct-the-rectangle/README.md) | Easy | Solved | 1 | cpp | 2026-07-29 |
 | 507 | [Perfect Number](../Math/0507-perfect-number/README.md) | Easy | Solved | 2 | cpp | 2026-07-29 |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Easy | Solved | 1 | cpp | 2025-08-24 |
+| 1025 | [Divisor Game](../Math/1025-divisor-game/README.md) | Easy | Solved | 1 | cpp | 2026-10-12 |
 | 1154 | [Day of the Year](../Math/1154-day-of-the-year/README.md) | Easy | Solved | 1 | cpp | 2026-07-30 |
 | 1925 | [Count Square Sum Triples](../Math/1925-count-square-sum-triples/README.md) | Easy | Solved | 2 | cpp | 2026-02-14 |
 | 2235 | [Add Two Integers](../Math/2235-add-two-integers/README.md) | Easy | Solved | 1 | cpp | 2025-11-06 |

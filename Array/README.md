@@ -4,11 +4,12 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 76 | 74 | 2 | 44 | 28 | 4 |
+| 81 | 79 | 2 | 45 | 31 | 5 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | [Two Sum](../Array/0001-two-sum/README.md) | Easy | Solved | 1 | cpp | 2025-08-18 |
+| 4 | [Median of Two Sorted Arrays](../Array/0004-median-of-two-sorted-arrays/README.md) | Hard | Solved | 1 | cpp | 2026-10-18 |
 | 11 | [Container With Most Water](../Array/0011-container-with-most-water/README.md) | Medium | Solved | 2 | cpp | 2026-01-06 |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2025-08-21 |
 | 27 | [Remove Element](../Array/0027-remove-element/README.md) | Easy | Solved | 1 | cpp | 2026-01-07 |
@@ -38,11 +39,13 @@
 | 215 | [Kth Largest Element in an Array](../Array/0215-kth-largest-element-in-an-array/README.md) | Medium | Solved | 2 | cpp | 2025-08-24 |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 1 | cpp | 2026-04-30 |
 | 219 | [Contains Duplicate II](../Array/0219-contains-duplicate-ii/README.md) | Easy | Solved | 4 | cpp | 2026-07-26 |
+| 238 | [Product of Array Except Self](../Array/0238-product-of-array-except-self/README.md) | Medium | Solved | 1 | cpp | 2026-10-17 |
 | 239 | [Sliding Window Maximum](../Array/0239-sliding-window-maximum/README.md) | Hard | Solved | 1 | cpp | 2025-12-12 |
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 1 | cpp | 2025-11-03 |
 | 260 | [Single Number III](../Array/0260-single-number-iii/README.md) | Medium | Solved | 1 | cpp | 2026-07-27 |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 2 | cpp | 2025-08-24 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 1 | cpp | 2025-08-16 |
+| 347 | [Top K Frequent Elements](../Array/0347-top-k-frequent-elements/README.md) | Medium | Solved | 1 | cpp | 2026-10-17 |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Easy | Solved | 2 | cpp | 2025-08-30 |
 | 414 | [Third Maximum Number](../Array/0414-third-maximum-number/README.md) | Easy | Solved | 1 | cpp | 2026-03-23 |
 | 448 | [Find All Numbers Disappeared in an Array](../Array/0448-find-all-numbers-disappeared-in-an-array/README.md) | Easy | Solved | 2 | cpp, java | 2026-03-23 |
@@ -62,6 +65,7 @@
 | 682 | [Baseball Game](../Array/0682-baseball-game/README.md) | Easy | Solved | 1 | cpp | 2025-08-31 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 2 | cpp | 2025-08-16 |
 | 860 | [Lemonade Change](../Array/0860-lemonade-change/README.md) | Easy | Solved | 4 | cpp | 2026-02-09 |
+| 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Medium | Solved | 1 | cpp | 2026-10-17 |
 | 976 | [Largest Perimeter Triangle](../Array/0976-largest-perimeter-triangle/README.md) | Easy | Solved | 2 | cpp | 2026-07-29 |
 | 989 | [Add to Array-Form of Integer](../Array/0989-add-to-array-form-of-integer/README.md) | Easy | Solved | 2 | cpp | 2026-07-30 |
 | 1200 | [Minimum Absolute Difference](../Array/1200-minimum-absolute-difference/README.md) | Easy | Solved | 1 | cpp | 2026-01-26 |
@@ -77,6 +81,7 @@
 | 2154 | [Keep Multiplying Found Values by Two](../Array/2154-keep-multiplying-found-values-by-two/README.md) | Easy | Solved | 1 | cpp | 2026-07-24 |
 | 2347 | [Best Poker Hand](../Array/2347-best-poker-hand/README.md) | Easy | Solved | 1 | cpp | 2025-09-14 |
 | 2549 | [Count Distinct Numbers on Board](../Array/2549-count-distinct-numbers-on-board/README.md) | Easy | Solved | 3 | cpp | 2026-02-01 |
+| 2778 | [Sum of Squares of Special Elements ](../Array/2778-sum-of-squares-of-special-elements/README.md) | Easy | Solved | 1 | cpp | 2026-10-16 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](../Array/3158-find-the-xor-of-numbers-which-appear-twice/README.md) | Easy | Solved | 2 | cpp | 2026-07-27 |
 | 3507 | [Minimum Pair Removal to Sort Array I](../Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | Easy | Solved | 1 | cpp | 2026-01-23 |

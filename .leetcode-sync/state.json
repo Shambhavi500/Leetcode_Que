@@ -2769,6 +2769,285 @@
       "submissions": [
         {"id":2167987608,"status":"Accepted","lang":"mysql","timestamp":1791622362,"runtime":"287 ms","memory":"0B"}
       ]
+    },
+    "the-number-of-employees-which-report-to-each-employee": {
+      "id": "1731",
+      "title": "The Number of Employees Which Report to Each Employee",
+      "slug": "the-number-of-employees-which-report-to-each-employee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1731-the-number-of-employees-which-report-to-each-employee",
+      "first_attempt_at": 1791716203,
+      "last_attempt_at": 1791716203,
+      "solved_at": 1791716203,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2169186279,"status":"Accepted","lang":"mysql","timestamp":1791716203,"runtime":"684 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2169186279,"status":"Accepted","lang":"mysql","timestamp":1791716203,"runtime":"684 ms","memory":"0B"}
+      ]
+    },
+    "primary-department-for-each-employee": {
+      "id": "1789",
+      "title": "Primary Department for Each Employee",
+      "slug": "primary-department-for-each-employee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1789-primary-department-for-each-employee",
+      "first_attempt_at": 1791717040,
+      "last_attempt_at": 1791717040,
+      "solved_at": 1791717040,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2169196779,"status":"Accepted","lang":"mysql","timestamp":1791717040,"runtime":"762 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2169196779,"status":"Accepted","lang":"mysql","timestamp":1791717040,"runtime":"762 ms","memory":"0B"}
+      ]
+    },
+    "game-play-analysis-iv": {
+      "id": "550",
+      "title": "Game Play Analysis IV",
+      "slug": "game-play-analysis-iv",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0550-game-play-analysis-iv",
+      "first_attempt_at": 1791717941,
+      "last_attempt_at": 1791718066,
+      "solved_at": 1791718066,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2169209324,"status":"Accepted","lang":"mysql","timestamp":1791718066,"runtime":"4005 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2169207826,"status":"Wrong Answer","lang":"mysql","timestamp":1791717941,"runtime":null,"memory":null},
+        {"id":2169209324,"status":"Accepted","lang":"mysql","timestamp":1791718066,"runtime":"4005 ms","memory":"0B"}
+      ]
+    },
+    "employees-whose-manager-left-the-company": {
+      "id": "1978",
+      "title": "Employees Whose Manager Left the Company",
+      "slug": "employees-whose-manager-left-the-company",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1978-employees-whose-manager-left-the-company",
+      "first_attempt_at": 1791718703,
+      "last_attempt_at": 1791718703,
+      "solved_at": 1791718703,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2169216927,"status":"Accepted","lang":"mysql","timestamp":1791718703,"runtime":"346 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2169216927,"status":"Accepted","lang":"mysql","timestamp":1791718703,"runtime":"346 ms","memory":"0B"}
+      ]
+    },
+    "consecutive-numbers": {
+      "id": "180",
+      "title": "Consecutive Numbers",
+      "slug": "consecutive-numbers",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0180-consecutive-numbers",
+      "first_attempt_at": 1791827756,
+      "last_attempt_at": 1791827799,
+      "solved_at": 1791827799,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2170478083,"status":"Accepted","lang":"mysql","timestamp":1791827799,"runtime":"626 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2170477247,"status":"Wrong Answer","lang":"mysql","timestamp":1791827756,"runtime":null,"memory":null},
+        {"id":2170478083,"status":"Accepted","lang":"mysql","timestamp":1791827799,"runtime":"626 ms","memory":"0B"}
+      ]
+    },
+    "divisor-game": {
+      "id": "1025",
+      "title": "Divisor Game",
+      "slug": "divisor-game",
+      "difficulty": "Easy",
+      "tags": ["Math","Dynamic Programming","Brainteaser","Game Theory","Impartial Game"],
+      "topic": "Math",
+      "dir": "Math/1025-divisor-game",
+      "first_attempt_at": 1791829193,
+      "last_attempt_at": 1791829193,
+      "solved_at": 1791829193,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2170505278,"status":"Accepted","lang":"cpp","timestamp":1791829193,"runtime":"0 ms","memory":"7.8 MB"}
+      },
+      "submissions": [
+        {"id":2170505278,"status":"Accepted","lang":"cpp","timestamp":1791829193,"runtime":"0 ms","memory":"7.8 MB"}
+      ]
+    },
+    "count-salary-categories": {
+      "id": "1907",
+      "title": "Count Salary Categories",
+      "slug": "count-salary-categories",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1907-count-salary-categories",
+      "first_attempt_at": 1791909235,
+      "last_attempt_at": 1791909235,
+      "solved_at": 1791909235,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2171378884,"status":"Accepted","lang":"mysql","timestamp":1791909235,"runtime":"2006 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2171378884,"status":"Accepted","lang":"mysql","timestamp":1791909235,"runtime":"2006 ms","memory":"0B"}
+      ]
+    },
+    "fix-names-in-a-table": {
+      "id": "1667",
+      "title": "Fix Names in a Table",
+      "slug": "fix-names-in-a-table",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1667-fix-names-in-a-table",
+      "first_attempt_at": 1791963815,
+      "last_attempt_at": 1791963815,
+      "solved_at": 1791963815,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2171923273,"status":"Accepted","lang":"mysql","timestamp":1791963815,"runtime":"864 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2171923273,"status":"Accepted","lang":"mysql","timestamp":1791963815,"runtime":"864 ms","memory":"0B"}
+      ]
+    },
+    "exchange-seats": {
+      "id": "626",
+      "title": "Exchange Seats",
+      "slug": "exchange-seats",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0626-exchange-seats",
+      "first_attempt_at": 1792088978,
+      "last_attempt_at": 1792089300,
+      "solved_at": 1792089279,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2173311179,"status":"Accepted","lang":"mysql","timestamp":1792089300,"runtime":"604 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2173306692,"status":"Wrong Answer","lang":"mysql","timestamp":1792088978,"runtime":null,"memory":null},
+        {"id":2173306898,"status":"Wrong Answer","lang":"mysql","timestamp":1792088992,"runtime":null,"memory":null},
+        {"id":2173307009,"status":"Wrong Answer","lang":"mysql","timestamp":1792088999,"runtime":null,"memory":null},
+        {"id":2173310909,"status":"Accepted","lang":"mysql","timestamp":1792089279,"runtime":null,"memory":null},
+        {"id":2173311179,"status":"Accepted","lang":"mysql","timestamp":1792089300,"runtime":"604 ms","memory":"0B"}
+      ]
+    },
+    "sum-of-squares-of-special-elements": {
+      "id": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "tags": ["Array","Enumeration"],
+      "topic": "Array",
+      "dir": "Array/2778-sum-of-squares-of-special-elements",
+      "first_attempt_at": 1792136335,
+      "last_attempt_at": 1792136335,
+      "solved_at": 1792136335,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2173655509,"status":"Accepted","lang":"cpp","timestamp":1792136335,"runtime":"0 ms","memory":"40.1 MB"}
+      },
+      "submissions": [
+        {"id":2173655509,"status":"Accepted","lang":"cpp","timestamp":1792136335,"runtime":"0 ms","memory":"40.1 MB"}
+      ]
+    },
+    "top-k-frequent-elements": {
+      "id": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Divide and Conquer","Sorting","Heap (Priority Queue)","Bucket Sort","Counting","Quickselect"],
+      "topic": "Array",
+      "dir": "Array/0347-top-k-frequent-elements",
+      "first_attempt_at": 1792218175,
+      "last_attempt_at": 1792218175,
+      "solved_at": 1792218175,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174339423,"status":"Accepted","lang":"cpp","timestamp":1792218175,"runtime":"2 ms","memory":"18 MB"}
+      },
+      "submissions": [
+        {"id":2174339423,"status":"Accepted","lang":"cpp","timestamp":1792218175,"runtime":"2 ms","memory":"18 MB"}
+      ]
+    },
+    "product-of-array-except-self": {
+      "id": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "tags": ["Array","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/0238-product-of-array-except-self",
+      "first_attempt_at": 1792227730,
+      "last_attempt_at": 1792227730,
+      "solved_at": 1792227730,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174430363,"status":"Accepted","lang":"cpp","timestamp":1792227730,"runtime":"2 ms","memory":"40 MB"}
+      },
+      "submissions": [
+        {"id":2174430363,"status":"Accepted","lang":"cpp","timestamp":1792227730,"runtime":"2 ms","memory":"40 MB"}
+      ]
+    },
+    "product-sales-analysis-iii": {
+      "id": "1070",
+      "title": "Product Sales Analysis III",
+      "slug": "product-sales-analysis-iii",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1070-product-sales-analysis-iii",
+      "first_attempt_at": 1792229274,
+      "last_attempt_at": 1792229530,
+      "solved_at": 1792229530,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2174446927,"status":"Accepted","lang":"mysql","timestamp":1792229530,"runtime":"740 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2174444480,"status":"Time Limit Exceeded","lang":"mysql","timestamp":1792229274,"runtime":null,"memory":null},
+        {"id":2174445505,"status":"Time Limit Exceeded","lang":"mysql","timestamp":1792229385,"runtime":null,"memory":null},
+        {"id":2174445708,"status":"Time Limit Exceeded","lang":"mysql","timestamp":1792229405,"runtime":null,"memory":null},
+        {"id":2174446927,"status":"Accepted","lang":"mysql","timestamp":1792229530,"runtime":"740 ms","memory":"0B"}
+      ]
+    },
+    "koko-eating-bananas": {
+      "id": "875",
+      "title": "Koko Eating Bananas",
+      "slug": "koko-eating-bananas",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0875-koko-eating-bananas",
+      "first_attempt_at": 1792248933,
+      "last_attempt_at": 1792248933,
+      "solved_at": 1792248933,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2174648458,"status":"Accepted","lang":"cpp","timestamp":1792248933,"runtime":"6 ms","memory":"22.9 MB"}
+      },
+      "submissions": [
+        {"id":2174648458,"status":"Accepted","lang":"cpp","timestamp":1792248933,"runtime":"6 ms","memory":"22.9 MB"}
+      ]
+    },
+    "median-of-two-sorted-arrays": {
+      "id": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "tags": ["Array","Binary Search","Divide and Conquer"],
+      "topic": "Array",
+      "dir": "Array/0004-median-of-two-sorted-arrays",
+      "first_attempt_at": 1792300986,
+      "last_attempt_at": 1792300986,
+      "solved_at": 1792300986,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175123636,"status":"Accepted","lang":"cpp","timestamp":1792300986,"runtime":"5 ms","memory":"95.9 MB"}
+      },
+      "submissions": [
+        {"id":2175123636,"status":"Accepted","lang":"cpp","timestamp":1792300986,"runtime":"5 ms","memory":"95.9 MB"}
+      ]
     }
   }
 }

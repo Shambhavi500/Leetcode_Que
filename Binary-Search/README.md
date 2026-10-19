@@ -16,6 +16,7 @@ Filed under their main topic, but they use this one too.
 
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
+| 4 | [Median of Two Sorted Arrays](../Array/0004-median-of-two-sorted-arrays/README.md) | Array | Hard | Solved |
 | 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Array | Medium | Solved |
 | 35 | [Search Insert Position](../Array/0035-search-insert-position/README.md) | Array | Easy | Solved |
 | 69 | [Sqrt(x)](../Math/0069-sqrtx/README.md) | Math | Easy | Solved |
@@ -30,4 +31,5 @@ Filed under their main topic, but they use this one too.
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Array | Hard | Solved |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Array | Medium | Solved |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Array | Easy | Solved |
+| 875 | [Koko Eating Bananas](../Array/0875-koko-eating-bananas/README.md) | Array | Medium | Solved |
 | 1482 | [Minimum Number of Days to Make m Bouquets](../Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Array | Medium | Solved |

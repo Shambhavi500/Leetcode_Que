@@ -27,6 +27,7 @@ Filed under their main topic, but they use this one too.
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Array | Easy | Solved |
 | 219 | [Contains Duplicate II](../Array/0219-contains-duplicate-ii/README.md) | Array | Easy | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 347 | [Top K Frequent Elements](../Array/0347-top-k-frequent-elements/README.md) | Array | Medium | Solved |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Array | Easy | Solved |
 | 448 | [Find All Numbers Disappeared in an Array](../Array/0448-find-all-numbers-disappeared-in-an-array/README.md) | Array | Easy | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |

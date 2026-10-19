@@ -26,3 +26,4 @@ Filed under their main topic, but they use this one too.
 | 264 | [Ugly Number II](../Hash-Table/0264-ugly-number-ii/README.md) | Hash Table | Medium | Solved |
 | 486 | [Predict the Winner](../Array/0486-predict-the-winner/README.md) | Array | Medium | Solved |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Math | Easy | Solved |
+| 1025 | [Divisor Game](../Math/1025-divisor-game/README.md) | Math | Easy | Solved |
