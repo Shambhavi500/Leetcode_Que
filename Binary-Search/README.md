@@ -26,6 +26,7 @@ Filed under their main topic, but they use this one too.
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Array | Easy | Solved |
 | 367 | [Valid Perfect Square](../Math/0367-valid-perfect-square/README.md) | Math | Easy | Solved |
+| 441 | [Arranging Coins](../Math/0441-arranging-coins/README.md) | Math | Easy | Solved |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Array | Hard | Solved |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Array | Medium | Solved |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Array | Easy | Solved |

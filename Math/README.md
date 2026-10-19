@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 20 | 20 | 0 | 16 | 4 | 0 |
+| 24 | 24 | 0 | 20 | 4 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -23,7 +23,11 @@
 | 342 | [Power of Four](../Math/0342-power-of-four/README.md) | Easy | Solved | 1 | cpp | 2025-08-05 |
 | 367 | [Valid Perfect Square](../Math/0367-valid-perfect-square/README.md) | Easy | Solved | 2 | cpp | 2026-02-13 |
 | 412 | [Fizz Buzz](../Math/0412-fizz-buzz/README.md) | Easy | Solved | 1 | cpp | 2025-09-13 |
+| 441 | [Arranging Coins](../Math/0441-arranging-coins/README.md) | Easy | Solved | 1 | cpp | 2026-07-28 |
+| 492 | [Construct the Rectangle](../Math/0492-construct-the-rectangle/README.md) | Easy | Solved | 1 | cpp | 2026-07-29 |
+| 507 | [Perfect Number](../Math/0507-perfect-number/README.md) | Easy | Solved | 2 | cpp | 2026-07-29 |
 | 509 | [Fibonacci Number](../Math/0509-fibonacci-number/README.md) | Easy | Solved | 1 | cpp | 2025-08-24 |
+| 1154 | [Day of the Year](../Math/1154-day-of-the-year/README.md) | Easy | Solved | 1 | cpp | 2026-07-30 |
 | 1925 | [Count Square Sum Triples](../Math/1925-count-square-sum-triples/README.md) | Easy | Solved | 2 | cpp | 2026-02-14 |
 | 2235 | [Add Two Integers](../Math/2235-add-two-integers/README.md) | Easy | Solved | 1 | cpp | 2025-11-06 |
 | 2525 | [Categorize Box According to Criteria](../Math/2525-categorize-box-according-to-criteria/README.md) | Easy | Solved | 2 | cpp | 2025-09-14 |
@@ -42,5 +46,8 @@ Filed under their main topic, but they use this one too.
 | 264 | [Ugly Number II](../Hash-Table/0264-ugly-number-ii/README.md) | Hash Table | Medium | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 628 | [Maximum Product of Three Numbers](../Array/0628-maximum-product-of-three-numbers/README.md) | Array | Easy | Solved |
+| 976 | [Largest Perimeter Triangle](../Array/0976-largest-perimeter-triangle/README.md) | Array | Easy | Solved |
+| 989 | [Add to Array-Form of Integer](../Array/0989-add-to-array-form-of-integer/README.md) | Array | Easy | Solved |
 | 1304 | [Find N Unique Integers Sum up to Zero](../Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | Array | Easy | Solved |
 | 2549 | [Count Distinct Numbers on Board](../Array/2549-count-distinct-numbers-on-board/README.md) | Array | Easy | Solved |
+| 3732 | [Maximum Product of Three Elements After One Replacement](../Array/3732-maximum-product-of-three-elements-after-one-replacement/README.md) | Array | Medium | Attempted |

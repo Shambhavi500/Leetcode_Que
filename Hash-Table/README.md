@@ -25,12 +25,16 @@ Filed under their main topic, but they use this one too.
 | 49 | [Group Anagrams](../Array/0049-group-anagrams/README.md) | Array | Medium | Solved |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Array | Easy | Solved |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Array | Easy | Solved |
+| 219 | [Contains Duplicate II](../Array/0219-contains-duplicate-ii/README.md) | Array | Easy | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Array | Easy | Solved |
 | 448 | [Find All Numbers Disappeared in an Array](../Array/0448-find-all-numbers-disappeared-in-an-array/README.md) | Array | Easy | Solved |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Array | Medium | Solved |
+| 575 | [Distribute Candies](../Array/0575-distribute-candies/README.md) | Array | Easy | Solved |
+| 645 | [Set Mismatch](../Array/0645-set-mismatch/README.md) | Array | Easy | Solved |
 | 2154 | [Keep Multiplying Found Values by Two](../Array/2154-keep-multiplying-found-values-by-two/README.md) | Array | Easy | Solved |
 | 2347 | [Best Poker Hand](../Array/2347-best-poker-hand/README.md) | Array | Easy | Solved |
 | 2549 | [Count Distinct Numbers on Board](../Array/2549-count-distinct-numbers-on-board/README.md) | Array | Easy | Solved |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](../Array/3158-find-the-xor-of-numbers-which-appear-twice/README.md) | Array | Easy | Solved |
 | 3507 | [Minimum Pair Removal to Sort Array I](../Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | Array | Easy | Solved |
 | 3510 | [Minimum Pair Removal to Sort Array II](../Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | Array | Hard | Attempted |

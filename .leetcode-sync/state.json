@@ -1942,6 +1942,285 @@
         {"id":2081900708,"status":"Wrong Answer","lang":"cpp","timestamp":1785062308,"runtime":null,"memory":null},
         {"id":2081917733,"status":"Accepted","lang":"cpp","timestamp":1785063263,"runtime":"0 ms","memory":"31.6 MB"}
       ]
+    },
+    "maximum-product-of-three-elements-after-one-replacement": {
+      "id": "3732",
+      "title": "Maximum Product of Three Elements After One Replacement",
+      "slug": "maximum-product-of-three-elements-after-one-replacement",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Greedy","Sorting"],
+      "topic": "Array",
+      "dir": "Array/3732-maximum-product-of-three-elements-after-one-replacement",
+      "first_attempt_at": 1785065282,
+      "last_attempt_at": 1785065282,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2081952688,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1785065282,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":2081952688,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1785065282,"runtime":null,"memory":null}
+      ]
+    },
+    "contains-duplicate-ii": {
+      "id": "219",
+      "title": "Contains Duplicate II",
+      "slug": "contains-duplicate-ii",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Sliding Window"],
+      "topic": "Array",
+      "dir": "Array/0219-contains-duplicate-ii",
+      "first_attempt_at": 1785065509,
+      "last_attempt_at": 1785066860,
+      "solved_at": 1785066860,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2081979580,"status":"Accepted","lang":"cpp","timestamp":1785066860,"runtime":"100 ms","memory":"125 MB"}
+      },
+      "submissions": [
+        {"id":2081956630,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1785065509,"runtime":null,"memory":null},
+        {"id":2081973966,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1785066536,"runtime":null,"memory":null},
+        {"id":2081976042,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1785066652,"runtime":null,"memory":null},
+        {"id":2081979580,"status":"Accepted","lang":"cpp","timestamp":1785066860,"runtime":"100 ms","memory":"125 MB"}
+      ]
+    },
+    "maximum-product-of-two-elements-in-an-array": {
+      "id": "1464",
+      "title": "Maximum Product of Two Elements in an Array",
+      "slug": "maximum-product-of-two-elements-in-an-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting","Heap (Priority Queue)"],
+      "topic": "Array",
+      "dir": "Array/1464-maximum-product-of-two-elements-in-an-array",
+      "first_attempt_at": 1785172960,
+      "last_attempt_at": 1785172960,
+      "solved_at": 1785172960,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2083727469,"status":"Accepted","lang":"cpp","timestamp":1785172960,"runtime":"0 ms","memory":"13.6 MB"}
+      },
+      "submissions": [
+        {"id":2083727469,"status":"Accepted","lang":"cpp","timestamp":1785172960,"runtime":"0 ms","memory":"13.6 MB"}
+      ]
+    },
+    "single-number-iii": {
+      "id": "260",
+      "title": "Single Number III",
+      "slug": "single-number-iii",
+      "difficulty": "Medium",
+      "tags": ["Array","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0260-single-number-iii",
+      "first_attempt_at": 1785173853,
+      "last_attempt_at": 1785173853,
+      "solved_at": 1785173853,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2083751303,"status":"Accepted","lang":"cpp","timestamp":1785173853,"runtime":"0 ms","memory":"13.9 MB"}
+      },
+      "submissions": [
+        {"id":2083751303,"status":"Accepted","lang":"cpp","timestamp":1785173853,"runtime":"0 ms","memory":"13.9 MB"}
+      ]
+    },
+    "single-number-ii": {
+      "id": "137",
+      "title": "Single Number II",
+      "slug": "single-number-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0137-single-number-ii",
+      "first_attempt_at": 1785175214,
+      "last_attempt_at": 1785175214,
+      "solved_at": 1785175214,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2083786645,"status":"Accepted","lang":"cpp","timestamp":1785175214,"runtime":"0 ms","memory":"13.4 MB"}
+      },
+      "submissions": [
+        {"id":2083786645,"status":"Accepted","lang":"cpp","timestamp":1785175214,"runtime":"0 ms","memory":"13.4 MB"}
+      ]
+    },
+    "find-the-xor-of-numbers-which-appear-twice": {
+      "id": "3158",
+      "title": "Find the XOR of Numbers Which Appear Twice",
+      "slug": "find-the-xor-of-numbers-which-appear-twice",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/3158-find-the-xor-of-numbers-which-appear-twice",
+      "first_attempt_at": 1785175962,
+      "last_attempt_at": 1785176115,
+      "solved_at": 1785176115,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2083808956,"status":"Accepted","lang":"cpp","timestamp":1785176115,"runtime":"0 ms","memory":"27.2 MB"}
+      },
+      "submissions": [
+        {"id":2083805297,"status":"Wrong Answer","lang":"cpp","timestamp":1785175962,"runtime":null,"memory":null},
+        {"id":2083808956,"status":"Accepted","lang":"cpp","timestamp":1785176115,"runtime":"0 ms","memory":"27.2 MB"}
+      ]
+    },
+    "distribute-candies": {
+      "id": "575",
+      "title": "Distribute Candies",
+      "slug": "distribute-candies",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table"],
+      "topic": "Array",
+      "dir": "Array/0575-distribute-candies",
+      "first_attempt_at": 1785260415,
+      "last_attempt_at": 1785260657,
+      "solved_at": 1785260415,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2085166329,"status":"Accepted","lang":"cpp","timestamp":1785260657,"runtime":"98 ms","memory":"120.1 MB"}
+      },
+      "submissions": [
+        {"id":2085160107,"status":"Accepted","lang":"cpp","timestamp":1785260415,"runtime":null,"memory":null},
+        {"id":2085166329,"status":"Accepted","lang":"cpp","timestamp":1785260657,"runtime":"98 ms","memory":"120.1 MB"}
+      ]
+    },
+    "can-place-flowers": {
+      "id": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "difficulty": "Easy",
+      "tags": ["Array","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0605-can-place-flowers",
+      "first_attempt_at": 1785262226,
+      "last_attempt_at": 1785262511,
+      "solved_at": 1785262511,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2085213341,"status":"Accepted","lang":"cpp","timestamp":1785262511,"runtime":"0 ms","memory":"24.1 MB"}
+      },
+      "submissions": [
+        {"id":2085206224,"status":"Wrong Answer","lang":"cpp","timestamp":1785262226,"runtime":null,"memory":null},
+        {"id":2085213341,"status":"Accepted","lang":"cpp","timestamp":1785262511,"runtime":"0 ms","memory":"24.1 MB"}
+      ]
+    },
+    "arranging-coins": {
+      "id": "441",
+      "title": "Arranging Coins",
+      "slug": "arranging-coins",
+      "difficulty": "Easy",
+      "tags": ["Math","Binary Search"],
+      "topic": "Math",
+      "dir": "Math/0441-arranging-coins",
+      "first_attempt_at": 1785263365,
+      "last_attempt_at": 1785263365,
+      "solved_at": 1785263365,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2085233540,"status":"Accepted","lang":"cpp","timestamp":1785263365,"runtime":"8 ms","memory":"8.8 MB"}
+      },
+      "submissions": [
+        {"id":2085233540,"status":"Accepted","lang":"cpp","timestamp":1785263365,"runtime":"8 ms","memory":"8.8 MB"}
+      ]
+    },
+    "construct-the-rectangle": {
+      "id": "492",
+      "title": "Construct the Rectangle",
+      "slug": "construct-the-rectangle",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0492-construct-the-rectangle",
+      "first_attempt_at": 1785265561,
+      "last_attempt_at": 1785265561,
+      "solved_at": 1785265561,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2085272891,"status":"Accepted","lang":"cpp","timestamp":1785265561,"runtime":"217 ms","memory":"8 MB"}
+      },
+      "submissions": [
+        {"id":2085272891,"status":"Accepted","lang":"cpp","timestamp":1785265561,"runtime":"217 ms","memory":"8 MB"}
+      ]
+    },
+    "perfect-number": {
+      "id": "507",
+      "title": "Perfect Number",
+      "slug": "perfect-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0507-perfect-number",
+      "first_attempt_at": 1785267697,
+      "last_attempt_at": 1785267757,
+      "solved_at": 1785267697,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2085303011,"status":"Accepted","lang":"cpp","timestamp":1785267757,"runtime":"0 ms","memory":"7.8 MB"}
+      },
+      "submissions": [
+        {"id":2085302243,"status":"Accepted","lang":"cpp","timestamp":1785267697,"runtime":null,"memory":null},
+        {"id":2085303011,"status":"Accepted","lang":"cpp","timestamp":1785267757,"runtime":"0 ms","memory":"7.8 MB"}
+      ]
+    },
+    "set-mismatch": {
+      "id": "645",
+      "title": "Set Mismatch",
+      "slug": "set-mismatch",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Bit Manipulation","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0645-set-mismatch",
+      "first_attempt_at": 1785348763,
+      "last_attempt_at": 1785348763,
+      "solved_at": 1785348763,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2086564621,"status":"Accepted","lang":"cpp","timestamp":1785348763,"runtime":"0 ms","memory":"25.2 MB"}
+      },
+      "submissions": [
+        {"id":2086564621,"status":"Accepted","lang":"cpp","timestamp":1785348763,"runtime":"0 ms","memory":"25.2 MB"}
+      ]
+    },
+    "largest-perimeter-triangle": {
+      "id": "976",
+      "title": "Largest Perimeter Triangle",
+      "slug": "largest-perimeter-triangle",
+      "difficulty": "Easy",
+      "tags": ["Array","Math","Greedy","Sorting","Quicksort","Polygons"],
+      "topic": "Array",
+      "dir": "Array/0976-largest-perimeter-triangle",
+      "first_attempt_at": 1785349604,
+      "last_attempt_at": 1785349726,
+      "solved_at": 1785349604,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2086588273,"status":"Accepted","lang":"cpp","timestamp":1785349726,"runtime":"5 ms","memory":"25.5 MB"}
+      },
+      "submissions": [
+        {"id":2086585153,"status":"Accepted","lang":"cpp","timestamp":1785349604,"runtime":null,"memory":null},
+        {"id":2086588273,"status":"Accepted","lang":"cpp","timestamp":1785349726,"runtime":"5 ms","memory":"25.5 MB"}
+      ]
+    },
+    "add-to-array-form-of-integer": {
+      "id": "989",
+      "title": "Add to Array-Form of Integer",
+      "slug": "add-to-array-form-of-integer",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/0989-add-to-array-form-of-integer",
+      "first_attempt_at": 1785351232,
+      "last_attempt_at": 1785351357,
+      "solved_at": 1785351357,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2086618789,"status":"Accepted","lang":"cpp","timestamp":1785351357,"runtime":"3 ms","memory":"31.5 MB"}
+      },
+      "submissions": [
+        {"id":2086616632,"status":"Runtime Error","lang":"cpp","timestamp":1785351232,"runtime":null,"memory":null},
+        {"id":2086618789,"status":"Accepted","lang":"cpp","timestamp":1785351357,"runtime":"3 ms","memory":"31.5 MB"}
+      ]
+    },
+    "day-of-the-year": {
+      "id": "1154",
+      "title": "Day of the Year",
+      "slug": "day-of-the-year",
+      "difficulty": "Easy",
+      "tags": ["Math","String"],
+      "topic": "Math",
+      "dir": "Math/1154-day-of-the-year",
+      "first_attempt_at": 1785422489,
+      "last_attempt_at": 1785422489,
+      "solved_at": 1785422489,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2087633946,"status":"Accepted","lang":"cpp","timestamp":1785422489,"runtime":"13 ms","memory":"12 MB"}
+      },
+      "submissions": [
+        {"id":2087633946,"status":"Accepted","lang":"cpp","timestamp":1785422489,"runtime":"13 ms","memory":"12 MB"}
+      ]
     }
   }
 }
