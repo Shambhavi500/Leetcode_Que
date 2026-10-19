@@ -1662,6 +1662,286 @@
       "submissions": [
         {"id":1921214914,"status":"Accepted","lang":"cpp","timestamp":1771257756,"runtime":"0 ms","memory":"9.2 MB"}
       ]
+    },
+    "reverse-string": {
+      "id": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0344-reverse-string",
+      "first_attempt_at": 1771481495,
+      "last_attempt_at": 1771481627,
+      "solved_at": 1771481495,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1924035072,"status":"Accepted","lang":"cpp","timestamp":1771481627,"runtime":"0 ms","memory":"27.3 MB"}
+      },
+      "submissions": [
+        {"id":1924032706,"status":"Accepted","lang":"cpp","timestamp":1771481495,"runtime":null,"memory":null},
+        {"id":1924035072,"status":"Accepted","lang":"cpp","timestamp":1771481627,"runtime":"0 ms","memory":"27.3 MB"}
+      ]
+    },
+    "reverse-degree-of-a-string": {
+      "id": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "tags": ["String","Simulation"],
+      "topic": "String",
+      "dir": "String/3498-reverse-degree-of-a-string",
+      "first_attempt_at": 1771902177,
+      "last_attempt_at": 1771902177,
+      "solved_at": 1771902177,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1929132971,"status":"Accepted","lang":"cpp","timestamp":1771902177,"runtime":"0 ms","memory":"9.7 MB"}
+      },
+      "submissions": [
+        {"id":1929132971,"status":"Accepted","lang":"cpp","timestamp":1771902177,"runtime":"0 ms","memory":"9.7 MB"}
+      ]
+    },
+    "count-the-number-of-special-characters-i": {
+      "id": "3120",
+      "title": "Count the Number of Special Characters I",
+      "slug": "count-the-number-of-special-characters-i",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/3120-count-the-number-of-special-characters-i",
+      "first_attempt_at": 1771902876,
+      "last_attempt_at": 1771902876,
+      "solved_at": 1771902876,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1929140134,"status":"Accepted","lang":"cpp","timestamp":1771902876,"runtime":"0 ms","memory":"9 MB"}
+      },
+      "submissions": [
+        {"id":1929140134,"status":"Accepted","lang":"cpp","timestamp":1771902876,"runtime":"0 ms","memory":"9 MB"}
+      ]
+    },
+    "third-maximum-number": {
+      "id": "414",
+      "title": "Third Maximum Number",
+      "slug": "third-maximum-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0414-third-maximum-number",
+      "first_attempt_at": 1774277523,
+      "last_attempt_at": 1774277523,
+      "solved_at": 1774277523,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1956802204,"status":"Accepted","lang":"cpp","timestamp":1774277523,"runtime":"0 ms","memory":"13 MB"}
+      },
+      "submissions": [
+        {"id":1956802204,"status":"Accepted","lang":"cpp","timestamp":1774277523,"runtime":"0 ms","memory":"13 MB"}
+      ]
+    },
+    "find-all-numbers-disappeared-in-an-array": {
+      "id": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "slug": "find-all-numbers-disappeared-in-an-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table"],
+      "topic": "Array",
+      "dir": "Array/0448-find-all-numbers-disappeared-in-an-array",
+      "first_attempt_at": 1774278999,
+      "last_attempt_at": 1774279230,
+      "solved_at": 1774278999,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1956825689,"status":"Accepted","lang":"cpp","timestamp":1774278999,"runtime":"17 ms","memory":"53 MB"},
+        "java": {"file":"solution.java","id":1956829462,"status":"Accepted","lang":"java","timestamp":1774279230,"runtime":"20 ms","memory":"74.3 MB"}
+      },
+      "submissions": [
+        {"id":1956825689,"status":"Accepted","lang":"cpp","timestamp":1774278999,"runtime":"17 ms","memory":"53 MB"},
+        {"id":1956829462,"status":"Accepted","lang":"java","timestamp":1774279230,"runtime":"20 ms","memory":"74.3 MB"}
+      ]
+    },
+    "ugly-number": {
+      "id": "263",
+      "title": "Ugly Number",
+      "slug": "ugly-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0263-ugly-number",
+      "first_attempt_at": 1775301092,
+      "last_attempt_at": 1775301092,
+      "solved_at": 1775301092,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1968532720,"status":"Accepted","lang":"cpp","timestamp":1775301092,"runtime":"0 ms","memory":"7.7 MB"}
+      },
+      "submissions": [
+        {"id":1968532720,"status":"Accepted","lang":"cpp","timestamp":1775301092,"runtime":"0 ms","memory":"7.7 MB"}
+      ]
+    },
+    "ugly-number-ii": {
+      "id": "264",
+      "title": "Ugly Number II",
+      "slug": "ugly-number-ii",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","Math","Dynamic Programming","Heap (Priority Queue)"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0264-ugly-number-ii",
+      "first_attempt_at": 1775301994,
+      "last_attempt_at": 1775302381,
+      "solved_at": 1775302346,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1968547529,"status":"Accepted","lang":"cpp","timestamp":1775302381,"runtime":"0 ms","memory":"11.3 MB"}
+      },
+      "submissions": [
+        {"id":1968543178,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1775301994,"runtime":null,"memory":null},
+        {"id":1968547158,"status":"Accepted","lang":"cpp","timestamp":1775302346,"runtime":null,"memory":null},
+        {"id":1968547529,"status":"Accepted","lang":"cpp","timestamp":1775302381,"runtime":"0 ms","memory":"11.3 MB"}
+      ]
+    },
+    "contains-duplicate": {
+      "id": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0217-contains-duplicate",
+      "first_attempt_at": 1777514451,
+      "last_attempt_at": 1777514451,
+      "solved_at": 1777514451,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1991429810,"status":"Accepted","lang":"cpp","timestamp":1777514451,"runtime":"29 ms","memory":"70.9 MB"}
+      },
+      "submissions": [
+        {"id":1991429810,"status":"Accepted","lang":"cpp","timestamp":1777514451,"runtime":"29 ms","memory":"70.9 MB"}
+      ]
+    },
+    "counting-bits": {
+      "id": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "difficulty": "Easy",
+      "tags": ["Dynamic Programming","Bit Manipulation"],
+      "topic": "Dynamic Programming",
+      "dir": "Dynamic-Programming/0338-counting-bits",
+      "first_attempt_at": 1784817201,
+      "last_attempt_at": 1784817201,
+      "solved_at": 1784817201,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2078507497,"status":"Accepted","lang":"cpp","timestamp":1784817201,"runtime":"0 ms","memory":"10.6 MB"}
+      },
+      "submissions": [
+        {"id":2078507497,"status":"Accepted","lang":"cpp","timestamp":1784817201,"runtime":"0 ms","memory":"10.6 MB"}
+      ]
+    },
+    "keep-multiplying-found-values-by-two": {
+      "id": "2154",
+      "title": "Keep Multiplying Found Values by Two",
+      "slug": "keep-multiplying-found-values-by-two",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Sorting","Simulation"],
+      "topic": "Array",
+      "dir": "Array/2154-keep-multiplying-found-values-by-two",
+      "first_attempt_at": 1784869472,
+      "last_attempt_at": 1784869472,
+      "solved_at": 1784869472,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2079101410,"status":"Accepted","lang":"cpp","timestamp":1784869472,"runtime":"0 ms","memory":"13.9 MB"}
+      },
+      "submissions": [
+        {"id":2079101410,"status":"Accepted","lang":"cpp","timestamp":1784869472,"runtime":"0 ms","memory":"13.9 MB"}
+      ]
+    },
+    "check-if-array-is-sorted-and-rotated": {
+      "id": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/1752-check-if-array-is-sorted-and-rotated",
+      "first_attempt_at": 1784991075,
+      "last_attempt_at": 1784991291,
+      "solved_at": 1784991291,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2080869926,"status":"Accepted","lang":"cpp","timestamp":1784991291,"runtime":"0 ms","memory":"11.2 MB"}
+      },
+      "submissions": [
+        {"id":2080866110,"status":"Wrong Answer","lang":"cpp","timestamp":1784991075,"runtime":null,"memory":null},
+        {"id":2080869926,"status":"Accepted","lang":"cpp","timestamp":1784991291,"runtime":"0 ms","memory":"11.2 MB"}
+      ]
+    },
+    "maximum-product-of-two-digits": {
+      "id": "3536",
+      "title": "Maximum Product of Two Digits",
+      "slug": "maximum-product-of-two-digits",
+      "difficulty": "Easy",
+      "tags": ["Math","Sorting"],
+      "topic": "Math",
+      "dir": "Math/3536-maximum-product-of-two-digits",
+      "first_attempt_at": 1785006921,
+      "last_attempt_at": 1785006921,
+      "solved_at": 1785006921,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2081170696,"status":"Accepted","lang":"cpp","timestamp":1785006921,"runtime":"4 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":2081170696,"status":"Accepted","lang":"cpp","timestamp":1785006921,"runtime":"4 ms","memory":"8.9 MB"}
+      ]
+    },
+    "rotate-array": {
+      "id": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0189-rotate-array",
+      "first_attempt_at": 1785044249,
+      "last_attempt_at": 1785044564,
+      "solved_at": 1785044564,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2081589439,"status":"Accepted","lang":"cpp","timestamp":1785044564,"runtime":"0 ms","memory":"31.3 MB"}
+      },
+      "submissions": [
+        {"id":2081583623,"status":"Runtime Error","lang":"cpp","timestamp":1785044249,"runtime":null,"memory":null},
+        {"id":2081589439,"status":"Accepted","lang":"cpp","timestamp":1785044564,"runtime":"0 ms","memory":"31.3 MB"}
+      ]
+    },
+    "next-permutation": {
+      "id": "31",
+      "title": "Next Permutation",
+      "slug": "next-permutation",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0031-next-permutation",
+      "first_attempt_at": 1785049179,
+      "last_attempt_at": 1785049278,
+      "solved_at": 1785049278,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2081683407,"status":"Accepted","lang":"cpp","timestamp":1785049278,"runtime":"0 ms","memory":"15.8 MB"}
+      },
+      "submissions": [
+        {"id":2081681562,"status":"Wrong Answer","lang":"cpp","timestamp":1785049179,"runtime":null,"memory":null},
+        {"id":2081682255,"status":"Wrong Answer","lang":"cpp","timestamp":1785049215,"runtime":null,"memory":null},
+        {"id":2081683407,"status":"Accepted","lang":"cpp","timestamp":1785049278,"runtime":"0 ms","memory":"15.8 MB"}
+      ]
+    },
+    "maximum-product-of-three-numbers": {
+      "id": "628",
+      "title": "Maximum Product of Three Numbers",
+      "slug": "maximum-product-of-three-numbers",
+      "difficulty": "Easy",
+      "tags": ["Array","Math","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0628-maximum-product-of-three-numbers",
+      "first_attempt_at": 1785062308,
+      "last_attempt_at": 1785063263,
+      "solved_at": 1785063263,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2081917733,"status":"Accepted","lang":"cpp","timestamp":1785063263,"runtime":"0 ms","memory":"31.6 MB"}
+      },
+      "submissions": [
+        {"id":2081900708,"status":"Wrong Answer","lang":"cpp","timestamp":1785062308,"runtime":null,"memory":null},
+        {"id":2081917733,"status":"Accepted","lang":"cpp","timestamp":1785063263,"runtime":"0 ms","memory":"31.6 MB"}
+      ]
     }
   }
 }

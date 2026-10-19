@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 55 | 54 | 1 | 29 | 22 | 4 |
+| 63 | 62 | 1 | 35 | 24 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | 11 | [Container With Most Water](../Array/0011-container-with-most-water/README.md) | Medium | Solved | 2 | cpp | 2026-01-06 |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2025-08-21 |
 | 27 | [Remove Element](../Array/0027-remove-element/README.md) | Easy | Solved | 1 | cpp | 2026-01-07 |
+| 31 | [Next Permutation](../Array/0031-next-permutation/README.md) | Medium | Solved | 3 | cpp | 2026-07-26 |
 | 33 | [Search in Rotated Sorted Array](../Array/0033-search-in-rotated-sorted-array/README.md) | Medium | Solved | 1 | cpp | 2026-01-21 |
 | 35 | [Search Insert Position](../Array/0035-search-insert-position/README.md) | Easy | Solved | 2 | cpp | 2025-08-06 |
 | 42 | [Trapping Rain Water](../Array/0042-trapping-rain-water/README.md) | Hard | Solved | 1 | cpp | 2026-01-06 |
@@ -31,13 +32,17 @@
 | 153 | [Find Minimum in Rotated Sorted Array](../Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | Solved | 2 | cpp | 2026-01-21 |
 | 162 | [Find Peak Element](../Array/0162-find-peak-element/README.md) | Medium | Solved | 1 | cpp | 2026-01-20 |
 | 169 | [Majority Element](../Array/0169-majority-element/README.md) | Easy | Solved | 1 | cpp | 2025-08-15 |
+| 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 2 | cpp | 2026-07-26 |
 | 204 | [Count Primes](../Array/0204-count-primes/README.md) | Medium | Solved | 1 | cpp | 2026-02-08 |
 | 215 | [Kth Largest Element in an Array](../Array/0215-kth-largest-element-in-an-array/README.md) | Medium | Solved | 2 | cpp | 2025-08-24 |
+| 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 1 | cpp | 2026-04-30 |
 | 239 | [Sliding Window Maximum](../Array/0239-sliding-window-maximum/README.md) | Hard | Solved | 1 | cpp | 2025-12-12 |
 | 240 | [Search a 2D Matrix II](../Array/0240-search-a-2d-matrix-ii/README.md) | Medium | Solved | 1 | cpp | 2025-11-03 |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Easy | Solved | 2 | cpp | 2025-08-24 |
 | 283 | [Move Zeroes](../Array/0283-move-zeroes/README.md) | Easy | Solved | 1 | cpp | 2025-08-16 |
 | 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Easy | Solved | 2 | cpp | 2025-08-30 |
+| 414 | [Third Maximum Number](../Array/0414-third-maximum-number/README.md) | Easy | Solved | 1 | cpp | 2026-03-23 |
+| 448 | [Find All Numbers Disappeared in an Array](../Array/0448-find-all-numbers-disappeared-in-an-array/README.md) | Easy | Solved | 2 | cpp, java | 2026-03-23 |
 | 455 | [Assign Cookies](../Array/0455-assign-cookies/README.md) | Easy | Solved | 4 | cpp | 2026-02-08 |
 | 463 | [Island Perimeter](../Array/0463-island-perimeter/README.md) | Easy | Solved | 1 | cpp | 2025-08-29 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 1 | cpp | 2025-08-30 |
@@ -46,6 +51,7 @@
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 2 | cpp | 2026-01-21 |
 | 560 | [Subarray Sum Equals K](../Array/0560-subarray-sum-equals-k/README.md) | Medium | Solved | 2 | cpp | 2026-01-23 |
 | 561 | [Array Partition](../Array/0561-array-partition/README.md) | Easy | Solved | 2 | cpp | 2026-01-25 |
+| 628 | [Maximum Product of Three Numbers](../Array/0628-maximum-product-of-three-numbers/README.md) | Easy | Solved | 2 | cpp | 2026-07-26 |
 | 682 | [Baseball Game](../Array/0682-baseball-game/README.md) | Easy | Solved | 1 | cpp | 2025-08-31 |
 | 704 | [Binary Search](../Array/0704-binary-search/README.md) | Easy | Solved | 2 | cpp | 2025-08-16 |
 | 860 | [Lemonade Change](../Array/0860-lemonade-change/README.md) | Easy | Solved | 4 | cpp | 2026-02-09 |
@@ -53,10 +59,12 @@
 | 1304 | [Find N Unique Integers Sum up to Zero](../Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | Easy | Solved | 1 | cpp | 2026-01-28 |
 | 1480 | [Running Sum of 1d Array](../Array/1480-running-sum-of-1d-array/README.md) | Easy | Solved | 1 | cpp | 2026-01-24 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](../Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Medium | Solved | 1 | cpp | 2026-01-30 |
+| 1752 | [Check if Array Is Sorted and Rotated](../Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Easy | Solved | 2 | cpp | 2026-07-25 |
 | 1877 | [Minimize Maximum Pair Sum in Array](../Array/1877-minimize-maximum-pair-sum-in-array/README.md) | Medium | Solved | 2 | cpp | 2026-01-24 |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](../Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | Easy | Solved | 1 | cpp | 2026-01-25 |
 | 2144 | [Minimum Cost of Buying Candies With Discount](../Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | Easy | Solved | 1 | cpp | 2026-01-26 |
 | 2149 | [Rearrange Array Elements by Sign](../Array/2149-rearrange-array-elements-by-sign/README.md) | Medium | Solved | 1 | cpp | 2026-01-23 |
+| 2154 | [Keep Multiplying Found Values by Two](../Array/2154-keep-multiplying-found-values-by-two/README.md) | Easy | Solved | 1 | cpp | 2026-07-24 |
 | 2347 | [Best Poker Hand](../Array/2347-best-poker-hand/README.md) | Easy | Solved | 1 | cpp | 2025-09-14 |
 | 2549 | [Count Distinct Numbers on Board](../Array/2549-count-distinct-numbers-on-board/README.md) | Easy | Solved | 3 | cpp | 2026-02-01 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |

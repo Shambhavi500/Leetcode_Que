@@ -4,21 +4,23 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 90 | 89 | 1 | 57 | 29 | 3 | 2026-10-18 |
+| 105 | 104 | 1 | 69 | 32 | 3 | 2026-10-18 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 55 | 54 | 1 | 29 | 22 | 4 |
-| [Math](Math/README.md) | 18 | 18 | 0 | 14 | 4 | 0 |
+| [Array](Array/README.md) | 63 | 62 | 1 | 35 | 24 | 4 |
+| [Math](Math/README.md) | 20 | 20 | 0 | 16 | 4 | 0 |
+| [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
-| [Hash Table](Hash-Table/README.md) | 4 | 4 | 0 | 4 | 0 | 0 |
+| [String](String/README.md) | 3 | 3 | 0 | 3 | 0 | 0 |
 | [Tree](Tree/README.md) | 3 | 3 | 0 | 2 | 1 | 0 |
-| [String](String/README.md) | 2 | 2 | 0 | 2 | 0 | 0 |
 | [Binary Search](Binary-Search/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
+| [Dynamic Programming](Dynamic-Programming/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Graph Theory](Graph-Theory/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
 | [Linked List](Linked-List/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
+| [Two Pointers](Two-Pointers/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 
 ## Not solved yet
 
@@ -31,28 +33,30 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
 | 2026-10-18 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Accepted | cpp |
+| 2026-07-26 | [628. Maximum Product of Three Numbers](Array/0628-maximum-product-of-three-numbers/README.md) | Accepted | cpp |
+| 2026-07-26 | [628. Maximum Product of Three Numbers](Array/0628-maximum-product-of-three-numbers/README.md) | Wrong Answer | cpp |
+| 2026-07-26 | [31. Next Permutation](Array/0031-next-permutation/README.md) | Accepted | cpp |
+| 2026-07-26 | [31. Next Permutation](Array/0031-next-permutation/README.md) | Wrong Answer | cpp |
+| 2026-07-26 | [31. Next Permutation](Array/0031-next-permutation/README.md) | Wrong Answer | cpp |
+| 2026-07-26 | [189. Rotate Array](Array/0189-rotate-array/README.md) | Accepted | cpp |
+| 2026-07-26 | [189. Rotate Array](Array/0189-rotate-array/README.md) | Runtime Error | cpp |
+| 2026-07-26 | [3536. Maximum Product of Two Digits](Math/3536-maximum-product-of-two-digits/README.md) | Accepted | cpp |
+| 2026-07-25 | [1752. Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Accepted | cpp |
+| 2026-07-25 | [1752. Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | Wrong Answer | cpp |
+| 2026-07-24 | [2154. Keep Multiplying Found Values by Two](Array/2154-keep-multiplying-found-values-by-two/README.md) | Accepted | cpp |
+| 2026-07-23 | [338. Counting Bits](Dynamic-Programming/0338-counting-bits/README.md) | Accepted | cpp |
 | 2026-07-02 | [560. Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | Accepted | cpp |
-| 2026-02-16 | [389. Find the Difference](Hash-Table/0389-find-the-difference/README.md) | Accepted | cpp |
-| 2026-02-15 | [67. Add Binary](Math/0067-add-binary/README.md) | Accepted | cpp |
-| 2026-02-14 | [1925. Count Square Sum Triples](Math/1925-count-square-sum-triples/README.md) | Accepted | cpp |
-| 2026-02-14 | [1925. Count Square Sum Triples](Math/1925-count-square-sum-triples/README.md) | Wrong Answer | cpp |
-| 2026-02-14 | [69. Sqrt(x)](Math/0069-sqrtx/README.md) | Accepted | cpp |
-| 2026-02-14 | [69. Sqrt(x)](Math/0069-sqrtx/README.md) | Runtime Error | cpp |
-| 2026-02-13 | [367. Valid Perfect Square](Math/0367-valid-perfect-square/README.md) | Accepted | cpp |
-| 2026-02-13 | [367. Valid Perfect Square](Math/0367-valid-perfect-square/README.md) | Accepted | cpp |
-| 2026-02-13 | [374. Guess Number Higher or Lower](Binary-Search/0374-guess-number-higher-or-lower/README.md) | Accepted | cpp |
-| 2026-02-13 | [374. Guess Number Higher or Lower](Binary-Search/0374-guess-number-higher-or-lower/README.md) | Time Limit Exceeded | cpp |
-| 2026-02-11 | [225. Implement Stack using Queues](Stack/0225-implement-stack-using-queues/README.md) | Accepted | cpp |
-| 2026-02-09 | [860. Lemonade Change](Array/0860-lemonade-change/README.md) | Accepted | cpp |
-| 2026-02-09 | [860. Lemonade Change](Array/0860-lemonade-change/README.md) | Accepted | cpp |
+| 2026-04-30 | [217. Contains Duplicate](Array/0217-contains-duplicate/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
 | 2026-10 | 0 | 1 |
-| 2026-07 | 0 | 1 |
-| 2026-02 | 16 | 30 |
+| 2026-07 | 7 | 13 |
+| 2026-04 | 3 | 5 |
+| 2026-03 | 2 | 3 |
+| 2026-02 | 19 | 34 |
 | 2026-01 | 32 | 47 |
 | 2025-12 | 3 | 3 |
 | 2025-11 | 8 | 8 |
@@ -71,6 +75,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 26 | [Remove Duplicates from Sorted Array](Array/0026-remove-duplicates-from-sorted-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-21 | 2025-08-21 |
 | 27 | [Remove Element](Array/0027-remove-element/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-07 | 2026-01-07 |
 | 29 | [Divide Two Integers](Math/0029-divide-two-integers/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2026-01-05 | 2026-01-05 |
+| 31 | [Next Permutation](Array/0031-next-permutation/README.md) | [Array](Array/README.md) | Medium | Solved | 3 | 2026-07-26 | 2026-07-26 |
 | 33 | [Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-21 | 2026-01-21 |
 | 35 | [Search Insert Position](Array/0035-search-insert-position/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-08-06 | 2025-08-06 |
 | 42 | [Trapping Rain Water](Array/0042-trapping-rain-water/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-01-06 | 2026-01-06 |
@@ -104,9 +109,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 162 | [Find Peak Element](Array/0162-find-peak-element/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-20 | 2026-01-20 |
 | 169 | [Majority Element](Array/0169-majority-element/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-15 | 2025-08-15 |
 | 172 | [Factorial Trailing Zeroes](Math/0172-factorial-trailing-zeroes/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2025-08-27 | 2025-08-27 |
+| 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-07-26 | 2026-07-26 |
 | 202 | [Happy Number](Hash-Table/0202-happy-number/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-02 | 2026-02-02 |
 | 204 | [Count Primes](Array/0204-count-primes/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-02-08 | 2026-02-08 |
 | 215 | [Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-08-24 | 2025-08-24 |
+| 217 | [Contains Duplicate](Array/0217-contains-duplicate/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-04-30 | 2026-04-30 |
 | 225 | [Implement Stack using Queues](Stack/0225-implement-stack-using-queues/README.md) | [Stack](Stack/README.md) | Easy | Solved | 1 | 2026-02-11 | 2026-02-11 |
 | 231 | [Power of Two](Math/0231-power-of-two/README.md) | [Math](Math/README.md) | Easy | Solved | 3 | 2025-08-05 | 2025-08-05 |
 | 234 | [Palindrome Linked List](Linked-List/0234-palindrome-linked-list/README.md) | [Linked List](Linked-List/README.md) | Easy | Solved | 1 | 2025-11-03 | 2025-11-03 |
@@ -114,15 +121,21 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 240 | [Search a 2D Matrix II](Array/0240-search-a-2d-matrix-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-11-03 | 2025-11-03 |
 | 242 | [Valid Anagram](Hash-Table/0242-valid-anagram/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-01-16 | 2026-01-16 |
 | 258 | [Add Digits](Math/0258-add-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2025-08-29 | 2025-08-29 |
+| 263 | [Ugly Number](Math/0263-ugly-number/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-04-04 | 2026-04-04 |
+| 264 | [Ugly Number II](Hash-Table/0264-ugly-number-ii/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 3 | 2026-04-04 | 2026-04-04 |
 | 268 | [Missing Number](Array/0268-missing-number/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-08-24 | 2025-08-24 |
 | 283 | [Move Zeroes](Array/0283-move-zeroes/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-16 | 2025-08-16 |
 | 326 | [Power of Three](Math/0326-power-of-three/README.md) | [Math](Math/README.md) | Easy | Solved | 4 | 2025-08-05 | 2025-08-05 |
+| 338 | [Counting Bits](Dynamic-Programming/0338-counting-bits/README.md) | [Dynamic Programming](Dynamic-Programming/README.md) | Easy | Solved | 1 | 2026-07-23 | 2026-07-23 |
 | 342 | [Power of Four](Math/0342-power-of-four/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-08-05 | 2025-08-05 |
+| 344 | [Reverse String](Two-Pointers/0344-reverse-string/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 2 | 2026-02-19 | 2026-02-19 |
 | 349 | [Intersection of Two Arrays](Array/0349-intersection-of-two-arrays/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-08-30 | 2025-08-30 |
 | 367 | [Valid Perfect Square](Math/0367-valid-perfect-square/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2026-02-13 | 2026-02-13 |
 | 374 | [Guess Number Higher or Lower](Binary-Search/0374-guess-number-higher-or-lower/README.md) | [Binary Search](Binary-Search/README.md) | Easy | Solved | 2 | 2026-02-13 | 2026-02-13 |
 | 389 | [Find the Difference](Hash-Table/0389-find-the-difference/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-02-16 | 2026-02-16 |
 | 412 | [Fizz Buzz](Math/0412-fizz-buzz/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-09-13 | 2025-09-13 |
+| 414 | [Third Maximum Number](Array/0414-third-maximum-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-03-23 | 2026-03-23 |
+| 448 | [Find All Numbers Disappeared in an Array](Array/0448-find-all-numbers-disappeared-in-an-array/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-03-23 | 2026-03-23 |
 | 455 | [Assign Cookies](Array/0455-assign-cookies/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-02-08 | 2026-02-08 |
 | 463 | [Island Perimeter](Array/0463-island-perimeter/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-29 | 2025-08-29 |
 | 485 | [Max Consecutive Ones](Array/0485-max-consecutive-ones/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-30 | 2025-08-30 |
@@ -132,6 +145,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 540 | [Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-21 | 2026-01-21 |
 | 560 | [Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-23 | 2026-01-23 |
 | 561 | [Array Partition](Array/0561-array-partition/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-01-25 | 2026-01-25 |
+| 628 | [Maximum Product of Three Numbers](Array/0628-maximum-product-of-three-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-26 | 2026-07-26 |
 | 682 | [Baseball Game](Array/0682-baseball-game/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-31 | 2025-08-31 |
 | 704 | [Binary Search](Array/0704-binary-search/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-08-16 | 2025-08-16 |
 | 860 | [Lemonade Change](Array/0860-lemonade-change/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-02-09 | 2026-02-09 |
@@ -139,17 +153,22 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1304 | [Find N Unique Integers Sum up to Zero](Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-28 | 2026-01-28 |
 | 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-24 | 2026-01-24 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-30 | 2026-01-30 |
+| 1752 | [Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-25 | 2026-07-25 |
 | 1877 | [Minimize Maximum Pair Sum in Array](Array/1877-minimize-maximum-pair-sum-in-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-24 | 2026-01-24 |
 | 1925 | [Count Square Sum Triples](Math/1925-count-square-sum-triples/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2026-02-14 | 2026-02-14 |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-25 | 2026-01-25 |
 | 2144 | [Minimum Cost of Buying Candies With Discount](Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-26 | 2026-01-26 |
 | 2149 | [Rearrange Array Elements by Sign](Array/2149-rearrange-array-elements-by-sign/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-23 | 2026-01-23 |
+| 2154 | [Keep Multiplying Found Values by Two](Array/2154-keep-multiplying-found-values-by-two/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-24 | 2026-07-24 |
 | 2235 | [Add Two Integers](Math/2235-add-two-integers/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-11-06 | 2025-11-06 |
 | 2347 | [Best Poker Hand](Array/2347-best-poker-hand/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-14 | 2025-09-14 |
 | 2525 | [Categorize Box According to Criteria](Math/2525-categorize-box-according-to-criteria/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2025-09-14 | 2025-09-14 |
 | 2549 | [Count Distinct Numbers on Board](Array/2549-count-distinct-numbers-on-board/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2026-02-01 | 2026-02-01 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
+| 3120 | [Count the Number of Special Characters I](Hash-Table/3120-count-the-number-of-special-characters-i/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-02-24 | 2026-02-24 |
+| 3498 | [Reverse Degree of a String](String/3498-reverse-degree-of-a-string/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-02-24 | 2026-02-24 |
 | 3507 | [Minimum Pair Removal to Sort Array I](Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-23 | 2026-01-23 |
 | 3510 | [Minimum Pair Removal to Sort Array II](Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | [Array](Array/README.md) | Hard | Attempted | 1 | 2026-01-23 | - |
+| 3536 | [Maximum Product of Two Digits](Math/3536-maximum-product-of-two-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-26 | 2026-07-26 |
 | 3637 | [Trionic Array I](Array/3637-trionic-array-i/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-02-03 | 2026-02-03 |
 | 3650 | [Minimum Cost Path with Edge Reversals](Graph-Theory/3650-minimum-cost-path-with-edge-reversals/README.md) | [Graph Theory](Graph-Theory/README.md) | Medium | Solved | 3 | 2026-01-27 | 2026-01-27 |
