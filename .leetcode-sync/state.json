@@ -281,6 +281,281 @@
       "submissions": [
         {"id":1746944840,"status":"Accepted","lang":"cpp","timestamp":1756058940,"runtime":"0 ms","memory":"11.5 MB"}
       ]
+    },
+    "merge-sorted-array": {
+      "id": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0088-merge-sorted-array",
+      "first_attempt_at": 1756149049,
+      "last_attempt_at": 1756149049,
+      "solved_at": 1756149049,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1748175487,"status":"Accepted","lang":"cpp","timestamp":1756149049,"runtime":"0 ms","memory":"12.3 MB"}
+      },
+      "submissions": [
+        {"id":1748175487,"status":"Accepted","lang":"cpp","timestamp":1756149049,"runtime":"0 ms","memory":"12.3 MB"}
+      ]
+    },
+    "factorial-trailing-zeroes": {
+      "id": "172",
+      "title": "Factorial Trailing Zeroes",
+      "slug": "factorial-trailing-zeroes",
+      "difficulty": "Medium",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0172-factorial-trailing-zeroes",
+      "first_attempt_at": 1756235310,
+      "last_attempt_at": 1756235310,
+      "solved_at": 1756235310,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1749442493,"status":"Accepted","lang":"cpp","timestamp":1756235310,"runtime":"0 ms","memory":"8.1 MB"}
+      },
+      "submissions": [
+        {"id":1749442493,"status":"Accepted","lang":"cpp","timestamp":1756235310,"runtime":"0 ms","memory":"8.1 MB"}
+      ]
+    },
+    "add-digits": {
+      "id": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "difficulty": "Easy",
+      "tags": ["Math","Simulation","Number Theory"],
+      "topic": "Math",
+      "dir": "Math/0258-add-digits",
+      "first_attempt_at": 1756410610,
+      "last_attempt_at": 1756410884,
+      "solved_at": 1756410610,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1751743763,"status":"Accepted","lang":"cpp","timestamp":1756410610,"runtime":"0 ms","memory":"8.7 MB"}
+      },
+      "submissions": [
+        {"id":1751743763,"status":"Accepted","lang":"cpp","timestamp":1756410610,"runtime":"0 ms","memory":"8.7 MB"},
+        {"id":1751746998,"status":"Wrong Answer","lang":"cpp","timestamp":1756410884,"runtime":null,"memory":null}
+      ]
+    },
+    "valid-parentheses": {
+      "id": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "tags": ["String","Stack","Bracket Sequences"],
+      "topic": "String",
+      "dir": "String/0020-valid-parentheses",
+      "first_attempt_at": 1756470774,
+      "last_attempt_at": 1756470774,
+      "solved_at": 1756470774,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1752400088,"status":"Accepted","lang":"cpp","timestamp":1756470774,"runtime":"1 ms","memory":"8.7 MB"}
+      },
+      "submissions": [
+        {"id":1752400088,"status":"Accepted","lang":"cpp","timestamp":1756470774,"runtime":"1 ms","memory":"8.7 MB"}
+      ]
+    },
+    "island-perimeter": {
+      "id": "463",
+      "title": "Island Perimeter",
+      "slug": "island-perimeter",
+      "difficulty": "Easy",
+      "tags": ["Array","Depth-First Search","Breadth-First Search","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0463-island-perimeter",
+      "first_attempt_at": 1756475699,
+      "last_attempt_at": 1756475699,
+      "solved_at": 1756475699,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1752474776,"status":"Accepted","lang":"cpp","timestamp":1756475699,"runtime":"12 ms","memory":"102.1 MB"}
+      },
+      "submissions": [
+        {"id":1752474776,"status":"Accepted","lang":"cpp","timestamp":1756475699,"runtime":"12 ms","memory":"102.1 MB"}
+      ]
+    },
+    "max-consecutive-ones": {
+      "id": "485",
+      "title": "Max Consecutive Ones",
+      "slug": "max-consecutive-ones",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/0485-max-consecutive-ones",
+      "first_attempt_at": 1756560231,
+      "last_attempt_at": 1756560231,
+      "solved_at": 1756560231,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1753522508,"status":"Accepted","lang":"cpp","timestamp":1756560231,"runtime":"0 ms","memory":"50.2 MB"}
+      },
+      "submissions": [
+        {"id":1753522508,"status":"Accepted","lang":"cpp","timestamp":1756560231,"runtime":"0 ms","memory":"50.2 MB"}
+      ]
+    },
+    "intersection-of-two-arrays": {
+      "id": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Two Pointers","Binary Search","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0349-intersection-of-two-arrays",
+      "first_attempt_at": 1756578418,
+      "last_attempt_at": 1756578713,
+      "solved_at": 1756578418,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1753931714,"status":"Accepted","lang":"cpp","timestamp":1756578713,"runtime":"3 ms","memory":"14.6 MB"}
+      },
+      "submissions": [
+        {"id":1753926230,"status":"Accepted","lang":"cpp","timestamp":1756578418,"runtime":null,"memory":null},
+        {"id":1753931714,"status":"Accepted","lang":"cpp","timestamp":1756578713,"runtime":"3 ms","memory":"14.6 MB"}
+      ]
+    },
+    "baseball-game": {
+      "id": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "difficulty": "Easy",
+      "tags": ["Array","Stack","Simulation"],
+      "topic": "Array",
+      "dir": "Array/0682-baseball-game",
+      "first_attempt_at": 1756628672,
+      "last_attempt_at": 1756628672,
+      "solved_at": 1756628672,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1754527099,"status":"Accepted","lang":"cpp","timestamp":1756628672,"runtime":"0 ms","memory":"12 MB"}
+      },
+      "submissions": [
+        {"id":1754527099,"status":"Accepted","lang":"cpp","timestamp":1756628672,"runtime":"0 ms","memory":"12 MB"}
+      ]
+    },
+    "next-greater-element-ii": {
+      "id": "503",
+      "title": "Next Greater Element II",
+      "slug": "next-greater-element-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Stack","Monotonic Stack"],
+      "topic": "Array",
+      "dir": "Array/0503-next-greater-element-ii",
+      "first_attempt_at": 1756740648,
+      "last_attempt_at": 1756740648,
+      "solved_at": 1756740648,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1755994384,"status":"Accepted","lang":"cpp","timestamp":1756740648,"runtime":"112 ms","memory":"27.9 MB"}
+      },
+      "submissions": [
+        {"id":1755994384,"status":"Accepted","lang":"cpp","timestamp":1756740648,"runtime":"112 ms","memory":"27.9 MB"}
+      ]
+    },
+    "best-time-to-buy-and-sell-stock": {
+      "id": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0121-best-time-to-buy-and-sell-stock",
+      "first_attempt_at": 1757259100,
+      "last_attempt_at": 1757259380,
+      "solved_at": 1757259380,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1762812520,"status":"Accepted","lang":"cpp","timestamp":1757259380,"runtime":"0 ms","memory":"97.2 MB"}
+      },
+      "submissions": [
+        {"id":1762807978,"status":"Wrong Answer","lang":"cpp","timestamp":1757259100,"runtime":null,"memory":null},
+        {"id":1762812520,"status":"Accepted","lang":"cpp","timestamp":1757259380,"runtime":"0 ms","memory":"97.2 MB"}
+      ]
+    },
+    "best-time-to-buy-and-sell-stock-ii": {
+      "id": "122",
+      "title": "Best Time to Buy and Sell Stock II",
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0122-best-time-to-buy-and-sell-stock-ii",
+      "first_attempt_at": 1757261003,
+      "last_attempt_at": 1757261003,
+      "solved_at": 1757261003,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1762839158,"status":"Accepted","lang":"cpp","timestamp":1757261003,"runtime":"3 ms","memory":"17.2 MB"}
+      },
+      "submissions": [
+        {"id":1762839158,"status":"Accepted","lang":"cpp","timestamp":1757261003,"runtime":"3 ms","memory":"17.2 MB"}
+      ]
+    },
+    "climbing-stairs": {
+      "id": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "difficulty": "Easy",
+      "tags": ["Math","Dynamic Programming","Memoization"],
+      "topic": "Math",
+      "dir": "Math/0070-climbing-stairs",
+      "first_attempt_at": 1757351134,
+      "last_attempt_at": 1757351492,
+      "solved_at": 1757351492,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1764063655,"status":"Accepted","lang":"cpp","timestamp":1757351492,"runtime":"0 ms","memory":"7.8 MB"}
+      },
+      "submissions": [
+        {"id":1764055479,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1757351134,"runtime":null,"memory":null},
+        {"id":1764063655,"status":"Accepted","lang":"cpp","timestamp":1757351492,"runtime":"0 ms","memory":"7.8 MB"}
+      ]
+    },
+    "fizz-buzz": {
+      "id": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "difficulty": "Easy",
+      "tags": ["Math","String","Simulation"],
+      "topic": "Math",
+      "dir": "Math/0412-fizz-buzz",
+      "first_attempt_at": 1757787479,
+      "last_attempt_at": 1757787479,
+      "solved_at": 1757787479,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1769697179,"status":"Accepted","lang":"cpp","timestamp":1757787479,"runtime":"0 ms","memory":"11.7 MB"}
+      },
+      "submissions": [
+        {"id":1769697179,"status":"Accepted","lang":"cpp","timestamp":1757787479,"runtime":"0 ms","memory":"11.7 MB"}
+      ]
+    },
+    "categorize-box-according-to-criteria": {
+      "id": "2525",
+      "title": "Categorize Box According to Criteria",
+      "slug": "categorize-box-according-to-criteria",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/2525-categorize-box-according-to-criteria",
+      "first_attempt_at": 1757788776,
+      "last_attempt_at": 1757788912,
+      "solved_at": 1757788776,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1769721448,"status":"Accepted","lang":"cpp","timestamp":1757788912,"runtime":"0 ms","memory":"7.9 MB"}
+      },
+      "submissions": [
+        {"id":1769719316,"status":"Accepted","lang":"cpp","timestamp":1757788776,"runtime":null,"memory":null},
+        {"id":1769721448,"status":"Accepted","lang":"cpp","timestamp":1757788912,"runtime":"0 ms","memory":"7.9 MB"}
+      ]
+    },
+    "best-poker-hand": {
+      "id": "2347",
+      "title": "Best Poker Hand",
+      "slug": "best-poker-hand",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Counting"],
+      "topic": "Array",
+      "dir": "Array/2347-best-poker-hand",
+      "first_attempt_at": 1757791625,
+      "last_attempt_at": 1757791625,
+      "solved_at": 1757791625,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1769759416,"status":"Accepted","lang":"cpp","timestamp":1757791625,"runtime":"0 ms","memory":"12.2 MB"}
+      },
+      "submissions": [
+        {"id":1769759416,"status":"Accepted","lang":"cpp","timestamp":1757791625,"runtime":"0 ms","memory":"12.2 MB"}
+      ]
     }
   }
 }
