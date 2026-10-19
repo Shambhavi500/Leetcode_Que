@@ -4,15 +4,15 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 135 | 133 | 2 | 95 | 35 | 3 | 2026-10-18 |
+| 150 | 148 | 2 | 108 | 37 | 3 | 2026-10-18 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 76 | 74 | 2 | 44 | 28 | 4 |
+| [Database](Database/README.md) | 26 | 26 | 0 | 24 | 2 | 0 |
 | [Math](Math/README.md) | 26 | 26 | 0 | 22 | 4 | 0 |
-| [Database](Database/README.md) | 11 | 11 | 0 | 11 | 0 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
 | [String](String/README.md) | 3 | 3 | 0 | 3 | 0 | 0 |
@@ -35,26 +35,26 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
 | 2026-10-18 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Accepted | cpp |
-| 2026-10-05 | [175. Combine Two Tables](Database/0175-combine-two-tables/README.md) | Accepted | mysql |
-| 2026-10-05 | [577. Employee Bonus](Database/0577-employee-bonus/README.md) | Accepted | mysql |
-| 2026-10-03 | [197. Rising Temperature](Database/0197-rising-temperature/README.md) | Accepted | mysql |
-| 2026-10-03 | [1581. Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Accepted | mysql |
-| 2026-10-03 | [1068. Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | Accepted | mysql |
-| 2026-10-03 | [1378. Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Accepted | mysql |
-| 2026-10-02 | [1683. Invalid Tweets](Database/1683-invalid-tweets/README.md) | Accepted | mysql |
-| 2026-10-02 | [1148. Article Views I](Database/1148-article-views-i/README.md) | Accepted | mysql |
-| 2026-10-02 | [595. Big Countries](Database/0595-big-countries/README.md) | Accepted | mysql |
-| 2026-10-02 | [584. Find Customer Referee](Database/0584-find-customer-referee/README.md) | Accepted | mysql |
-| 2026-10-02 | [1757. Recyclable and Low Fat Products](Database/1757-recyclable-and-low-fat-products/README.md) | Accepted | mysql |
-| 2026-08-06 | [3345. Smallest Divisible Digit Product I](Math/3345-smallest-divisible-digit-product-i/README.md) | Accepted | cpp |
-| 2026-08-04 | [3731. Find Missing Elements](Array/3731-find-missing-elements/README.md) | Accepted | cpp |
-| 2026-08-01 | [486. Predict the Winner](Array/0486-predict-the-winner/README.md) | Accepted | cpp |
+| 2026-10-10 | [610. Triangle Judgement](Database/0610-triangle-judgement/README.md) | Accepted | mysql |
+| 2026-10-10 | [619. Biggest Single Number](Database/0619-biggest-single-number/README.md) | Accepted | mysql |
+| 2026-10-10 | [596. Classes With at Least 5 Students](Database/0596-classes-with-at-least-5-students/README.md) | Accepted | mysql |
+| 2026-10-10 | [1729. Find Followers Count](Database/1729-find-followers-count/README.md) | Accepted | mysql |
+| 2026-10-09 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Accepted | mysql |
+| 2026-10-09 | [1141. User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | Wrong Answer | mysql |
+| 2026-10-09 | [2356. Number of Unique Subjects Taught by Each Teacher](Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | Accepted | mysql |
+| 2026-10-09 | [1211. Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | Accepted | mysql |
+| 2026-10-08 | [1211. Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | Accepted | mysql |
+| 2026-10-08 | [1633. Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | Accepted | mysql |
+| 2026-10-07 | [1075. Project Employees I](Database/1075-project-employees-i/README.md) | Accepted | mysql |
+| 2026-10-07 | [1251. Average Selling Price](Database/1251-average-selling-price/README.md) | Accepted | mysql |
+| 2026-10-07 | [1251. Average Selling Price](Database/1251-average-selling-price/README.md) | Wrong Answer | mysql |
+| 2026-10-07 | [1934. Confirmation Rate](Database/1934-confirmation-rate/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 11 | 12 |
+| 2026-10 | 26 | 32 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -157,11 +157,16 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 540 | [Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-21 | 2026-01-21 |
 | 560 | [Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-23 | 2026-01-23 |
 | 561 | [Array Partition](Array/0561-array-partition/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-01-25 | 2026-01-25 |
+| 570 | [Managers with at Least 5 Direct Reports](Database/0570-managers-with-at-least-5-direct-reports/README.md) | [Database](Database/README.md) | Medium | Solved | 2 | 2026-10-07 | 2026-10-07 |
 | 575 | [Distribute Candies](Array/0575-distribute-candies/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-28 | 2026-07-28 |
 | 577 | [Employee Bonus](Database/0577-employee-bonus/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-05 | 2026-10-05 |
 | 584 | [Find Customer Referee](Database/0584-find-customer-referee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
+| 596 | [Classes With at Least 5 Students](Database/0596-classes-with-at-least-5-students/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
 | 605 | [Can Place Flowers](Array/0605-can-place-flowers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-28 | 2026-07-28 |
+| 610 | [Triangle Judgement](Database/0610-triangle-judgement/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
+| 619 | [Biggest Single Number](Database/0619-biggest-single-number/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
+| 620 | [Not Boring Movies](Database/0620-not-boring-movies/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-07 | 2026-10-07 |
 | 628 | [Maximum Product of Three Numbers](Array/0628-maximum-product-of-three-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-26 | 2026-07-26 |
 | 645 | [Set Mismatch](Array/0645-set-mismatch/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-29 | 2026-07-29 |
 | 682 | [Baseball Game](Array/0682-baseball-game/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-31 | 2025-08-31 |
@@ -170,26 +175,36 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 976 | [Largest Perimeter Triangle](Array/0976-largest-perimeter-triangle/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-29 | 2026-07-29 |
 | 989 | [Add to Array-Form of Integer](Array/0989-add-to-array-form-of-integer/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-30 | 2026-07-30 |
 | 1068 | [Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
+| 1075 | [Project Employees I](Database/1075-project-employees-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-07 | 2026-10-07 |
+| 1141 | [User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-09 | 2026-10-09 |
 | 1148 | [Article Views I](Database/1148-article-views-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 1154 | [Day of the Year](Math/1154-day-of-the-year/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-30 | 2026-07-30 |
 | 1200 | [Minimum Absolute Difference](Array/1200-minimum-absolute-difference/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-26 | 2026-01-26 |
+| 1211 | [Queries Quality and Percentage](Database/1211-queries-quality-and-percentage/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-08 | 2026-10-08 |
+| 1251 | [Average Selling Price](Database/1251-average-selling-price/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-07 | 2026-10-07 |
+| 1280 | [Students and Examinations](Database/1280-students-and-examinations/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-06 | 2026-10-06 |
 | 1304 | [Find N Unique Integers Sum up to Zero](Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-28 | 2026-01-28 |
 | 1378 | [Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
 | 1464 | [Maximum Product of Two Elements in an Array](Array/1464-maximum-product-of-two-elements-in-an-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-27 | 2026-07-27 |
 | 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-24 | 2026-01-24 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-30 | 2026-01-30 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
+| 1633 | [Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-08 | 2026-10-08 |
+| 1661 | [Average Time of Process per Machine](Database/1661-average-time-of-process-per-machine/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-06 | 2026-10-06 |
 | 1683 | [Invalid Tweets](Database/1683-invalid-tweets/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
+| 1729 | [Find Followers Count](Database/1729-find-followers-count/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
 | 1752 | [Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-25 | 2026-07-25 |
 | 1757 | [Recyclable and Low Fat Products](Database/1757-recyclable-and-low-fat-products/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 1877 | [Minimize Maximum Pair Sum in Array](Array/1877-minimize-maximum-pair-sum-in-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-24 | 2026-01-24 |
 | 1925 | [Count Square Sum Triples](Math/1925-count-square-sum-triples/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2026-02-14 | 2026-02-14 |
+| 1934 | [Confirmation Rate](Database/1934-confirmation-rate/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-07 | 2026-10-07 |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-25 | 2026-01-25 |
 | 2144 | [Minimum Cost of Buying Candies With Discount](Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-26 | 2026-01-26 |
 | 2149 | [Rearrange Array Elements by Sign](Array/2149-rearrange-array-elements-by-sign/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-23 | 2026-01-23 |
 | 2154 | [Keep Multiplying Found Values by Two](Array/2154-keep-multiplying-found-values-by-two/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-24 | 2026-07-24 |
 | 2235 | [Add Two Integers](Math/2235-add-two-integers/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-11-06 | 2025-11-06 |
 | 2347 | [Best Poker Hand](Array/2347-best-poker-hand/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-14 | 2025-09-14 |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](Database/2356-number-of-unique-subjects-taught-by-each-teacher/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-09 | 2026-10-09 |
 | 2525 | [Categorize Box According to Criteria](Math/2525-categorize-box-according-to-criteria/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2025-09-14 | 2025-09-14 |
 | 2549 | [Count Distinct Numbers on Board](Array/2549-count-distinct-numbers-on-board/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2026-02-01 | 2026-02-01 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |

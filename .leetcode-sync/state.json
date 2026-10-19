@@ -2494,6 +2494,281 @@
       "submissions": [
         {"id":2163449673,"status":"Accepted","lang":"mysql","timestamp":1791222519,"runtime":"648 ms","memory":"0B"}
       ]
+    },
+    "average-time-of-process-per-machine": {
+      "id": "1661",
+      "title": "Average Time of Process per Machine",
+      "slug": "average-time-of-process-per-machine",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1661-average-time-of-process-per-machine",
+      "first_attempt_at": 1791270987,
+      "last_attempt_at": 1791270987,
+      "solved_at": 1791270987,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2163965659,"status":"Accepted","lang":"mysql","timestamp":1791270987,"runtime":"239 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2163965659,"status":"Accepted","lang":"mysql","timestamp":1791270987,"runtime":"239 ms","memory":"0B"}
+      ]
+    },
+    "students-and-examinations": {
+      "id": "1280",
+      "title": "Students and Examinations",
+      "slug": "students-and-examinations",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1280-students-and-examinations",
+      "first_attempt_at": 1791272498,
+      "last_attempt_at": 1791272498,
+      "solved_at": 1791272498,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2163983872,"status":"Accepted","lang":"mysql","timestamp":1791272498,"runtime":"985 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2163983872,"status":"Accepted","lang":"mysql","timestamp":1791272498,"runtime":"985 ms","memory":"0B"}
+      ]
+    },
+    "managers-with-at-least-5-direct-reports": {
+      "id": "570",
+      "title": "Managers with at Least 5 Direct Reports",
+      "slug": "managers-with-at-least-5-direct-reports",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0570-managers-with-at-least-5-direct-reports",
+      "first_attempt_at": 1791354625,
+      "last_attempt_at": 1791354675,
+      "solved_at": 1791354675,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2164996332,"status":"Accepted","lang":"mysql","timestamp":1791354675,"runtime":"356 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2164995601,"status":"Wrong Answer","lang":"mysql","timestamp":1791354625,"runtime":null,"memory":null},
+        {"id":2164996332,"status":"Accepted","lang":"mysql","timestamp":1791354675,"runtime":"356 ms","memory":"0B"}
+      ]
+    },
+    "not-boring-movies": {
+      "id": "620",
+      "title": "Not Boring Movies",
+      "slug": "not-boring-movies",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0620-not-boring-movies",
+      "first_attempt_at": 1791355265,
+      "last_attempt_at": 1791355317,
+      "solved_at": 1791355317,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2165006095,"status":"Accepted","lang":"mysql","timestamp":1791355317,"runtime":"337 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2165005299,"status":"Wrong Answer","lang":"mysql","timestamp":1791355265,"runtime":null,"memory":null},
+        {"id":2165006095,"status":"Accepted","lang":"mysql","timestamp":1791355317,"runtime":"337 ms","memory":"0B"}
+      ]
+    },
+    "confirmation-rate": {
+      "id": "1934",
+      "title": "Confirmation Rate",
+      "slug": "confirmation-rate",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1934-confirmation-rate",
+      "first_attempt_at": 1791356682,
+      "last_attempt_at": 1791356682,
+      "solved_at": 1791356682,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2165025709,"status":"Accepted","lang":"mysql","timestamp":1791356682,"runtime":"713 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2165025709,"status":"Accepted","lang":"mysql","timestamp":1791356682,"runtime":"713 ms","memory":"0B"}
+      ]
+    },
+    "average-selling-price": {
+      "id": "1251",
+      "title": "Average Selling Price",
+      "slug": "average-selling-price",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1251-average-selling-price",
+      "first_attempt_at": 1791357635,
+      "last_attempt_at": 1791357684,
+      "solved_at": 1791357684,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2165038438,"status":"Accepted","lang":"mysql","timestamp":1791357684,"runtime":"904 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2165037868,"status":"Wrong Answer","lang":"mysql","timestamp":1791357635,"runtime":null,"memory":null},
+        {"id":2165038438,"status":"Accepted","lang":"mysql","timestamp":1791357684,"runtime":"904 ms","memory":"0B"}
+      ]
+    },
+    "project-employees-i": {
+      "id": "1075",
+      "title": "Project Employees I",
+      "slug": "project-employees-i",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1075-project-employees-i",
+      "first_attempt_at": 1791367425,
+      "last_attempt_at": 1791367425,
+      "solved_at": 1791367425,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2165158857,"status":"Accepted","lang":"mysql","timestamp":1791367425,"runtime":"558 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2165158857,"status":"Accepted","lang":"mysql","timestamp":1791367425,"runtime":"558 ms","memory":"0B"}
+      ]
+    },
+    "percentage-of-users-attended-a-contest": {
+      "id": "1633",
+      "title": "Percentage of Users Attended a Contest",
+      "slug": "percentage-of-users-attended-a-contest",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1633-percentage-of-users-attended-a-contest",
+      "first_attempt_at": 1791483221,
+      "last_attempt_at": 1791483221,
+      "solved_at": 1791483221,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2166642820,"status":"Accepted","lang":"mysql","timestamp":1791483221,"runtime":"1191 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2166642820,"status":"Accepted","lang":"mysql","timestamp":1791483221,"runtime":"1191 ms","memory":"0B"}
+      ]
+    },
+    "queries-quality-and-percentage": {
+      "id": "1211",
+      "title": "Queries Quality and Percentage",
+      "slug": "queries-quality-and-percentage",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1211-queries-quality-and-percentage",
+      "first_attempt_at": 1791483664,
+      "last_attempt_at": 1791566716,
+      "solved_at": 1791483664,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2167523656,"status":"Accepted","lang":"mysql","timestamp":1791566716,"runtime":"459 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2166651088,"status":"Accepted","lang":"mysql","timestamp":1791483664,"runtime":null,"memory":null},
+        {"id":2167523656,"status":"Accepted","lang":"mysql","timestamp":1791566716,"runtime":"459 ms","memory":"0B"}
+      ]
+    },
+    "number-of-unique-subjects-taught-by-each-teacher": {
+      "id": "2356",
+      "title": "Number of Unique Subjects Taught by Each Teacher",
+      "slug": "number-of-unique-subjects-taught-by-each-teacher",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/2356-number-of-unique-subjects-taught-by-each-teacher",
+      "first_attempt_at": 1791567712,
+      "last_attempt_at": 1791567712,
+      "solved_at": 1791567712,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2167541003,"status":"Accepted","lang":"mysql","timestamp":1791567712,"runtime":"588 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2167541003,"status":"Accepted","lang":"mysql","timestamp":1791567712,"runtime":"588 ms","memory":"0B"}
+      ]
+    },
+    "user-activity-for-the-past-30-days-i": {
+      "id": "1141",
+      "title": "User Activity for the Past 30 Days I",
+      "slug": "user-activity-for-the-past-30-days-i",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1141-user-activity-for-the-past-30-days-i",
+      "first_attempt_at": 1791568394,
+      "last_attempt_at": 1791568462,
+      "solved_at": 1791568462,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2167554089,"status":"Accepted","lang":"mysql","timestamp":1791568462,"runtime":"589 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2167552921,"status":"Wrong Answer","lang":"mysql","timestamp":1791568394,"runtime":null,"memory":null},
+        {"id":2167554089,"status":"Accepted","lang":"mysql","timestamp":1791568462,"runtime":"589 ms","memory":"0B"}
+      ]
+    },
+    "find-followers-count": {
+      "id": "1729",
+      "title": "Find Followers Count",
+      "slug": "find-followers-count",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1729-find-followers-count",
+      "first_attempt_at": 1791619650,
+      "last_attempt_at": 1791619650,
+      "solved_at": 1791619650,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2167959741,"status":"Accepted","lang":"mysql","timestamp":1791619650,"runtime":"555 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2167959741,"status":"Accepted","lang":"mysql","timestamp":1791619650,"runtime":"555 ms","memory":"0B"}
+      ]
+    },
+    "classes-with-at-least-5-students": {
+      "id": "596",
+      "title": "Classes With at Least 5 Students",
+      "slug": "classes-with-at-least-5-students",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0596-classes-with-at-least-5-students",
+      "first_attempt_at": 1791620324,
+      "last_attempt_at": 1791620324,
+      "solved_at": 1791620324,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2167966423,"status":"Accepted","lang":"mysql","timestamp":1791620324,"runtime":"337 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2167966423,"status":"Accepted","lang":"mysql","timestamp":1791620324,"runtime":"337 ms","memory":"0B"}
+      ]
+    },
+    "biggest-single-number": {
+      "id": "619",
+      "title": "Biggest Single Number",
+      "slug": "biggest-single-number",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0619-biggest-single-number",
+      "first_attempt_at": 1791621601,
+      "last_attempt_at": 1791621601,
+      "solved_at": 1791621601,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2167979672,"status":"Accepted","lang":"mysql","timestamp":1791621601,"runtime":"439 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2167979672,"status":"Accepted","lang":"mysql","timestamp":1791621601,"runtime":"439 ms","memory":"0B"}
+      ]
+    },
+    "triangle-judgement": {
+      "id": "610",
+      "title": "Triangle Judgement",
+      "slug": "triangle-judgement",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0610-triangle-judgement",
+      "first_attempt_at": 1791622362,
+      "last_attempt_at": 1791622362,
+      "solved_at": 1791622362,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2167987608,"status":"Accepted","lang":"mysql","timestamp":1791622362,"runtime":"287 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2167987608,"status":"Accepted","lang":"mysql","timestamp":1791622362,"runtime":"287 ms","memory":"0B"}
+      ]
     }
   }
 }
