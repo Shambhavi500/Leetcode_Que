@@ -4,10 +4,11 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 3 | 3 | 0 | 2 | 1 | 0 |
+| 4 | 4 | 0 | 3 | 1 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
+| 94 | [Binary Tree Inorder Traversal](../Stack/0094-binary-tree-inorder-traversal/README.md) | Easy | Solved | 1 | cpp | 2026-01-07 |
 | 144 | [Binary Tree Preorder Traversal](../Stack/0144-binary-tree-preorder-traversal/README.md) | Easy | Solved | 1 | cpp | 2025-11-03 |
 | 145 | [Binary Tree Postorder Traversal](../Stack/0145-binary-tree-postorder-traversal/README.md) | Easy | Solved | 1 | cpp | 2025-11-03 |
 | 155 | [Min Stack](../Stack/0155-min-stack/README.md) | Medium | Solved | 1 | cpp | 2025-12-12 |

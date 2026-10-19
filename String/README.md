@@ -17,4 +17,6 @@ Filed under their main topic, but they use this one too.
 
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
+| 49 | [Group Anagrams](../Array/0049-group-anagrams/README.md) | Array | Medium | Solved |
+| 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Hash Table | Easy | Solved |
 | 412 | [Fizz Buzz](../Math/0412-fizz-buzz/README.md) | Math | Easy | Solved |

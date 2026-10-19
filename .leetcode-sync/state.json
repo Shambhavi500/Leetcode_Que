@@ -827,6 +827,282 @@
       "submissions": [
         {"id":1877812562,"status":"Accepted","lang":"cpp","timestamp":1767803297,"runtime":"0 ms","memory":"11.7 MB"}
       ]
+    },
+    "binary-tree-inorder-traversal": {
+      "id": "94",
+      "title": "Binary Tree Inorder Traversal",
+      "slug": "binary-tree-inorder-traversal",
+      "difficulty": "Easy",
+      "tags": ["Stack","Tree","Depth-First Search","Binary Tree"],
+      "topic": "Stack",
+      "dir": "Stack/0094-binary-tree-inorder-traversal",
+      "first_attempt_at": 1767803672,
+      "last_attempt_at": 1767803672,
+      "solved_at": 1767803672,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1877820435,"status":"Accepted","lang":"cpp","timestamp":1767803672,"runtime":"0 ms","memory":"11.1 MB"}
+      },
+      "submissions": [
+        {"id":1877820435,"status":"Accepted","lang":"cpp","timestamp":1767803672,"runtime":"0 ms","memory":"11.1 MB"}
+      ]
+    },
+    "spiral-matrix": {
+      "id": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "difficulty": "Medium",
+      "tags": ["Array","Matrix","Simulation"],
+      "topic": "Array",
+      "dir": "Array/0054-spiral-matrix",
+      "first_attempt_at": 1768314632,
+      "last_attempt_at": 1768314632,
+      "solved_at": 1768314632,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1883888004,"status":"Accepted","lang":"cpp","timestamp":1768314632,"runtime":"0 ms","memory":"9.4 MB"}
+      },
+      "submissions": [
+        {"id":1883888004,"status":"Accepted","lang":"cpp","timestamp":1768314632,"runtime":"0 ms","memory":"9.4 MB"}
+      ]
+    },
+    "powx-n": {
+      "id": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "difficulty": "Medium",
+      "tags": ["Math","Recursion"],
+      "topic": "Math",
+      "dir": "Math/0050-powx-n",
+      "first_attempt_at": 1768398109,
+      "last_attempt_at": 1768400431,
+      "solved_at": 1768400431,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1884881487,"status":"Accepted","lang":"cpp","timestamp":1768400431,"runtime":"0 ms","memory":"8.7 MB"}
+      },
+      "submissions": [
+        {"id":1884846360,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1768398109,"runtime":null,"memory":null},
+        {"id":1884881487,"status":"Accepted","lang":"cpp","timestamp":1768400431,"runtime":"0 ms","memory":"8.7 MB"}
+      ]
+    },
+    "group-anagrams": {
+      "id": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","String","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0049-group-anagrams",
+      "first_attempt_at": 1768572935,
+      "last_attempt_at": 1768572935,
+      "solved_at": 1768572935,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1886864671,"status":"Accepted","lang":"cpp","timestamp":1768572935,"runtime":"17 ms","memory":"24.9 MB"}
+      },
+      "submissions": [
+        {"id":1886864671,"status":"Accepted","lang":"cpp","timestamp":1768572935,"runtime":"17 ms","memory":"24.9 MB"}
+      ]
+    },
+    "valid-anagram": {
+      "id": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Sorting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0242-valid-anagram",
+      "first_attempt_at": 1768573712,
+      "last_attempt_at": 1768573797,
+      "solved_at": 1768573712,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1886877389,"status":"Accepted","lang":"cpp","timestamp":1768573797,"runtime":"1 ms","memory":"9.7 MB"}
+      },
+      "submissions": [
+        {"id":1886876055,"status":"Accepted","lang":"cpp","timestamp":1768573712,"runtime":null,"memory":null},
+        {"id":1886877389,"status":"Accepted","lang":"cpp","timestamp":1768573797,"runtime":"1 ms","memory":"9.7 MB"}
+      ]
+    },
+    "jump-game": {
+      "id": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0055-jump-game",
+      "first_attempt_at": 1768728994,
+      "last_attempt_at": 1768728994,
+      "solved_at": 1768728994,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1888738682,"status":"Accepted","lang":"cpp","timestamp":1768728994,"runtime":"0 ms","memory":"52.4 MB"}
+      },
+      "submissions": [
+        {"id":1888738682,"status":"Accepted","lang":"cpp","timestamp":1768728994,"runtime":"0 ms","memory":"52.4 MB"}
+      ]
+    },
+    "find-peak-element": {
+      "id": "162",
+      "title": "Find Peak Element",
+      "slug": "find-peak-element",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0162-find-peak-element",
+      "first_attempt_at": 1768847523,
+      "last_attempt_at": 1768847523,
+      "solved_at": 1768847523,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1890241598,"status":"Accepted","lang":"cpp","timestamp":1768847523,"runtime":"0 ms","memory":"12.7 MB"}
+      },
+      "submissions": [
+        {"id":1890241598,"status":"Accepted","lang":"cpp","timestamp":1768847523,"runtime":"0 ms","memory":"12.7 MB"}
+      ]
+    },
+    "palindrome-number": {
+      "id": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0009-palindrome-number",
+      "first_attempt_at": 1768915964,
+      "last_attempt_at": 1768915964,
+      "solved_at": 1768915964,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1891036726,"status":"Accepted","lang":"cpp","timestamp":1768915964,"runtime":"3 ms","memory":"8.7 MB"}
+      },
+      "submissions": [
+        {"id":1891036726,"status":"Accepted","lang":"cpp","timestamp":1768915964,"runtime":"3 ms","memory":"8.7 MB"}
+      ]
+    },
+    "search-in-rotated-sorted-array": {
+      "id": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0033-search-in-rotated-sorted-array",
+      "first_attempt_at": 1769001571,
+      "last_attempt_at": 1769001571,
+      "solved_at": 1769001571,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1892154695,"status":"Accepted","lang":"cpp","timestamp":1769001571,"runtime":"0 ms","memory":"15.2 MB"}
+      },
+      "submissions": [
+        {"id":1892154695,"status":"Accepted","lang":"cpp","timestamp":1769001571,"runtime":"0 ms","memory":"15.2 MB"}
+      ]
+    },
+    "search-in-rotated-sorted-array-ii": {
+      "id": "81",
+      "title": "Search in Rotated Sorted Array II",
+      "slug": "search-in-rotated-sorted-array-ii",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0081-search-in-rotated-sorted-array-ii",
+      "first_attempt_at": 1769002070,
+      "last_attempt_at": 1769002070,
+      "solved_at": 1769002070,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1892162910,"status":"Accepted","lang":"cpp","timestamp":1769002070,"runtime":"0 ms","memory":"18 MB"}
+      },
+      "submissions": [
+        {"id":1892162910,"status":"Accepted","lang":"cpp","timestamp":1769002070,"runtime":"0 ms","memory":"18 MB"}
+      ]
+    },
+    "find-minimum-in-rotated-sorted-array": {
+      "id": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0153-find-minimum-in-rotated-sorted-array",
+      "first_attempt_at": 1769003001,
+      "last_attempt_at": 1792299278,
+      "solved_at": 1769003001,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2175108747,"status":"Accepted","lang":"cpp","timestamp":1792299278,"runtime":"0 ms","memory":"14.2 MB"}
+      },
+      "submissions": [
+        {"id":1892178550,"status":"Accepted","lang":"cpp","timestamp":1769003001,"runtime":null,"memory":null},
+        {"id":2175108747,"status":"Accepted","lang":"cpp","timestamp":1792299278,"runtime":"0 ms","memory":"14.2 MB"}
+      ]
+    },
+    "single-element-in-a-sorted-array": {
+      "id": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0540-single-element-in-a-sorted-array",
+      "first_attempt_at": 1769004497,
+      "last_attempt_at": 1769004644,
+      "solved_at": 1769004644,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1892206792,"status":"Accepted","lang":"cpp","timestamp":1769004644,"runtime":"0 ms","memory":"26.1 MB"}
+      },
+      "submissions": [
+        {"id":1892204222,"status":"Runtime Error","lang":"cpp","timestamp":1769004497,"runtime":null,"memory":null},
+        {"id":1892206792,"status":"Accepted","lang":"cpp","timestamp":1769004644,"runtime":"0 ms","memory":"26.1 MB"}
+      ]
+    },
+    "single-number": {
+      "id": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0136-single-number",
+      "first_attempt_at": 1769106161,
+      "last_attempt_at": 1769106360,
+      "solved_at": 1769106161,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1893622081,"status":"Accepted","lang":"cpp","timestamp":1769106360,"runtime":"1 ms","memory":"20.6 MB"}
+      },
+      "submissions": [
+        {"id":1893618137,"status":"Accepted","lang":"cpp","timestamp":1769106161,"runtime":null,"memory":null},
+        {"id":1893622081,"status":"Accepted","lang":"cpp","timestamp":1769106360,"runtime":"1 ms","memory":"20.6 MB"}
+      ]
+    },
+    "sort-colors": {
+      "id": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Sorting","Quicksort","Bubble Sort"],
+      "topic": "Array",
+      "dir": "Array/0075-sort-colors",
+      "first_attempt_at": 1769107317,
+      "last_attempt_at": 1769107317,
+      "solved_at": 1769107317,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1893638652,"status":"Accepted","lang":"cpp","timestamp":1769107317,"runtime":"0 ms","memory":"11.6 MB"}
+      },
+      "submissions": [
+        {"id":1893638652,"status":"Accepted","lang":"cpp","timestamp":1769107317,"runtime":"0 ms","memory":"11.6 MB"}
+      ]
+    },
+    "subarray-sum-equals-k": {
+      "id": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/0560-subarray-sum-equals-k",
+      "first_attempt_at": 1769108369,
+      "last_attempt_at": 1782977352,
+      "solved_at": 1769108369,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2053202483,"status":"Accepted","lang":"cpp","timestamp":1782977352,"runtime":"2474 ms","memory":"34.2 MB"}
+      },
+      "submissions": [
+        {"id":1893654478,"status":"Accepted","lang":"cpp","timestamp":1769108369,"runtime":null,"memory":null},
+        {"id":2053202483,"status":"Accepted","lang":"cpp","timestamp":1782977352,"runtime":"2474 ms","memory":"34.2 MB"}
+      ]
     }
   }
 }

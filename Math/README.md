@@ -4,12 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 12 | 12 | 0 | 9 | 3 | 0 |
+| 14 | 14 | 0 | 10 | 4 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 7 | [Reverse Integer](../Math/0007-reverse-integer/README.md) | Medium | Solved | 2 | cpp | 2025-08-19 |
+| 9 | [Palindrome Number](../Math/0009-palindrome-number/README.md) | Easy | Solved | 1 | cpp | 2026-01-20 |
 | 29 | [Divide Two Integers](../Math/0029-divide-two-integers/README.md) | Medium | Solved | 1 | cpp | 2026-01-05 |
+| 50 | [Pow(x, n)](../Math/0050-powx-n/README.md) | Medium | Solved | 2 | cpp | 2026-01-14 |
 | 70 | [Climbing Stairs](../Math/0070-climbing-stairs/README.md) | Easy | Solved | 2 | cpp | 2025-09-08 |
 | 172 | [Factorial Trailing Zeroes](../Math/0172-factorial-trailing-zeroes/README.md) | Medium | Solved | 1 | cpp | 2025-08-27 |
 | 231 | [Power of Two](../Math/0231-power-of-two/README.md) | Easy | Solved | 3 | cpp | 2025-08-05 |
