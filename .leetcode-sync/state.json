@@ -1103,6 +1103,281 @@
         {"id":1893654478,"status":"Accepted","lang":"cpp","timestamp":1769108369,"runtime":null,"memory":null},
         {"id":2053202483,"status":"Accepted","lang":"cpp","timestamp":1782977352,"runtime":"2474 ms","memory":"34.2 MB"}
       ]
+    },
+    "rearrange-array-elements-by-sign": {
+      "id": "2149",
+      "title": "Rearrange Array Elements by Sign",
+      "slug": "rearrange-array-elements-by-sign",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Simulation"],
+      "topic": "Array",
+      "dir": "Array/2149-rearrange-array-elements-by-sign",
+      "first_attempt_at": 1769133719,
+      "last_attempt_at": 1769133719,
+      "solved_at": 1769133719,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1893842332,"status":"Accepted","lang":"cpp","timestamp":1769133719,"runtime":"12 ms","memory":"139 MB"}
+      },
+      "submissions": [
+        {"id":1893842332,"status":"Accepted","lang":"cpp","timestamp":1769133719,"runtime":"12 ms","memory":"139 MB"}
+      ]
+    },
+    "minimum-pair-removal-to-sort-array-i": {
+      "id": "3507",
+      "title": "Minimum Pair Removal to Sort Array I",
+      "slug": "minimum-pair-removal-to-sort-array-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Linked List","Heap (Priority Queue)","Simulation","Doubly-Linked List","Ordered Set"],
+      "topic": "Array",
+      "dir": "Array/3507-minimum-pair-removal-to-sort-array-i",
+      "first_attempt_at": 1769189672,
+      "last_attempt_at": 1769189672,
+      "solved_at": 1769189672,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1894588972,"status":"Accepted","lang":"cpp","timestamp":1769189672,"runtime":"2 ms","memory":"26.6 MB"}
+      },
+      "submissions": [
+        {"id":1894588972,"status":"Accepted","lang":"cpp","timestamp":1769189672,"runtime":"2 ms","memory":"26.6 MB"}
+      ]
+    },
+    "minimum-pair-removal-to-sort-array-ii": {
+      "id": "3510",
+      "title": "Minimum Pair Removal to Sort Array II",
+      "slug": "minimum-pair-removal-to-sort-array-ii",
+      "difficulty": "Hard",
+      "tags": ["Array","Hash Table","Linked List","Heap (Priority Queue)","Simulation","Doubly-Linked List","Ordered Set"],
+      "topic": "Array",
+      "dir": "Array/3510-minimum-pair-removal-to-sort-array-ii",
+      "first_attempt_at": 1769189969,
+      "last_attempt_at": 1769189969,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1894594683,"status":"Runtime Error","lang":"cpp","timestamp":1769189969,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1894594683,"status":"Runtime Error","lang":"cpp","timestamp":1769189969,"runtime":null,"memory":null}
+      ]
+    },
+    "maximum-product-subarray": {
+      "id": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "difficulty": "Medium",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0152-maximum-product-subarray",
+      "first_attempt_at": 1769191985,
+      "last_attempt_at": 1769191985,
+      "solved_at": 1769191985,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1894632687,"status":"Accepted","lang":"cpp","timestamp":1769191985,"runtime":"359 ms","memory":"17.9 MB"}
+      },
+      "submissions": [
+        {"id":1894632687,"status":"Accepted","lang":"cpp","timestamp":1769191985,"runtime":"359 ms","memory":"17.9 MB"}
+      ]
+    },
+    "reverse-pairs": {
+      "id": "493",
+      "title": "Reverse Pairs",
+      "slug": "reverse-pairs",
+      "difficulty": "Hard",
+      "tags": ["Array","Binary Search","Divide and Conquer","Binary Indexed Tree","Segment Tree","Merge Sort","Ordered Set","Treap"],
+      "topic": "Array",
+      "dir": "Array/0493-reverse-pairs",
+      "first_attempt_at": 1769193042,
+      "last_attempt_at": 1769193333,
+      "solved_at": 1769193333,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1894657272,"status":"Accepted","lang":"cpp","timestamp":1769193333,"runtime":"508 ms","memory":"240.4 MB"}
+      },
+      "submissions": [
+        {"id":1894652727,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1769193042,"runtime":null,"memory":null},
+        {"id":1894657272,"status":"Accepted","lang":"cpp","timestamp":1769193333,"runtime":"508 ms","memory":"240.4 MB"}
+      ]
+    },
+    "minimize-maximum-pair-sum-in-array": {
+      "id": "1877",
+      "title": "Minimize Maximum Pair Sum in Array",
+      "slug": "minimize-maximum-pair-sum-in-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Greedy","Sorting"],
+      "topic": "Array",
+      "dir": "Array/1877-minimize-maximum-pair-sum-in-array",
+      "first_attempt_at": 1769238679,
+      "last_attempt_at": 1769239180,
+      "solved_at": 1769238679,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1895065681,"status":"Accepted","lang":"cpp","timestamp":1769239180,"runtime":"170 ms","memory":"99.9 MB"}
+      },
+      "submissions": [
+        {"id":1895058552,"status":"Accepted","lang":"cpp","timestamp":1769238679,"runtime":null,"memory":null},
+        {"id":1895065681,"status":"Accepted","lang":"cpp","timestamp":1769239180,"runtime":"170 ms","memory":"99.9 MB"}
+      ]
+    },
+    "running-sum-of-1d-array": {
+      "id": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/1480-running-sum-of-1d-array",
+      "first_attempt_at": 1769279257,
+      "last_attempt_at": 1769279257,
+      "solved_at": 1769279257,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1895649580,"status":"Accepted","lang":"cpp","timestamp":1769279257,"runtime":"0 ms","memory":"12.6 MB"}
+      },
+      "submissions": [
+        {"id":1895649580,"status":"Accepted","lang":"cpp","timestamp":1769279257,"runtime":"0 ms","memory":"12.6 MB"}
+      ]
+    },
+    "minimum-difference-between-highest-and-lowest-of-k-scores": {
+      "id": "1984",
+      "title": "Minimum Difference Between Highest and Lowest of K Scores",
+      "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+      "difficulty": "Easy",
+      "tags": ["Array","Sliding Window","Sorting"],
+      "topic": "Array",
+      "dir": "Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores",
+      "first_attempt_at": 1769318408,
+      "last_attempt_at": 1769318408,
+      "solved_at": 1769318408,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1896104480,"status":"Accepted","lang":"cpp","timestamp":1769318408,"runtime":"3 ms","memory":"17.3 MB"}
+      },
+      "submissions": [
+        {"id":1896104480,"status":"Accepted","lang":"cpp","timestamp":1769318408,"runtime":"3 ms","memory":"17.3 MB"}
+      ]
+    },
+    "array-partition": {
+      "id": "561",
+      "title": "Array Partition",
+      "slug": "array-partition",
+      "difficulty": "Easy",
+      "tags": ["Array","Greedy","Sorting","Counting Sort"],
+      "topic": "Array",
+      "dir": "Array/0561-array-partition",
+      "first_attempt_at": 1769320859,
+      "last_attempt_at": 1769320898,
+      "solved_at": 1769320859,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1896142349,"status":"Accepted","lang":"cpp","timestamp":1769320898,"runtime":"9 ms","memory":"31.9 MB"}
+      },
+      "submissions": [
+        {"id":1896141717,"status":"Accepted","lang":"cpp","timestamp":1769320859,"runtime":null,"memory":null},
+        {"id":1896142349,"status":"Accepted","lang":"cpp","timestamp":1769320898,"runtime":"9 ms","memory":"31.9 MB"}
+      ]
+    },
+    "minimum-absolute-difference": {
+      "id": "1200",
+      "title": "Minimum Absolute Difference",
+      "slug": "minimum-absolute-difference",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting"],
+      "topic": "Array",
+      "dir": "Array/1200-minimum-absolute-difference",
+      "first_attempt_at": 1769416975,
+      "last_attempt_at": 1769416975,
+      "solved_at": 1769416975,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1897374207,"status":"Accepted","lang":"cpp","timestamp":1769416975,"runtime":"15 ms","memory":"36.7 MB"}
+      },
+      "submissions": [
+        {"id":1897374207,"status":"Accepted","lang":"cpp","timestamp":1769416975,"runtime":"15 ms","memory":"36.7 MB"}
+      ]
+    },
+    "minimum-cost-of-buying-candies-with-discount": {
+      "id": "2144",
+      "title": "Minimum Cost of Buying Candies With Discount",
+      "slug": "minimum-cost-of-buying-candies-with-discount",
+      "difficulty": "Easy",
+      "tags": ["Array","Greedy","Sorting"],
+      "topic": "Array",
+      "dir": "Array/2144-minimum-cost-of-buying-candies-with-discount",
+      "first_attempt_at": 1769418672,
+      "last_attempt_at": 1769418672,
+      "solved_at": 1769418672,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1897397565,"status":"Accepted","lang":"cpp","timestamp":1769418672,"runtime":"0 ms","memory":"14.3 MB"}
+      },
+      "submissions": [
+        {"id":1897397565,"status":"Accepted","lang":"cpp","timestamp":1769418672,"runtime":"0 ms","memory":"14.3 MB"}
+      ]
+    },
+    "minimum-cost-path-with-edge-reversals": {
+      "id": "3650",
+      "title": "Minimum Cost Path with Edge Reversals",
+      "slug": "minimum-cost-path-with-edge-reversals",
+      "difficulty": "Medium",
+      "tags": ["Graph Theory","Heap (Priority Queue)","Shortest Path"],
+      "topic": "Graph Theory",
+      "dir": "Graph-Theory/3650-minimum-cost-path-with-edge-reversals",
+      "first_attempt_at": 1769520097,
+      "last_attempt_at": 1769521028,
+      "solved_at": 1769521028,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1898619724,"status":"Accepted","lang":"cpp","timestamp":1769521028,"runtime":"267 ms","memory":"295.5 MB"}
+      },
+      "submissions": [
+        {"id":1898603342,"status":"Wrong Answer","lang":"cpp","timestamp":1769520097,"runtime":null,"memory":null},
+        {"id":1898606168,"status":"Wrong Answer","lang":"cpp","timestamp":1769520262,"runtime":null,"memory":null},
+        {"id":1898619724,"status":"Accepted","lang":"cpp","timestamp":1769521028,"runtime":"267 ms","memory":"295.5 MB"}
+      ]
+    },
+    "find-n-unique-integers-sum-up-to-zero": {
+      "id": "1304",
+      "title": "Find N Unique Integers Sum up to Zero",
+      "slug": "find-n-unique-integers-sum-up-to-zero",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/1304-find-n-unique-integers-sum-up-to-zero",
+      "first_attempt_at": 1769623451,
+      "last_attempt_at": 1769623451,
+      "solved_at": 1769623451,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1900127120,"status":"Accepted","lang":"cpp","timestamp":1769623451,"runtime":"0 ms","memory":"9.6 MB"}
+      },
+      "submissions": [
+        {"id":1900127120,"status":"Accepted","lang":"cpp","timestamp":1769623451,"runtime":"0 ms","memory":"9.6 MB"}
+      ]
+    },
+    "minimum-number-of-days-to-make-m-bouquets": {
+      "id": "1482",
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "slug": "minimum-number-of-days-to-make-m-bouquets",
+      "difficulty": "Medium",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/1482-minimum-number-of-days-to-make-m-bouquets",
+      "first_attempt_at": 1769796100,
+      "last_attempt_at": 1769796100,
+      "solved_at": 1769796100,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1902282701,"status":"Accepted","lang":"cpp","timestamp":1769796100,"runtime":"20 ms","memory":"70.6 MB"}
+      },
+      "submissions": [
+        {"id":1902282701,"status":"Accepted","lang":"cpp","timestamp":1769796100,"runtime":"20 ms","memory":"70.6 MB"}
+      ]
+    },
+    "divide-an-array-into-subarrays-with-minimum-cost-i": {
+      "id": "3010",
+      "title": "Divide an Array Into Subarrays With Minimum Cost I",
+      "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting","Enumeration"],
+      "topic": "Array",
+      "dir": "Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i",
+      "first_attempt_at": 1769936372,
+      "last_attempt_at": 1769936372,
+      "solved_at": 1769936372,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1904152101,"status":"Accepted","lang":"cpp","timestamp":1769936372,"runtime":"0 ms","memory":"30.4 MB"}
+      },
+      "submissions": [
+        {"id":1904152101,"status":"Accepted","lang":"cpp","timestamp":1769936372,"runtime":"0 ms","memory":"30.4 MB"}
+      ]
     }
   }
 }

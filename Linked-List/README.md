@@ -17,3 +17,5 @@ Filed under their main topic, but they use this one too.
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
 | 160 | [Intersection of Two Linked Lists](../Hash-Table/0160-intersection-of-two-linked-lists/README.md) | Hash Table | Easy | Solved |
+| 3507 | [Minimum Pair Removal to Sort Array I](../Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | Array | Easy | Solved |
+| 3510 | [Minimum Pair Removal to Sort Array II](../Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | Array | Hard | Attempted |

@@ -31,3 +31,4 @@ Filed under their main topic, but they use this one too.
 | --- | --- | --- | --- | --- |
 | 66 | [Plus One](../Array/0066-plus-one/README.md) | Array | Easy | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 1304 | [Find N Unique Integers Sum up to Zero](../Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | Array | Easy | Solved |

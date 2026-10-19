@@ -4,19 +4,26 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 60 | 60 | 0 | 36 | 22 | 2 | 2026-10-18 |
+| 75 | 74 | 1 | 44 | 27 | 3 | 2026-10-18 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 35 | 35 | 0 | 17 | 16 | 2 |
+| [Array](Array/README.md) | 49 | 48 | 1 | 25 | 20 | 4 |
 | [Math](Math/README.md) | 14 | 14 | 0 | 10 | 4 | 0 |
 | [Stack](Stack/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
 | [Hash Table](Hash-Table/README.md) | 2 | 2 | 0 | 2 | 0 | 0 |
 | [String](String/README.md) | 2 | 2 | 0 | 2 | 0 | 0 |
 | [Tree](Tree/README.md) | 2 | 2 | 0 | 1 | 1 | 0 |
+| [Graph Theory](Graph-Theory/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
 | [Linked List](Linked-List/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
+
+## Not solved yet
+
+| Problem | Topic | Difficulty | Submissions | Last tried |
+| --- | --- | --- | --- | --- |
+| [3510. Minimum Pair Removal to Sort Array II](Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | Array | Hard | 1 | 2026-01-23 |
 
 ## Recent activity
 
@@ -24,19 +31,19 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | --- | --- | --- | --- |
 | 2026-10-18 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Accepted | cpp |
 | 2026-07-02 | [560. Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | Accepted | cpp |
-| 2026-01-23 | [560. Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | Accepted | cpp |
-| 2026-01-23 | [75. Sort Colors](Array/0075-sort-colors/README.md) | Accepted | cpp |
-| 2026-01-22 | [136. Single Number](Array/0136-single-number/README.md) | Accepted | cpp |
-| 2026-01-22 | [136. Single Number](Array/0136-single-number/README.md) | Accepted | cpp |
-| 2026-01-22 | [268. Missing Number](Array/0268-missing-number/README.md) | Accepted | cpp |
-| 2026-01-21 | [540. Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | Accepted | cpp |
-| 2026-01-21 | [540. Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | Runtime Error | cpp |
-| 2026-01-21 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Accepted | cpp |
-| 2026-01-21 | [81. Search in Rotated Sorted Array II](Array/0081-search-in-rotated-sorted-array-ii/README.md) | Accepted | cpp |
-| 2026-01-21 | [33. Search in Rotated Sorted Array](Array/0033-search-in-rotated-sorted-array/README.md) | Accepted | cpp |
-| 2026-01-20 | [9. Palindrome Number](Math/0009-palindrome-number/README.md) | Accepted | cpp |
-| 2026-01-20 | [7. Reverse Integer](Math/0007-reverse-integer/README.md) | Accepted | cpp |
-| 2026-01-20 | [162. Find Peak Element](Array/0162-find-peak-element/README.md) | Accepted | cpp |
+| 2026-02-01 | [3010. Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Accepted | cpp |
+| 2026-01-30 | [1482. Minimum Number of Days to Make m Bouquets](Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | Accepted | cpp |
+| 2026-01-28 | [1304. Find N Unique Integers Sum up to Zero](Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | Accepted | cpp |
+| 2026-01-27 | [3650. Minimum Cost Path with Edge Reversals](Graph-Theory/3650-minimum-cost-path-with-edge-reversals/README.md) | Accepted | cpp |
+| 2026-01-27 | [3650. Minimum Cost Path with Edge Reversals](Graph-Theory/3650-minimum-cost-path-with-edge-reversals/README.md) | Wrong Answer | cpp |
+| 2026-01-27 | [3650. Minimum Cost Path with Edge Reversals](Graph-Theory/3650-minimum-cost-path-with-edge-reversals/README.md) | Wrong Answer | cpp |
+| 2026-01-26 | [2144. Minimum Cost of Buying Candies With Discount](Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | Accepted | cpp |
+| 2026-01-26 | [1200. Minimum Absolute Difference](Array/1200-minimum-absolute-difference/README.md) | Accepted | cpp |
+| 2026-01-25 | [561. Array Partition](Array/0561-array-partition/README.md) | Accepted | cpp |
+| 2026-01-25 | [561. Array Partition](Array/0561-array-partition/README.md) | Accepted | cpp |
+| 2026-01-25 | [1984. Minimum Difference Between Highest and Lowest of K Scores](Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | Accepted | cpp |
+| 2026-01-24 | [1480. Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | Accepted | cpp |
+| 2026-01-24 | [1877. Minimize Maximum Pair Sum in Array](Array/1877-minimize-maximum-pair-sum-in-array/README.md) | Accepted | cpp |
 
 ## Progress by month
 
@@ -44,7 +51,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | --- | --- | --- |
 | 2026-10 | 0 | 1 |
 | 2026-07 | 0 | 1 |
-| 2026-01 | 19 | 28 |
+| 2026-02 | 1 | 1 |
+| 2026-01 | 32 | 47 |
 | 2025-12 | 3 | 3 |
 | 2025-11 | 8 | 8 |
 | 2025-09 | 7 | 10 |
@@ -84,6 +92,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 136 | [Single Number](Array/0136-single-number/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-01-22 | 2026-01-22 |
 | 144 | [Binary Tree Preorder Traversal](Stack/0144-binary-tree-preorder-traversal/README.md) | [Stack](Stack/README.md) | Easy | Solved | 1 | 2025-11-03 | 2025-11-03 |
 | 145 | [Binary Tree Postorder Traversal](Stack/0145-binary-tree-postorder-traversal/README.md) | [Stack](Stack/README.md) | Easy | Solved | 1 | 2025-11-03 | 2025-11-03 |
+| 152 | [Maximum Product Subarray](Array/0152-maximum-product-subarray/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-23 | 2026-01-23 |
 | 153 | [Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-21 | 2026-01-21 |
 | 155 | [Min Stack](Stack/0155-min-stack/README.md) | [Stack](Stack/README.md) | Medium | Solved | 1 | 2025-12-12 | 2025-12-12 |
 | 160 | [Intersection of Two Linked Lists](Hash-Table/0160-intersection-of-two-linked-lists/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2025-11-03 | 2025-11-03 |
@@ -105,12 +114,26 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 412 | [Fizz Buzz](Math/0412-fizz-buzz/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-09-13 | 2025-09-13 |
 | 463 | [Island Perimeter](Array/0463-island-perimeter/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-29 | 2025-08-29 |
 | 485 | [Max Consecutive Ones](Array/0485-max-consecutive-ones/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-30 | 2025-08-30 |
+| 493 | [Reverse Pairs](Array/0493-reverse-pairs/README.md) | [Array](Array/README.md) | Hard | Solved | 2 | 2026-01-24 | 2026-01-24 |
 | 503 | [Next Greater Element II](Array/0503-next-greater-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-09-01 | 2025-09-01 |
 | 509 | [Fibonacci Number](Math/0509-fibonacci-number/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-08-24 | 2025-08-24 |
 | 540 | [Single Element in a Sorted Array](Array/0540-single-element-in-a-sorted-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-21 | 2026-01-21 |
 | 560 | [Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-23 | 2026-01-23 |
+| 561 | [Array Partition](Array/0561-array-partition/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-01-25 | 2026-01-25 |
 | 682 | [Baseball Game](Array/0682-baseball-game/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-31 | 2025-08-31 |
 | 704 | [Binary Search](Array/0704-binary-search/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-08-16 | 2025-08-16 |
+| 1200 | [Minimum Absolute Difference](Array/1200-minimum-absolute-difference/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-26 | 2026-01-26 |
+| 1304 | [Find N Unique Integers Sum up to Zero](Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-28 | 2026-01-28 |
+| 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-24 | 2026-01-24 |
+| 1482 | [Minimum Number of Days to Make m Bouquets](Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-30 | 2026-01-30 |
+| 1877 | [Minimize Maximum Pair Sum in Array](Array/1877-minimize-maximum-pair-sum-in-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-24 | 2026-01-24 |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-25 | 2026-01-25 |
+| 2144 | [Minimum Cost of Buying Candies With Discount](Array/2144-minimum-cost-of-buying-candies-with-discount/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-26 | 2026-01-26 |
+| 2149 | [Rearrange Array Elements by Sign](Array/2149-rearrange-array-elements-by-sign/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-23 | 2026-01-23 |
 | 2235 | [Add Two Integers](Math/2235-add-two-integers/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-11-06 | 2025-11-06 |
 | 2347 | [Best Poker Hand](Array/2347-best-poker-hand/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-09-14 | 2025-09-14 |
 | 2525 | [Categorize Box According to Criteria](Math/2525-categorize-box-according-to-criteria/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2025-09-14 | 2025-09-14 |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
+| 3507 | [Minimum Pair Removal to Sort Array I](Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-23 | 2026-01-23 |
+| 3510 | [Minimum Pair Removal to Sort Array II](Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | [Array](Array/README.md) | Hard | Attempted | 1 | 2026-01-23 | - |
+| 3650 | [Minimum Cost Path with Edge Reversals](Graph-Theory/3650-minimum-cost-path-with-edge-reversals/README.md) | [Graph Theory](Graph-Theory/README.md) | Medium | Solved | 3 | 2026-01-27 | 2026-01-27 |
