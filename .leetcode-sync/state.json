@@ -1378,6 +1378,290 @@
       "submissions": [
         {"id":1904152101,"status":"Accepted","lang":"cpp","timestamp":1769936372,"runtime":"0 ms","memory":"30.4 MB"}
       ]
+    },
+    "count-distinct-numbers-on-board": {
+      "id": "2549",
+      "title": "Count Distinct Numbers on Board",
+      "slug": "count-distinct-numbers-on-board",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Math","Simulation"],
+      "topic": "Array",
+      "dir": "Array/2549-count-distinct-numbers-on-board",
+      "first_attempt_at": 1769937282,
+      "last_attempt_at": 1769937855,
+      "solved_at": 1769937282,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1904171539,"status":"Accepted","lang":"cpp","timestamp":1769937855,"runtime":"0 ms","memory":"8 MB"}
+      },
+      "submissions": [
+        {"id":1904164038,"status":"Accepted","lang":"cpp","timestamp":1769937282,"runtime":null,"memory":null},
+        {"id":1904170735,"status":"Wrong Answer","lang":"cpp","timestamp":1769937794,"runtime":null,"memory":null},
+        {"id":1904171539,"status":"Accepted","lang":"cpp","timestamp":1769937855,"runtime":"0 ms","memory":"8 MB"}
+      ]
+    },
+    "happy-number": {
+      "id": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Math","Two Pointers","Floyd's Cycle Finding Algorithm"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0202-happy-number",
+      "first_attempt_at": 1770052892,
+      "last_attempt_at": 1770053314,
+      "solved_at": 1770053314,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1905770230,"status":"Accepted","lang":"cpp","timestamp":1770053314,"runtime":"0 ms","memory":"7.7 MB"}
+      },
+      "submissions": [
+        {"id":1905759701,"status":"Wrong Answer","lang":"cpp","timestamp":1770052892,"runtime":null,"memory":null},
+        {"id":1905770230,"status":"Accepted","lang":"cpp","timestamp":1770053314,"runtime":"0 ms","memory":"7.7 MB"}
+      ]
+    },
+    "trionic-array-i": {
+      "id": "3637",
+      "title": "Trionic Array I",
+      "slug": "trionic-array-i",
+      "difficulty": "Easy",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/3637-trionic-array-i",
+      "first_attempt_at": 1770137703,
+      "last_attempt_at": 1770137852,
+      "solved_at": 1770137852,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1906993453,"status":"Accepted","lang":"cpp","timestamp":1770137852,"runtime":"0 ms","memory":"27.8 MB"}
+      },
+      "submissions": [
+        {"id":1906989645,"status":"Wrong Answer","lang":"cpp","timestamp":1770137703,"runtime":null,"memory":null},
+        {"id":1906993453,"status":"Accepted","lang":"cpp","timestamp":1770137852,"runtime":"0 ms","memory":"27.8 MB"}
+      ]
+    },
+    "subsets": {
+      "id": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "difficulty": "Medium",
+      "tags": ["Array","Backtracking","Bit Manipulation"],
+      "topic": "Array",
+      "dir": "Array/0078-subsets",
+      "first_attempt_at": 1770229821,
+      "last_attempt_at": 1770229821,
+      "solved_at": 1770229821,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1908325799,"status":"Accepted","lang":"cpp","timestamp":1770229821,"runtime":"3 ms","memory":"9.9 MB"}
+      },
+      "submissions": [
+        {"id":1908325799,"status":"Accepted","lang":"cpp","timestamp":1770229821,"runtime":"3 ms","memory":"9.9 MB"}
+      ]
+    },
+    "balanced-binary-tree": {
+      "id": "110",
+      "title": "Balanced Binary Tree",
+      "slug": "balanced-binary-tree",
+      "difficulty": "Easy",
+      "tags": ["Tree","Depth-First Search","Binary Tree"],
+      "topic": "Tree",
+      "dir": "Tree/0110-balanced-binary-tree",
+      "first_attempt_at": 1770530856,
+      "last_attempt_at": 1770530856,
+      "solved_at": 1770530856,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1912109009,"status":"Accepted","lang":"cpp","timestamp":1770530856,"runtime":"0 ms","memory":"23 MB"}
+      },
+      "submissions": [
+        {"id":1912109009,"status":"Accepted","lang":"cpp","timestamp":1770530856,"runtime":"0 ms","memory":"23 MB"}
+      ]
+    },
+    "count-primes": {
+      "id": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "difficulty": "Medium",
+      "tags": ["Array","Math","Enumeration","Number Theory","Primality Test","Sieve Theory","Prime Number Sieve"],
+      "topic": "Array",
+      "dir": "Array/0204-count-primes",
+      "first_attempt_at": 1770533201,
+      "last_attempt_at": 1770533201,
+      "solved_at": 1770533201,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1912145944,"status":"Accepted","lang":"cpp","timestamp":1770533201,"runtime":"166 ms","memory":"12.8 MB"}
+      },
+      "submissions": [
+        {"id":1912145944,"status":"Accepted","lang":"cpp","timestamp":1770533201,"runtime":"166 ms","memory":"12.8 MB"}
+      ]
+    },
+    "assign-cookies": {
+      "id": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Greedy","Sorting","Quicksort"],
+      "topic": "Array",
+      "dir": "Array/0455-assign-cookies",
+      "first_attempt_at": 1770533998,
+      "last_attempt_at": 1770534354,
+      "solved_at": 1770534354,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1912163403,"status":"Accepted","lang":"cpp","timestamp":1770534354,"runtime":"8 ms","memory":"44.8 MB"}
+      },
+      "submissions": [
+        {"id":1912158194,"status":"Wrong Answer","lang":"cpp","timestamp":1770533998,"runtime":null,"memory":null},
+        {"id":1912158840,"status":"Wrong Answer","lang":"cpp","timestamp":1770534044,"runtime":null,"memory":null},
+        {"id":1912160544,"status":"Wrong Answer","lang":"cpp","timestamp":1770534158,"runtime":null,"memory":null},
+        {"id":1912163403,"status":"Accepted","lang":"cpp","timestamp":1770534354,"runtime":"8 ms","memory":"44.8 MB"}
+      ]
+    },
+    "lemonade-change": {
+      "id": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "difficulty": "Easy",
+      "tags": ["Array","Greedy"],
+      "topic": "Array",
+      "dir": "Array/0860-lemonade-change",
+      "first_attempt_at": 1770659672,
+      "last_attempt_at": 1770660369,
+      "solved_at": 1770660216,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1913832536,"status":"Accepted","lang":"cpp","timestamp":1770660369,"runtime":"0 ms","memory":"87.1 MB"}
+      },
+      "submissions": [
+        {"id":1913817189,"status":"Runtime Error","lang":"cpp","timestamp":1770659672,"runtime":null,"memory":null},
+        {"id":1913821915,"status":"Wrong Answer","lang":"cpp","timestamp":1770659883,"runtime":null,"memory":null},
+        {"id":1913829164,"status":"Accepted","lang":"cpp","timestamp":1770660216,"runtime":null,"memory":null},
+        {"id":1913832536,"status":"Accepted","lang":"cpp","timestamp":1770660369,"runtime":"0 ms","memory":"87.1 MB"}
+      ]
+    },
+    "implement-stack-using-queues": {
+      "id": "225",
+      "title": "Implement Stack using Queues",
+      "slug": "implement-stack-using-queues",
+      "difficulty": "Easy",
+      "tags": ["Stack","Design","Queue"],
+      "topic": "Stack",
+      "dir": "Stack/0225-implement-stack-using-queues",
+      "first_attempt_at": 1770821903,
+      "last_attempt_at": 1770821903,
+      "solved_at": 1770821903,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1915922864,"status":"Accepted","lang":"cpp","timestamp":1770821903,"runtime":"0 ms","memory":"9.6 MB"}
+      },
+      "submissions": [
+        {"id":1915922864,"status":"Accepted","lang":"cpp","timestamp":1770821903,"runtime":"0 ms","memory":"9.6 MB"}
+      ]
+    },
+    "guess-number-higher-or-lower": {
+      "id": "374",
+      "title": "Guess Number Higher or Lower",
+      "slug": "guess-number-higher-or-lower",
+      "difficulty": "Easy",
+      "tags": ["Binary Search","Interactive"],
+      "topic": "Binary Search",
+      "dir": "Binary-Search/0374-guess-number-higher-or-lower",
+      "first_attempt_at": 1770993244,
+      "last_attempt_at": 1770993627,
+      "solved_at": 1770993627,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1918081474,"status":"Accepted","lang":"cpp","timestamp":1770993627,"runtime":"2 ms","memory":"8 MB"}
+      },
+      "submissions": [
+        {"id":1918076040,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1770993244,"runtime":null,"memory":null},
+        {"id":1918081474,"status":"Accepted","lang":"cpp","timestamp":1770993627,"runtime":"2 ms","memory":"8 MB"}
+      ]
+    },
+    "valid-perfect-square": {
+      "id": "367",
+      "title": "Valid Perfect Square",
+      "slug": "valid-perfect-square",
+      "difficulty": "Easy",
+      "tags": ["Math","Binary Search"],
+      "topic": "Math",
+      "dir": "Math/0367-valid-perfect-square",
+      "first_attempt_at": 1770999770,
+      "last_attempt_at": 1770999860,
+      "solved_at": 1770999770,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1918177523,"status":"Accepted","lang":"cpp","timestamp":1770999860,"runtime":"0 ms","memory":"7.7 MB"}
+      },
+      "submissions": [
+        {"id":1918175840,"status":"Accepted","lang":"cpp","timestamp":1770999770,"runtime":null,"memory":null},
+        {"id":1918177523,"status":"Accepted","lang":"cpp","timestamp":1770999860,"runtime":"0 ms","memory":"7.7 MB"}
+      ]
+    },
+    "sqrtx": {
+      "id": "69",
+      "title": "Sqrt(x)",
+      "slug": "sqrtx",
+      "difficulty": "Easy",
+      "tags": ["Math","Binary Search","Newton's Method"],
+      "topic": "Math",
+      "dir": "Math/0069-sqrtx",
+      "first_attempt_at": 1771076091,
+      "last_attempt_at": 1771076203,
+      "solved_at": 1771076203,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1918938911,"status":"Accepted","lang":"cpp","timestamp":1771076203,"runtime":"0 ms","memory":"8.7 MB"}
+      },
+      "submissions": [
+        {"id":1918937428,"status":"Runtime Error","lang":"cpp","timestamp":1771076091,"runtime":null,"memory":null},
+        {"id":1918938911,"status":"Accepted","lang":"cpp","timestamp":1771076203,"runtime":"0 ms","memory":"8.7 MB"}
+      ]
+    },
+    "count-square-sum-triples": {
+      "id": "1925",
+      "title": "Count Square Sum Triples",
+      "slug": "count-square-sum-triples",
+      "difficulty": "Easy",
+      "tags": ["Math","Enumeration"],
+      "topic": "Math",
+      "dir": "Math/1925-count-square-sum-triples",
+      "first_attempt_at": 1771076783,
+      "last_attempt_at": 1771078461,
+      "solved_at": 1771078461,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1918968720,"status":"Accepted","lang":"cpp","timestamp":1771078461,"runtime":"7 ms","memory":"7.7 MB"}
+      },
+      "submissions": [
+        {"id":1918946500,"status":"Wrong Answer","lang":"cpp","timestamp":1771076783,"runtime":null,"memory":null},
+        {"id":1918968720,"status":"Accepted","lang":"cpp","timestamp":1771078461,"runtime":"7 ms","memory":"7.7 MB"}
+      ]
+    },
+    "add-binary": {
+      "id": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "difficulty": "Easy",
+      "tags": ["Math","String","Bit Manipulation","Simulation"],
+      "topic": "Math",
+      "dir": "Math/0067-add-binary",
+      "first_attempt_at": 1771145941,
+      "last_attempt_at": 1771145941,
+      "solved_at": 1771145941,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1919891932,"status":"Accepted","lang":"cpp","timestamp":1771145941,"runtime":"0 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":1919891932,"status":"Accepted","lang":"cpp","timestamp":1771145941,"runtime":"0 ms","memory":"8.9 MB"}
+      ]
+    },
+    "find-the-difference": {
+      "id": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Bit Manipulation","Sorting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0389-find-the-difference",
+      "first_attempt_at": 1771257756,
+      "last_attempt_at": 1771257756,
+      "solved_at": 1771257756,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1921214914,"status":"Accepted","lang":"cpp","timestamp":1771257756,"runtime":"0 ms","memory":"9.2 MB"}
+      },
+      "submissions": [
+        {"id":1921214914,"status":"Accepted","lang":"cpp","timestamp":1771257756,"runtime":"0 ms","memory":"9.2 MB"}
+      ]
     }
   }
 }

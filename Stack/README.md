@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 4 | 4 | 0 | 3 | 1 | 0 |
+| 5 | 5 | 0 | 4 | 1 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | 144 | [Binary Tree Preorder Traversal](../Stack/0144-binary-tree-preorder-traversal/README.md) | Easy | Solved | 1 | cpp | 2025-11-03 |
 | 145 | [Binary Tree Postorder Traversal](../Stack/0145-binary-tree-postorder-traversal/README.md) | Easy | Solved | 1 | cpp | 2025-11-03 |
 | 155 | [Min Stack](../Stack/0155-min-stack/README.md) | Medium | Solved | 1 | cpp | 2025-12-12 |
+| 225 | [Implement Stack using Queues](../Stack/0225-implement-stack-using-queues/README.md) | Easy | Solved | 1 | cpp | 2026-02-11 |
 
 ## Also tagged Stack
 

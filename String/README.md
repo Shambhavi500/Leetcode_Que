@@ -18,5 +18,7 @@ Filed under their main topic, but they use this one too.
 | # | Problem | Filed under | Difficulty | Status |
 | --- | --- | --- | --- | --- |
 | 49 | [Group Anagrams](../Array/0049-group-anagrams/README.md) | Array | Medium | Solved |
+| 67 | [Add Binary](../Math/0067-add-binary/README.md) | Math | Easy | Solved |
 | 242 | [Valid Anagram](../Hash-Table/0242-valid-anagram/README.md) | Hash Table | Easy | Solved |
+| 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Hash Table | Easy | Solved |
 | 412 | [Fizz Buzz](../Math/0412-fizz-buzz/README.md) | Math | Easy | Solved |

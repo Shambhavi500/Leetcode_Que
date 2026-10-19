@@ -4,12 +4,13 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 2 | 2 | 0 | 1 | 1 | 0 |
+| 3 | 3 | 0 | 2 | 1 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 98 | [Validate Binary Search Tree](../Tree/0098-validate-binary-search-tree/README.md) | Medium | Solved | 1 | cpp | 2025-11-03 |
 | 104 | [Maximum Depth of Binary Tree](../Tree/0104-maximum-depth-of-binary-tree/README.md) | Easy | Solved | 1 | cpp | 2025-11-04 |
+| 110 | [Balanced Binary Tree](../Tree/0110-balanced-binary-tree/README.md) | Easy | Solved | 1 | cpp | 2026-02-08 |
 
 ## Also tagged Tree
 
