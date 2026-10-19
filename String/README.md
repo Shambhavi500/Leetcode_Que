@@ -25,4 +25,5 @@ Filed under their main topic, but they use this one too.
 | 389 | [Find the Difference](../Hash-Table/0389-find-the-difference/README.md) | Hash Table | Easy | Solved |
 | 412 | [Fizz Buzz](../Math/0412-fizz-buzz/README.md) | Math | Easy | Solved |
 | 1154 | [Day of the Year](../Math/1154-day-of-the-year/README.md) | Math | Easy | Solved |
+| 3014 | [Minimum Number of Pushes to Type Word I](../Math/3014-minimum-number-of-pushes-to-type-word-i/README.md) | Math | Easy | Solved |
 | 3120 | [Count the Number of Special Characters I](../Hash-Table/3120-count-the-number-of-special-characters-i/README.md) | Hash Table | Easy | Solved |

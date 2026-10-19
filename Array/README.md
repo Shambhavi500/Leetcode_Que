@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 74 | 72 | 2 | 43 | 27 | 4 |
+| 76 | 74 | 2 | 44 | 28 | 4 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -49,6 +49,7 @@
 | 455 | [Assign Cookies](../Array/0455-assign-cookies/README.md) | Easy | Solved | 4 | cpp | 2026-02-08 |
 | 463 | [Island Perimeter](../Array/0463-island-perimeter/README.md) | Easy | Solved | 1 | cpp | 2025-08-29 |
 | 485 | [Max Consecutive Ones](../Array/0485-max-consecutive-ones/README.md) | Easy | Solved | 1 | cpp | 2025-08-30 |
+| 486 | [Predict the Winner](../Array/0486-predict-the-winner/README.md) | Medium | Solved | 4 | cpp | 2026-08-01 |
 | 493 | [Reverse Pairs](../Array/0493-reverse-pairs/README.md) | Hard | Solved | 2 | cpp | 2026-01-24 |
 | 503 | [Next Greater Element II](../Array/0503-next-greater-element-ii/README.md) | Medium | Solved | 1 | cpp | 2025-09-01 |
 | 540 | [Single Element in a Sorted Array](../Array/0540-single-element-in-a-sorted-array/README.md) | Medium | Solved | 2 | cpp | 2026-01-21 |
@@ -81,4 +82,5 @@
 | 3507 | [Minimum Pair Removal to Sort Array I](../Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | Easy | Solved | 1 | cpp | 2026-01-23 |
 | 3510 | [Minimum Pair Removal to Sort Array II](../Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | Hard | Attempted | 1 | cpp | - |
 | 3637 | [Trionic Array I](../Array/3637-trionic-array-i/README.md) | Easy | Solved | 2 | cpp | 2026-02-03 |
+| 3731 | [Find Missing Elements](../Array/3731-find-missing-elements/README.md) | Easy | Solved | 1 | cpp | 2026-08-04 |
 | 3732 | [Maximum Product of Three Elements After One Replacement](../Array/3732-maximum-product-of-three-elements-after-one-replacement/README.md) | Medium | Attempted | 1 | cpp | - |

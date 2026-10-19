@@ -4,14 +4,15 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 120 | 118 | 2 | 81 | 34 | 3 | 2026-10-18 |
+| 135 | 133 | 2 | 95 | 35 | 3 | 2026-10-18 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 74 | 72 | 2 | 43 | 27 | 4 |
-| [Math](Math/README.md) | 24 | 24 | 0 | 20 | 4 | 0 |
+| [Array](Array/README.md) | 76 | 74 | 2 | 44 | 28 | 4 |
+| [Math](Math/README.md) | 26 | 26 | 0 | 22 | 4 | 0 |
+| [Database](Database/README.md) | 11 | 11 | 0 | 11 | 0 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
 | [String](String/README.md) | 3 | 3 | 0 | 3 | 0 | 0 |
@@ -34,27 +35,28 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
 | 2026-10-18 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Accepted | cpp |
-| 2026-07-30 | [1154. Day of the Year](Math/1154-day-of-the-year/README.md) | Accepted | cpp |
-| 2026-07-30 | [989. Add to Array-Form of Integer](Array/0989-add-to-array-form-of-integer/README.md) | Accepted | cpp |
-| 2026-07-30 | [989. Add to Array-Form of Integer](Array/0989-add-to-array-form-of-integer/README.md) | Runtime Error | cpp |
-| 2026-07-29 | [976. Largest Perimeter Triangle](Array/0976-largest-perimeter-triangle/README.md) | Accepted | cpp |
-| 2026-07-29 | [976. Largest Perimeter Triangle](Array/0976-largest-perimeter-triangle/README.md) | Accepted | cpp |
-| 2026-07-29 | [645. Set Mismatch](Array/0645-set-mismatch/README.md) | Accepted | cpp |
-| 2026-07-29 | [507. Perfect Number](Math/0507-perfect-number/README.md) | Accepted | cpp |
-| 2026-07-29 | [507. Perfect Number](Math/0507-perfect-number/README.md) | Accepted | cpp |
-| 2026-07-29 | [492. Construct the Rectangle](Math/0492-construct-the-rectangle/README.md) | Accepted | cpp |
-| 2026-07-28 | [441. Arranging Coins](Math/0441-arranging-coins/README.md) | Accepted | cpp |
-| 2026-07-28 | [605. Can Place Flowers](Array/0605-can-place-flowers/README.md) | Accepted | cpp |
-| 2026-07-28 | [605. Can Place Flowers](Array/0605-can-place-flowers/README.md) | Wrong Answer | cpp |
-| 2026-07-28 | [575. Distribute Candies](Array/0575-distribute-candies/README.md) | Accepted | cpp |
-| 2026-07-28 | [575. Distribute Candies](Array/0575-distribute-candies/README.md) | Accepted | cpp |
+| 2026-10-05 | [175. Combine Two Tables](Database/0175-combine-two-tables/README.md) | Accepted | mysql |
+| 2026-10-05 | [577. Employee Bonus](Database/0577-employee-bonus/README.md) | Accepted | mysql |
+| 2026-10-03 | [197. Rising Temperature](Database/0197-rising-temperature/README.md) | Accepted | mysql |
+| 2026-10-03 | [1581. Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Accepted | mysql |
+| 2026-10-03 | [1068. Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | Accepted | mysql |
+| 2026-10-03 | [1378. Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Accepted | mysql |
+| 2026-10-02 | [1683. Invalid Tweets](Database/1683-invalid-tweets/README.md) | Accepted | mysql |
+| 2026-10-02 | [1148. Article Views I](Database/1148-article-views-i/README.md) | Accepted | mysql |
+| 2026-10-02 | [595. Big Countries](Database/0595-big-countries/README.md) | Accepted | mysql |
+| 2026-10-02 | [584. Find Customer Referee](Database/0584-find-customer-referee/README.md) | Accepted | mysql |
+| 2026-10-02 | [1757. Recyclable and Low Fat Products](Database/1757-recyclable-and-low-fat-products/README.md) | Accepted | mysql |
+| 2026-08-06 | [3345. Smallest Divisible Digit Product I](Math/3345-smallest-divisible-digit-product-i/README.md) | Accepted | cpp |
+| 2026-08-04 | [3731. Find Missing Elements](Array/3731-find-missing-elements/README.md) | Accepted | cpp |
+| 2026-08-01 | [486. Predict the Winner](Array/0486-predict-the-winner/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 0 | 1 |
-| 2026-07 | 21 | 37 |
+| 2026-10 | 11 | 12 |
+| 2026-08 | 3 | 6 |
+| 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
 | 2026-03 | 2 | 3 |
 | 2026-02 | 19 | 34 |
@@ -111,7 +113,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 162 | [Find Peak Element](Array/0162-find-peak-element/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-20 | 2026-01-20 |
 | 169 | [Majority Element](Array/0169-majority-element/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-15 | 2025-08-15 |
 | 172 | [Factorial Trailing Zeroes](Math/0172-factorial-trailing-zeroes/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2025-08-27 | 2025-08-27 |
+| 175 | [Combine Two Tables](Database/0175-combine-two-tables/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-05 | 2026-10-05 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-07-26 | 2026-07-26 |
+| 197 | [Rising Temperature](Database/0197-rising-temperature/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
 | 202 | [Happy Number](Hash-Table/0202-happy-number/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-02 | 2026-02-02 |
 | 204 | [Count Primes](Array/0204-count-primes/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-02-08 | 2026-02-08 |
 | 215 | [Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-08-24 | 2025-08-24 |
@@ -144,6 +148,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 455 | [Assign Cookies](Array/0455-assign-cookies/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-02-08 | 2026-02-08 |
 | 463 | [Island Perimeter](Array/0463-island-perimeter/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-29 | 2025-08-29 |
 | 485 | [Max Consecutive Ones](Array/0485-max-consecutive-ones/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-30 | 2025-08-30 |
+| 486 | [Predict the Winner](Array/0486-predict-the-winner/README.md) | [Array](Array/README.md) | Medium | Solved | 4 | 2026-08-01 | 2026-08-01 |
 | 492 | [Construct the Rectangle](Math/0492-construct-the-rectangle/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-29 | 2026-07-29 |
 | 493 | [Reverse Pairs](Array/0493-reverse-pairs/README.md) | [Array](Array/README.md) | Hard | Solved | 2 | 2026-01-24 | 2026-01-24 |
 | 503 | [Next Greater Element II](Array/0503-next-greater-element-ii/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2025-09-01 | 2025-09-01 |
@@ -153,6 +158,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 560 | [Subarray Sum Equals K](Array/0560-subarray-sum-equals-k/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-23 | 2026-01-23 |
 | 561 | [Array Partition](Array/0561-array-partition/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-01-25 | 2026-01-25 |
 | 575 | [Distribute Candies](Array/0575-distribute-candies/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-28 | 2026-07-28 |
+| 577 | [Employee Bonus](Database/0577-employee-bonus/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-05 | 2026-10-05 |
+| 584 | [Find Customer Referee](Database/0584-find-customer-referee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
+| 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 605 | [Can Place Flowers](Array/0605-can-place-flowers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-28 | 2026-07-28 |
 | 628 | [Maximum Product of Three Numbers](Array/0628-maximum-product-of-three-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-26 | 2026-07-26 |
 | 645 | [Set Mismatch](Array/0645-set-mismatch/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-29 | 2026-07-29 |
@@ -161,13 +169,19 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 860 | [Lemonade Change](Array/0860-lemonade-change/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-02-09 | 2026-02-09 |
 | 976 | [Largest Perimeter Triangle](Array/0976-largest-perimeter-triangle/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-29 | 2026-07-29 |
 | 989 | [Add to Array-Form of Integer](Array/0989-add-to-array-form-of-integer/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-30 | 2026-07-30 |
+| 1068 | [Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
+| 1148 | [Article Views I](Database/1148-article-views-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 1154 | [Day of the Year](Math/1154-day-of-the-year/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-30 | 2026-07-30 |
 | 1200 | [Minimum Absolute Difference](Array/1200-minimum-absolute-difference/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-26 | 2026-01-26 |
 | 1304 | [Find N Unique Integers Sum up to Zero](Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-28 | 2026-01-28 |
+| 1378 | [Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
 | 1464 | [Maximum Product of Two Elements in an Array](Array/1464-maximum-product-of-two-elements-in-an-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-27 | 2026-07-27 |
 | 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-24 | 2026-01-24 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-30 | 2026-01-30 |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
+| 1683 | [Invalid Tweets](Database/1683-invalid-tweets/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 1752 | [Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-25 | 2026-07-25 |
+| 1757 | [Recyclable and Low Fat Products](Database/1757-recyclable-and-low-fat-products/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 1877 | [Minimize Maximum Pair Sum in Array](Array/1877-minimize-maximum-pair-sum-in-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-01-24 | 2026-01-24 |
 | 1925 | [Count Square Sum Triples](Math/1925-count-square-sum-triples/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2026-02-14 | 2026-02-14 |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](Array/1984-minimum-difference-between-highest-and-lowest-of-k-scores/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-25 | 2026-01-25 |
@@ -179,12 +193,15 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2525 | [Categorize Box According to Criteria](Math/2525-categorize-box-according-to-criteria/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2025-09-14 | 2025-09-14 |
 | 2549 | [Count Distinct Numbers on Board](Array/2549-count-distinct-numbers-on-board/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2026-02-01 | 2026-02-01 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
+| 3014 | [Minimum Number of Pushes to Type Word I](Math/3014-minimum-number-of-pushes-to-type-word-i/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-30 | 2026-07-30 |
 | 3120 | [Count the Number of Special Characters I](Hash-Table/3120-count-the-number-of-special-characters-i/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-02-24 | 2026-02-24 |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](Array/3158-find-the-xor-of-numbers-which-appear-twice/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-27 | 2026-07-27 |
+| 3345 | [Smallest Divisible Digit Product I](Math/3345-smallest-divisible-digit-product-i/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-08-06 | 2026-08-06 |
 | 3498 | [Reverse Degree of a String](String/3498-reverse-degree-of-a-string/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-02-24 | 2026-02-24 |
 | 3507 | [Minimum Pair Removal to Sort Array I](Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-23 | 2026-01-23 |
 | 3510 | [Minimum Pair Removal to Sort Array II](Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | [Array](Array/README.md) | Hard | Attempted | 1 | 2026-01-23 | - |
 | 3536 | [Maximum Product of Two Digits](Math/3536-maximum-product-of-two-digits/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-26 | 2026-07-26 |
 | 3637 | [Trionic Array I](Array/3637-trionic-array-i/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-02-03 | 2026-02-03 |
 | 3650 | [Minimum Cost Path with Edge Reversals](Graph-Theory/3650-minimum-cost-path-with-edge-reversals/README.md) | [Graph Theory](Graph-Theory/README.md) | Medium | Solved | 3 | 2026-01-27 | 2026-01-27 |
+| 3731 | [Find Missing Elements](Array/3731-find-missing-elements/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-08-04 | 2026-08-04 |
 | 3732 | [Maximum Product of Three Elements After One Replacement](Array/3732-maximum-product-of-three-elements-after-one-replacement/README.md) | [Array](Array/README.md) | Medium | Attempted | 1 | 2026-07-26 | - |

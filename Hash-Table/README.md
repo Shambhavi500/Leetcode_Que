@@ -38,3 +38,4 @@ Filed under their main topic, but they use this one too.
 | 3158 | [Find the XOR of Numbers Which Appear Twice](../Array/3158-find-the-xor-of-numbers-which-appear-twice/README.md) | Array | Easy | Solved |
 | 3507 | [Minimum Pair Removal to Sort Array I](../Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | Array | Easy | Solved |
 | 3510 | [Minimum Pair Removal to Sort Array II](../Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | Array | Hard | Attempted |
+| 3731 | [Find Missing Elements](../Array/3731-find-missing-elements/README.md) | Array | Easy | Solved |
