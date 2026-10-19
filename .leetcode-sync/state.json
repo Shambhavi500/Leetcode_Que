@@ -1,0 +1,286 @@
+{
+  "version": 1,
+  "synced_through": 0,
+  "problems": {
+    "power-of-two": {
+      "id": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "difficulty": "Easy",
+      "tags": ["Math","Bit Manipulation","Recursion"],
+      "topic": "Math",
+      "dir": "Math/0231-power-of-two",
+      "first_attempt_at": 1754404275,
+      "last_attempt_at": 1754404334,
+      "solved_at": 1754404334,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1724480006,"status":"Accepted","lang":"cpp","timestamp":1754404334,"runtime":"0 ms","memory":"7.9 MB"}
+      },
+      "submissions": [
+        {"id":1724478585,"status":"Wrong Answer","lang":"cpp","timestamp":1754404275,"runtime":null,"memory":null},
+        {"id":1724479164,"status":"Compile Error","lang":"cpp","timestamp":1754404299,"runtime":null,"memory":null},
+        {"id":1724480006,"status":"Accepted","lang":"cpp","timestamp":1754404334,"runtime":"0 ms","memory":"7.9 MB"}
+      ]
+    },
+    "power-of-three": {
+      "id": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "difficulty": "Easy",
+      "tags": ["Math","Recursion"],
+      "topic": "Math",
+      "dir": "Math/0326-power-of-three",
+      "first_attempt_at": 1754404960,
+      "last_attempt_at": 1754405084,
+      "solved_at": 1754404960,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1724495474,"status":"Accepted","lang":"cpp","timestamp":1754405084,"runtime":"0 ms","memory":"9 MB"}
+      },
+      "submissions": [
+        {"id":1724493027,"status":"Accepted","lang":"cpp","timestamp":1754404960,"runtime":null,"memory":null},
+        {"id":1724494242,"status":"Accepted","lang":"cpp","timestamp":1754405022,"runtime":null,"memory":null},
+        {"id":1724494553,"status":"Accepted","lang":"cpp","timestamp":1754405037,"runtime":null,"memory":null},
+        {"id":1724495474,"status":"Accepted","lang":"cpp","timestamp":1754405084,"runtime":"0 ms","memory":"9 MB"}
+      ]
+    },
+    "power-of-four": {
+      "id": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "difficulty": "Easy",
+      "tags": ["Math","Bit Manipulation","Recursion"],
+      "topic": "Math",
+      "dir": "Math/0342-power-of-four",
+      "first_attempt_at": 1754405208,
+      "last_attempt_at": 1754405208,
+      "solved_at": 1754405208,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1724498000,"status":"Accepted","lang":"cpp","timestamp":1754405208,"runtime":"0 ms","memory":"8 MB"}
+      },
+      "submissions": [
+        {"id":1724498000,"status":"Accepted","lang":"cpp","timestamp":1754405208,"runtime":"0 ms","memory":"8 MB"}
+      ]
+    },
+    "search-insert-position": {
+      "id": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0035-search-insert-position",
+      "first_attempt_at": 1754490947,
+      "last_attempt_at": 1768846567,
+      "solved_at": 1754490947,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1890221840,"status":"Accepted","lang":"cpp","timestamp":1768846567,"runtime":"0 ms","memory":"13.6 MB"}
+      },
+      "submissions": [
+        {"id":1725759973,"status":"Accepted","lang":"cpp","timestamp":1754490947,"runtime":null,"memory":null},
+        {"id":1890221840,"status":"Accepted","lang":"cpp","timestamp":1768846567,"runtime":"0 ms","memory":"13.6 MB"}
+      ]
+    },
+    "majority-element": {
+      "id": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Divide and Conquer","Sorting","Counting","Boyer–Moore Majority Vote Algorithm"],
+      "topic": "Array",
+      "dir": "Array/0169-majority-element",
+      "first_attempt_at": 1755256163,
+      "last_attempt_at": 1755256163,
+      "solved_at": 1755256163,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1736011575,"status":"Accepted","lang":"cpp","timestamp":1755256163,"runtime":"0 ms","memory":"28.3 MB"}
+      },
+      "submissions": [
+        {"id":1736011575,"status":"Accepted","lang":"cpp","timestamp":1755256163,"runtime":"0 ms","memory":"28.3 MB"}
+      ]
+    },
+    "move-zeroes": {
+      "id": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0283-move-zeroes",
+      "first_attempt_at": 1755331656,
+      "last_attempt_at": 1755331656,
+      "solved_at": 1755331656,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1737007935,"status":"Accepted","lang":"cpp","timestamp":1755331656,"runtime":"0 ms","memory":"24 MB"}
+      },
+      "submissions": [
+        {"id":1737007935,"status":"Accepted","lang":"cpp","timestamp":1755331656,"runtime":"0 ms","memory":"24 MB"}
+      ]
+    },
+    "binary-search": {
+      "id": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "Easy",
+      "tags": ["Array","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0704-binary-search",
+      "first_attempt_at": 1755335688,
+      "last_attempt_at": 1768834831,
+      "solved_at": 1755335688,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1889976113,"status":"Accepted","lang":"cpp","timestamp":1768834831,"runtime":"0 ms","memory":"31.2 MB"}
+      },
+      "submissions": [
+        {"id":1737066043,"status":"Accepted","lang":"cpp","timestamp":1755335688,"runtime":null,"memory":null},
+        {"id":1889976113,"status":"Accepted","lang":"cpp","timestamp":1768834831,"runtime":"0 ms","memory":"31.2 MB"}
+      ]
+    },
+    "two-sum": {
+      "id": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table"],
+      "topic": "Array",
+      "dir": "Array/0001-two-sum",
+      "first_attempt_at": 1755456250,
+      "last_attempt_at": 1755456250,
+      "solved_at": 1755456250,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1738886795,"status":"Accepted","lang":"cpp","timestamp":1755456250,"runtime":"35 ms","memory":"14 MB"}
+      },
+      "submissions": [
+        {"id":1738886795,"status":"Accepted","lang":"cpp","timestamp":1755456250,"runtime":"35 ms","memory":"14 MB"}
+      ]
+    },
+    "reverse-integer": {
+      "id": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "difficulty": "Medium",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0007-reverse-integer",
+      "first_attempt_at": 1755625031,
+      "last_attempt_at": 1768914613,
+      "solved_at": 1755625031,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1891015298,"status":"Accepted","lang":"cpp","timestamp":1768914613,"runtime":"5 ms","memory":"8.6 MB"}
+      },
+      "submissions": [
+        {"id":1741182183,"status":"Accepted","lang":"cpp","timestamp":1755625031,"runtime":null,"memory":null},
+        {"id":1891015298,"status":"Accepted","lang":"cpp","timestamp":1768914613,"runtime":"5 ms","memory":"8.6 MB"}
+      ]
+    },
+    "length-of-last-word": {
+      "id": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "difficulty": "Easy",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/0058-length-of-last-word",
+      "first_attempt_at": 1755626227,
+      "last_attempt_at": 1755626227,
+      "solved_at": 1755626227,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1741210803,"status":"Accepted","lang":"cpp","timestamp":1755626227,"runtime":"0 ms","memory":"8.9 MB"}
+      },
+      "submissions": [
+        {"id":1741210803,"status":"Accepted","lang":"cpp","timestamp":1755626227,"runtime":"0 ms","memory":"8.9 MB"}
+      ]
+    },
+    "remove-duplicates-from-sorted-array": {
+      "id": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0026-remove-duplicates-from-sorted-array",
+      "first_attempt_at": 1755716489,
+      "last_attempt_at": 1755716489,
+      "solved_at": 1755716489,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1742465940,"status":"Accepted","lang":"cpp","timestamp":1755716489,"runtime":"0 ms","memory":"22.7 MB"}
+      },
+      "submissions": [
+        {"id":1742465940,"status":"Accepted","lang":"cpp","timestamp":1755716489,"runtime":"0 ms","memory":"22.7 MB"}
+      ]
+    },
+    "fibonacci-number": {
+      "id": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "difficulty": "Easy",
+      "tags": ["Math","Dynamic Programming","Recursion","Memoization"],
+      "topic": "Math",
+      "dir": "Math/0509-fibonacci-number",
+      "first_attempt_at": 1756038469,
+      "last_attempt_at": 1756038469,
+      "solved_at": 1756038469,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1746592049,"status":"Accepted","lang":"cpp","timestamp":1756038469,"runtime":"14 ms","memory":"7.6 MB"}
+      },
+      "submissions": [
+        {"id":1746592049,"status":"Accepted","lang":"cpp","timestamp":1756038469,"runtime":"14 ms","memory":"7.6 MB"}
+      ]
+    },
+    "kth-largest-element-in-an-array": {
+      "id": "215",
+      "title": "Kth Largest Element in an Array",
+      "slug": "kth-largest-element-in-an-array",
+      "difficulty": "Medium",
+      "tags": ["Array","Divide and Conquer","Sorting","Heap (Priority Queue)","Quickselect"],
+      "topic": "Array",
+      "dir": "Array/0215-kth-largest-element-in-an-array",
+      "first_attempt_at": 1756040465,
+      "last_attempt_at": 1756040704,
+      "solved_at": 1756040704,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1746626414,"status":"Accepted","lang":"cpp","timestamp":1756040704,"runtime":"20 ms","memory":"59.4 MB"}
+      },
+      "submissions": [
+        {"id":1746622807,"status":"Time Limit Exceeded","lang":"cpp","timestamp":1756040465,"runtime":null,"memory":null},
+        {"id":1746626414,"status":"Accepted","lang":"cpp","timestamp":1756040704,"runtime":"20 ms","memory":"59.4 MB"}
+      ]
+    },
+    "missing-number": {
+      "id": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Math","Binary Search","Bit Manipulation","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0268-missing-number",
+      "first_attempt_at": 1756056553,
+      "last_attempt_at": 1769105630,
+      "solved_at": 1756056553,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1893607632,"status":"Accepted","lang":"cpp","timestamp":1769105630,"runtime":"0 ms","memory":"21.8 MB"}
+      },
+      "submissions": [
+        {"id":1746898092,"status":"Accepted","lang":"cpp","timestamp":1756056553,"runtime":null,"memory":null},
+        {"id":1893607632,"status":"Accepted","lang":"cpp","timestamp":1769105630,"runtime":"0 ms","memory":"21.8 MB"}
+      ]
+    },
+    "plus-one": {
+      "id": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "difficulty": "Easy",
+      "tags": ["Array","Math"],
+      "topic": "Array",
+      "dir": "Array/0066-plus-one",
+      "first_attempt_at": 1756058940,
+      "last_attempt_at": 1756058940,
+      "solved_at": 1756058940,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":1746944840,"status":"Accepted","lang":"cpp","timestamp":1756058940,"runtime":"0 ms","memory":"11.5 MB"}
+      },
+      "submissions": [
+        {"id":1746944840,"status":"Accepted","lang":"cpp","timestamp":1756058940,"runtime":"0 ms","memory":"11.5 MB"}
+      ]
+    }
+  }
+}
