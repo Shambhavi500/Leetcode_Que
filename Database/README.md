@@ -4,12 +4,16 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 38 | 38 | 0 | 31 | 7 | 0 |
+| 45 | 45 | 0 | 35 | 10 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 175 | [Combine Two Tables](../Database/0175-combine-two-tables/README.md) | Easy | Solved | 1 | mysql | 2026-10-05 |
+| 176 | [Second Highest Salary](../Database/0176-second-highest-salary/README.md) | Medium | Solved | 1 | mysql | 2026-10-20 |
+| 177 | [Nth Highest Salary](../Database/0177-nth-highest-salary/README.md) | Medium | Solved | 2 | mysql | 2026-10-20 |
+| 178 | [Rank Scores](../Database/0178-rank-scores/README.md) | Medium | Solved | 1 | mysql | 2026-10-20 |
 | 180 | [Consecutive Numbers](../Database/0180-consecutive-numbers/README.md) | Medium | Solved | 2 | mysql | 2026-10-12 |
+| 181 | [Employees Earning More Than Their Managers](../Database/0181-employees-earning-more-than-their-managers/README.md) | Easy | Solved | 1 | mysql | 2026-10-20 |
 | 183 | [Customers Who Never Order](../Database/0183-customers-who-never-order/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 197 | [Rising Temperature](../Database/0197-rising-temperature/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 511 | [Game Play Analysis I](../Database/0511-game-play-analysis-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
@@ -26,6 +30,7 @@
 | 1068 | [Product Sales Analysis I](../Database/1068-product-sales-analysis-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 1070 | [Product Sales Analysis III](../Database/1070-product-sales-analysis-iii/README.md) | Medium | Solved | 4 | mysql | 2026-10-17 |
 | 1075 | [Project Employees I](../Database/1075-project-employees-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-07 |
+| 1084 | [Sales Analysis III](../Database/1084-sales-analysis-iii/README.md) | Easy | Solved | 1 | mysql | 2026-10-20 |
 | 1141 | [User Activity for the Past 30 Days I](../Database/1141-user-activity-for-the-past-30-days-i/README.md) | Easy | Solved | 2 | mysql | 2026-10-09 |
 | 1148 | [Article Views I](../Database/1148-article-views-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-02 |
 | 1211 | [Queries Quality and Percentage](../Database/1211-queries-quality-and-percentage/README.md) | Easy | Solved | 2 | mysql | 2026-10-08 |
@@ -33,7 +38,9 @@
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 1 | mysql | 2026-10-06 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 1407 | [Top Travellers](../Database/1407-top-travellers/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
+| 1527 | [Patients With a Condition](../Database/1527-patients-with-a-condition/README.md) | Easy | Solved | 2 | mysql | 2026-10-20 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](../Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
+| 1587 | [Bank Account Summary II](../Database/1587-bank-account-summary-ii/README.md) | Easy | Solved | 2 | mysql | 2026-10-20 |
 | 1633 | [Percentage of Users Attended a Contest](../Database/1633-percentage-of-users-attended-a-contest/README.md) | Easy | Solved | 1 | mysql | 2026-10-08 |
 | 1661 | [Average Time of Process per Machine](../Database/1661-average-time-of-process-per-machine/README.md) | Easy | Solved | 1 | mysql | 2026-10-06 |
 | 1667 | [Fix Names in a Table](../Database/1667-fix-names-in-a-table/README.md) | Easy | Solved | 1 | mysql | 2026-10-14 |

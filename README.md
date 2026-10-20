@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 172 | 170 | 2 | 119 | 47 | 4 | 2026-10-19 |
+| 179 | 177 | 2 | 123 | 50 | 4 | 2026-10-20 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 84 | 82 | 2 | 46 | 33 | 5 |
-| [Database](Database/README.md) | 38 | 38 | 0 | 31 | 7 | 0 |
+| [Database](Database/README.md) | 45 | 45 | 0 | 35 | 10 | 0 |
 | [Math](Math/README.md) | 27 | 27 | 0 | 23 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
@@ -35,27 +35,27 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-20 | [1587. Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | Accepted | mysql |
+| 2026-10-20 | [1587. Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | Wrong Answer | mysql |
+| 2026-10-20 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Accepted | mysql |
+| 2026-10-20 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Wrong Answer | mysql |
+| 2026-10-20 | [1084. Sales Analysis III](Database/1084-sales-analysis-iii/README.md) | Accepted | mysql |
+| 2026-10-20 | [181. Employees Earning More Than Their Managers](Database/0181-employees-earning-more-than-their-managers/README.md) | Accepted | mysql |
+| 2026-10-20 | [178. Rank Scores](Database/0178-rank-scores/README.md) | Accepted | mysql |
+| 2026-10-20 | [177. Nth Highest Salary](Database/0177-nth-highest-salary/README.md) | Accepted | mysql |
+| 2026-10-20 | [177. Nth Highest Salary](Database/0177-nth-highest-salary/README.md) | Wrong Answer | mysql |
+| 2026-10-20 | [176. Second Highest Salary](Database/0176-second-highest-salary/README.md) | Accepted | mysql |
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
 | 2026-10-19 | [3793. Find Users with High Token Usage](Other/3793-find-users-with-high-token-usage/README.md) | Accepted | mysql |
 | 2026-10-19 | [3793. Find Users with High Token Usage](Other/3793-find-users-with-high-token-usage/README.md) | Wrong Answer | mysql |
 | 2026-10-18 | [183. Customers Who Never Order](Database/0183-customers-who-never-order/README.md) | Accepted | mysql |
 | 2026-10-18 | [511. Game Play Analysis I](Database/0511-game-play-analysis-i/README.md) | Accepted | mysql |
-| 2026-10-18 | [1407. Top Travellers](Database/1407-top-travellers/README.md) | Accepted | mysql |
-| 2026-10-18 | [973. K Closest Points to Origin](Array/0973-k-closest-points-to-origin/README.md) | Accepted | cpp |
-| 2026-10-18 | [128. Longest Consecutive Sequence](Array/0128-longest-consecutive-sequence/README.md) | Accepted | cpp |
-| 2026-10-18 | [128. Longest Consecutive Sequence](Array/0128-longest-consecutive-sequence/README.md) | Wrong Answer | cpp |
-| 2026-10-18 | [128. Longest Consecutive Sequence](Array/0128-longest-consecutive-sequence/README.md) | Wrong Answer | cpp |
-| 2026-10-18 | [4. Median of Two Sorted Arrays](Array/0004-median-of-two-sorted-arrays/README.md) | Accepted | cpp |
-| 2026-10-18 | [153. Find Minimum in Rotated Sorted Array](Array/0153-find-minimum-in-rotated-sorted-array/README.md) | Accepted | cpp |
-| 2026-10-17 | [875. Koko Eating Bananas](Array/0875-koko-eating-bananas/README.md) | Accepted | cpp |
-| 2026-10-17 | [1070. Product Sales Analysis III](Database/1070-product-sales-analysis-iii/README.md) | Accepted | mysql |
-| 2026-10-17 | [1070. Product Sales Analysis III](Database/1070-product-sales-analysis-iii/README.md) | Time Limit Exceeded | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 48 | 66 |
+| 2026-10 | 55 | 76 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -117,7 +117,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 169 | [Majority Element](Array/0169-majority-element/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-15 | 2025-08-15 |
 | 172 | [Factorial Trailing Zeroes](Math/0172-factorial-trailing-zeroes/README.md) | [Math](Math/README.md) | Medium | Solved | 1 | 2025-08-27 | 2025-08-27 |
 | 175 | [Combine Two Tables](Database/0175-combine-two-tables/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-05 | 2026-10-05 |
+| 176 | [Second Highest Salary](Database/0176-second-highest-salary/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-20 | 2026-10-20 |
+| 177 | [Nth Highest Salary](Database/0177-nth-highest-salary/README.md) | [Database](Database/README.md) | Medium | Solved | 2 | 2026-10-20 | 2026-10-20 |
+| 178 | [Rank Scores](Database/0178-rank-scores/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-20 | 2026-10-20 |
 | 180 | [Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | [Database](Database/README.md) | Medium | Solved | 2 | 2026-10-12 | 2026-10-12 |
+| 181 | [Employees Earning More Than Their Managers](Database/0181-employees-earning-more-than-their-managers/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-20 | 2026-10-20 |
 | 183 | [Customers Who Never Order](Database/0183-customers-who-never-order/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-07-26 | 2026-07-26 |
 | 197 | [Rising Temperature](Database/0197-rising-temperature/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
@@ -190,6 +194,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1068 | [Product Sales Analysis I](Database/1068-product-sales-analysis-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
 | 1070 | [Product Sales Analysis III](Database/1070-product-sales-analysis-iii/README.md) | [Database](Database/README.md) | Medium | Solved | 4 | 2026-10-17 | 2026-10-17 |
 | 1075 | [Project Employees I](Database/1075-project-employees-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-07 | 2026-10-07 |
+| 1084 | [Sales Analysis III](Database/1084-sales-analysis-iii/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-20 | 2026-10-20 |
 | 1141 | [User Activity for the Past 30 Days I](Database/1141-user-activity-for-the-past-30-days-i/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-09 | 2026-10-09 |
 | 1148 | [Article Views I](Database/1148-article-views-i/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 1154 | [Day of the Year](Math/1154-day-of-the-year/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-30 | 2026-07-30 |
@@ -203,7 +208,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1464 | [Maximum Product of Two Elements in an Array](Array/1464-maximum-product-of-two-elements-in-an-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-27 | 2026-07-27 |
 | 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-24 | 2026-01-24 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-30 | 2026-01-30 |
+| 1527 | [Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-20 | 2026-10-20 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
+| 1587 | [Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-20 | 2026-10-20 |
 | 1633 | [Percentage of Users Attended a Contest](Database/1633-percentage-of-users-attended-a-contest/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-08 | 2026-10-08 |
 | 1661 | [Average Time of Process per Machine](Database/1661-average-time-of-process-per-machine/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-06 | 2026-10-06 |
 | 1667 | [Fix Names in a Table](Database/1667-fix-names-in-a-table/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-14 | 2026-10-14 |

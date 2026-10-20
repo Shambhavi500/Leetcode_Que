@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2176420802,
+  "synced_through": 2177061134,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3176,6 +3176,135 @@
       },
       "submissions": [
         {"id":2176420802,"status":"Accepted","lang":"cpp","timestamp":1792428944,"runtime":"0 ms","memory":"15.1 MB"}
+      ]
+    },
+    "second-highest-salary": {
+      "id": "176",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0176-second-highest-salary",
+      "first_attempt_at": 1792495435,
+      "last_attempt_at": 1792495435,
+      "solved_at": 1792495435,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2177008545,"status":"Accepted","lang":"mysql","timestamp":1792495435,"runtime":"325 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2177008545,"status":"Accepted","lang":"mysql","timestamp":1792495435,"runtime":"325 ms","memory":"0B"}
+      ]
+    },
+    "nth-highest-salary": {
+      "id": "177",
+      "title": "Nth Highest Salary",
+      "slug": "nth-highest-salary",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0177-nth-highest-salary",
+      "first_attempt_at": 1792495610,
+      "last_attempt_at": 1792495803,
+      "solved_at": 1792495803,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2177012645,"status":"Accepted","lang":"mysql","timestamp":1792495803,"runtime":"934 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2177010486,"status":"Wrong Answer","lang":"mysql","timestamp":1792495610,"runtime":null,"memory":null},
+        {"id":2177012645,"status":"Accepted","lang":"mysql","timestamp":1792495803,"runtime":"934 ms","memory":"0B"}
+      ]
+    },
+    "rank-scores": {
+      "id": "178",
+      "title": "Rank Scores",
+      "slug": "rank-scores",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0178-rank-scores",
+      "first_attempt_at": 1792496366,
+      "last_attempt_at": 1792496366,
+      "solved_at": 1792496366,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2177018895,"status":"Accepted","lang":"mysql","timestamp":1792496366,"runtime":"501 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2177018895,"status":"Accepted","lang":"mysql","timestamp":1792496366,"runtime":"501 ms","memory":"0B"}
+      ]
+    },
+    "employees-earning-more-than-their-managers": {
+      "id": "181",
+      "title": "Employees Earning More Than Their Managers",
+      "slug": "employees-earning-more-than-their-managers",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0181-employees-earning-more-than-their-managers",
+      "first_attempt_at": 1792496929,
+      "last_attempt_at": 1792496929,
+      "solved_at": 1792496929,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2177025116,"status":"Accepted","lang":"mysql","timestamp":1792496929,"runtime":"511 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2177025116,"status":"Accepted","lang":"mysql","timestamp":1792496929,"runtime":"511 ms","memory":"0B"}
+      ]
+    },
+    "sales-analysis-iii": {
+      "id": "1084",
+      "title": "Sales Analysis III",
+      "slug": "sales-analysis-iii",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1084-sales-analysis-iii",
+      "first_attempt_at": 1792498756,
+      "last_attempt_at": 1792498756,
+      "solved_at": 1792498756,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2177045424,"status":"Accepted","lang":"mysql","timestamp":1792498756,"runtime":"1234 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2177045424,"status":"Accepted","lang":"mysql","timestamp":1792498756,"runtime":"1234 ms","memory":"0B"}
+      ]
+    },
+    "patients-with-a-condition": {
+      "id": "1527",
+      "title": "Patients With a Condition",
+      "slug": "patients-with-a-condition",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1527-patients-with-a-condition",
+      "first_attempt_at": 1792499012,
+      "last_attempt_at": 1792499238,
+      "solved_at": 1792499238,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2177050859,"status":"Accepted","lang":"mysql","timestamp":1792499238,"runtime":"444 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2177048287,"status":"Wrong Answer","lang":"mysql","timestamp":1792499012,"runtime":null,"memory":null},
+        {"id":2177050859,"status":"Accepted","lang":"mysql","timestamp":1792499238,"runtime":"444 ms","memory":"0B"}
+      ]
+    },
+    "bank-account-summary-ii": {
+      "id": "1587",
+      "title": "Bank Account Summary II",
+      "slug": "bank-account-summary-ii",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1587-bank-account-summary-ii",
+      "first_attempt_at": 1792500087,
+      "last_attempt_at": 1792500144,
+      "solved_at": 1792500144,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2177061134,"status":"Accepted","lang":"mysql","timestamp":1792500144,"runtime":"971 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2177060482,"status":"Wrong Answer","lang":"mysql","timestamp":1792500087,"runtime":null,"memory":null},
+        {"id":2177061134,"status":"Accepted","lang":"mysql","timestamp":1792500144,"runtime":"971 ms","memory":"0B"}
       ]
     }
   }
