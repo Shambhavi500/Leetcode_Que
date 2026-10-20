@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 45 | 45 | 0 | 35 | 10 | 0 |
+| 47 | 47 | 0 | 37 | 10 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -38,6 +38,7 @@
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 1 | mysql | 2026-10-06 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 1407 | [Top Travellers](../Database/1407-top-travellers/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
+| 1517 | [Find Users With Valid E-Mails](../Database/1517-find-users-with-valid-e-mails/README.md) | Easy | Solved | 2 | mysql | 2026-10-20 |
 | 1527 | [Patients With a Condition](../Database/1527-patients-with-a-condition/README.md) | Easy | Solved | 2 | mysql | 2026-10-20 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](../Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 1587 | [Bank Account Summary II](../Database/1587-bank-account-summary-ii/README.md) | Easy | Solved | 2 | mysql | 2026-10-20 |
@@ -47,6 +48,7 @@
 | 1683 | [Invalid Tweets](../Database/1683-invalid-tweets/README.md) | Easy | Solved | 1 | mysql | 2026-10-02 |
 | 1729 | [Find Followers Count](../Database/1729-find-followers-count/README.md) | Easy | Solved | 1 | mysql | 2026-10-10 |
 | 1731 | [The Number of Employees Which Report to Each Employee](../Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-11 |
+| 1741 | [Find Total Time Spent by Each Employee](../Database/1741-find-total-time-spent-by-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-20 |
 | 1757 | [Recyclable and Low Fat Products](../Database/1757-recyclable-and-low-fat-products/README.md) | Easy | Solved | 1 | mysql | 2026-10-02 |
 | 1789 | [Primary Department for Each Employee](../Database/1789-primary-department-for-each-employee/README.md) | Easy | Solved | 1 | mysql | 2026-10-11 |
 | 1907 | [Count Salary Categories](../Database/1907-count-salary-categories/README.md) | Medium | Solved | 1 | mysql | 2026-10-13 |

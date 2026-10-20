@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 179 | 177 | 2 | 123 | 50 | 4 | 2026-10-20 |
+| 181 | 179 | 2 | 125 | 50 | 4 | 2026-10-20 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 84 | 82 | 2 | 46 | 33 | 5 |
-| [Database](Database/README.md) | 45 | 45 | 0 | 35 | 10 | 0 |
+| [Database](Database/README.md) | 47 | 47 | 0 | 37 | 10 | 0 |
 | [Math](Math/README.md) | 27 | 27 | 0 | 23 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
@@ -35,6 +35,9 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
+| 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
+| 2026-10-20 | [1741. Find Total Time Spent by Each Employee](Database/1741-find-total-time-spent-by-each-employee/README.md) | Accepted | mysql |
 | 2026-10-20 | [1587. Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | Accepted | mysql |
 | 2026-10-20 | [1587. Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | Wrong Answer | mysql |
 | 2026-10-20 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Accepted | mysql |
@@ -47,15 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [176. Second Highest Salary](Database/0176-second-highest-salary/README.md) | Accepted | mysql |
 | 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
 | 2026-10-19 | [3793. Find Users with High Token Usage](Other/3793-find-users-with-high-token-usage/README.md) | Accepted | mysql |
-| 2026-10-19 | [3793. Find Users with High Token Usage](Other/3793-find-users-with-high-token-usage/README.md) | Wrong Answer | mysql |
-| 2026-10-18 | [183. Customers Who Never Order](Database/0183-customers-who-never-order/README.md) | Accepted | mysql |
-| 2026-10-18 | [511. Game Play Analysis I](Database/0511-game-play-analysis-i/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 55 | 76 |
+| 2026-10 | 57 | 79 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -208,6 +208,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1464 | [Maximum Product of Two Elements in an Array](Array/1464-maximum-product-of-two-elements-in-an-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-27 | 2026-07-27 |
 | 1480 | [Running Sum of 1d Array](Array/1480-running-sum-of-1d-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-24 | 2026-01-24 |
 | 1482 | [Minimum Number of Days to Make m Bouquets](Array/1482-minimum-number-of-days-to-make-m-bouquets/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-01-30 | 2026-01-30 |
+| 1517 | [Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-20 | 2026-10-20 |
 | 1527 | [Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-20 | 2026-10-20 |
 | 1581 | [Customer Who Visited but Did Not Make Any Transactions](Database/1581-customer-who-visited-but-did-not-make-any-transactions/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
 | 1587 | [Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-20 | 2026-10-20 |
@@ -217,6 +218,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1683 | [Invalid Tweets](Database/1683-invalid-tweets/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 1729 | [Find Followers Count](Database/1729-find-followers-count/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
 | 1731 | [The Number of Employees Which Report to Each Employee](Database/1731-the-number-of-employees-which-report-to-each-employee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-11 | 2026-10-11 |
+| 1741 | [Find Total Time Spent by Each Employee](Database/1741-find-total-time-spent-by-each-employee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-20 | 2026-10-20 |
 | 1752 | [Check if Array Is Sorted and Rotated](Array/1752-check-if-array-is-sorted-and-rotated/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-25 | 2026-07-25 |
 | 1757 | [Recyclable and Low Fat Products](Database/1757-recyclable-and-low-fat-products/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 1789 | [Primary Department for Each Employee](Database/1789-primary-department-for-each-employee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-11 | 2026-10-11 |

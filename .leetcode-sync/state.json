@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177061134,
+  "synced_through": 2177098707,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3305,6 +3305,43 @@
       "submissions": [
         {"id":2177060482,"status":"Wrong Answer","lang":"mysql","timestamp":1792500087,"runtime":null,"memory":null},
         {"id":2177061134,"status":"Accepted","lang":"mysql","timestamp":1792500144,"runtime":"971 ms","memory":"0B"}
+      ]
+    },
+    "find-total-time-spent-by-each-employee": {
+      "id": "1741",
+      "title": "Find Total Time Spent by Each Employee",
+      "slug": "find-total-time-spent-by-each-employee",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1741-find-total-time-spent-by-each-employee",
+      "first_attempt_at": 1792501686,
+      "last_attempt_at": 1792501686,
+      "solved_at": 1792501686,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2177079661,"status":"Accepted","lang":"mysql","timestamp":1792501686,"runtime":"610 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2177079661,"status":"Accepted","lang":"mysql","timestamp":1792501686,"runtime":"610 ms","memory":"0B"}
+      ]
+    },
+    "find-users-with-valid-e-mails": {
+      "id": "1517",
+      "title": "Find Users With Valid E-Mails",
+      "slug": "find-users-with-valid-e-mails",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1517-find-users-with-valid-e-mails",
+      "first_attempt_at": 1792503048,
+      "last_attempt_at": 1792503162,
+      "solved_at": 1792503162,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2177098707,"status":"Accepted","lang":"mysql","timestamp":1792503162,"runtime":"1144 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2177097196,"status":"Wrong Answer","lang":"mysql","timestamp":1792503048,"runtime":null,"memory":null},
+        {"id":2177098707,"status":"Accepted","lang":"mysql","timestamp":1792503162,"runtime":"1144 ms","memory":"0B"}
       ]
     }
   }
