@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 181 | 179 | 2 | 125 | 50 | 4 | 2026-10-20 |
+| 182 | 180 | 2 | 125 | 51 | 4 | 2026-10-21 |
 
 ## Topics
 
@@ -15,7 +15,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Math](Math/README.md) | 27 | 27 | 0 | 23 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
-| [String](String/README.md) | 3 | 3 | 0 | 3 | 0 | 0 |
+| [String](String/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
 | [Tree](Tree/README.md) | 3 | 3 | 0 | 2 | 1 | 0 |
 | [Binary Search](Binary-Search/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Dynamic Programming](Dynamic-Programming/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
@@ -35,6 +35,10 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Accepted | cpp |
+| 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
+| 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
+| 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
 | 2026-10-20 | [1741. Find Total Time Spent by Each Employee](Database/1741-find-total-time-spent-by-each-employee/README.md) | Accepted | mysql |
@@ -46,16 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [181. Employees Earning More Than Their Managers](Database/0181-employees-earning-more-than-their-managers/README.md) | Accepted | mysql |
 | 2026-10-20 | [178. Rank Scores](Database/0178-rank-scores/README.md) | Accepted | mysql |
 | 2026-10-20 | [177. Nth Highest Salary](Database/0177-nth-highest-salary/README.md) | Accepted | mysql |
-| 2026-10-20 | [177. Nth Highest Salary](Database/0177-nth-highest-salary/README.md) | Wrong Answer | mysql |
-| 2026-10-20 | [176. Second Highest Salary](Database/0176-second-highest-salary/README.md) | Accepted | mysql |
-| 2026-10-19 | [2089. Find Target Indices After Sorting Array](Array/2089-find-target-indices-after-sorting-array/README.md) | Accepted | cpp |
-| 2026-10-19 | [3793. Find Users with High Token Usage](Other/3793-find-users-with-high-token-usage/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 57 | 79 |
+| 2026-10 | 58 | 83 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -252,3 +252,4 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3731 | [Find Missing Elements](Array/3731-find-missing-elements/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-08-04 | 2026-08-04 |
 | 3732 | [Maximum Product of Three Elements After One Replacement](Array/3732-maximum-product-of-three-elements-after-one-replacement/README.md) | [Array](Array/README.md) | Medium | Attempted | 1 | 2026-07-26 | - |
 | 3793 | [Find Users with High Token Usage](Other/3793-find-users-with-high-token-usage/README.md) | [Other](Other/README.md) | Easy | Solved | 2 | 2026-10-19 | 2026-10-19 |
+| 3863 | [Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | [String](String/README.md) | Medium | Solved | 4 | 2026-10-21 | 2026-10-21 |

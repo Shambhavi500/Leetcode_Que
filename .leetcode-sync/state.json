@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177098707,
+  "synced_through": 2177758247,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3342,6 +3342,27 @@
       "submissions": [
         {"id":2177097196,"status":"Wrong Answer","lang":"mysql","timestamp":1792503048,"runtime":null,"memory":null},
         {"id":2177098707,"status":"Accepted","lang":"mysql","timestamp":1792503162,"runtime":"1144 ms","memory":"0B"}
+      ]
+    },
+    "minimum-operations-to-sort-a-string": {
+      "id": "3863",
+      "title": "Minimum Operations to Sort a String",
+      "slug": "minimum-operations-to-sort-a-string",
+      "difficulty": "Medium",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/3863-minimum-operations-to-sort-a-string",
+      "first_attempt_at": 1792570640,
+      "last_attempt_at": 1792570897,
+      "solved_at": 1792570897,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2177758247,"status":"Accepted","lang":"cpp","timestamp":1792570897,"runtime":"11 ms","memory":"27.4 MB"}
+      },
+      "submissions": [
+        {"id":2177755560,"status":"Wrong Answer","lang":"cpp","timestamp":1792570640,"runtime":null,"memory":null},
+        {"id":2177757160,"status":"Wrong Answer","lang":"cpp","timestamp":1792570789,"runtime":null,"memory":null},
+        {"id":2177757425,"status":"Wrong Answer","lang":"cpp","timestamp":1792570815,"runtime":null,"memory":null},
+        {"id":2177758247,"status":"Accepted","lang":"cpp","timestamp":1792570897,"runtime":"11 ms","memory":"27.4 MB"}
       ]
     }
   }

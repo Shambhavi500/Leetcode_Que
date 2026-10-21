@@ -4,13 +4,14 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 3 | 3 | 0 | 3 | 0 | 0 |
+| 4 | 4 | 0 | 3 | 1 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 20 | [Valid Parentheses](../String/0020-valid-parentheses/README.md) | Easy | Solved | 1 | cpp | 2025-08-29 |
 | 58 | [Length of Last Word](../String/0058-length-of-last-word/README.md) | Easy | Solved | 1 | cpp | 2025-08-19 |
 | 3498 | [Reverse Degree of a String](../String/3498-reverse-degree-of-a-string/README.md) | Easy | Solved | 1 | cpp | 2026-02-24 |
+| 3863 | [Minimum Operations to Sort a String](../String/3863-minimum-operations-to-sort-a-string/README.md) | Medium | Solved | 4 | cpp | 2026-10-21 |
 
 ## Also tagged String
 
