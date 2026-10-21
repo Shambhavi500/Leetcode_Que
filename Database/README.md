@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 47 | 47 | 0 | 37 | 10 | 0 |
+| 49 | 49 | 0 | 38 | 11 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | 180 | [Consecutive Numbers](../Database/0180-consecutive-numbers/README.md) | Medium | Solved | 2 | mysql | 2026-10-12 |
 | 181 | [Employees Earning More Than Their Managers](../Database/0181-employees-earning-more-than-their-managers/README.md) | Easy | Solved | 1 | mysql | 2026-10-20 |
 | 183 | [Customers Who Never Order](../Database/0183-customers-who-never-order/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
+| 184 | [Department Highest Salary](../Database/0184-department-highest-salary/README.md) | Medium | Solved | 1 | mysql | 2026-10-22 |
 | 197 | [Rising Temperature](../Database/0197-rising-temperature/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 511 | [Game Play Analysis I](../Database/0511-game-play-analysis-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 550 | [Game Play Analysis IV](../Database/0550-game-play-analysis-iv/README.md) | Medium | Solved | 2 | mysql | 2026-10-11 |
@@ -36,6 +37,7 @@
 | 1211 | [Queries Quality and Percentage](../Database/1211-queries-quality-and-percentage/README.md) | Easy | Solved | 2 | mysql | 2026-10-08 |
 | 1251 | [Average Selling Price](../Database/1251-average-selling-price/README.md) | Easy | Solved | 2 | mysql | 2026-10-07 |
 | 1280 | [Students and Examinations](../Database/1280-students-and-examinations/README.md) | Easy | Solved | 1 | mysql | 2026-10-06 |
+| 1327 | [List the Products Ordered in a Period](../Database/1327-list-the-products-ordered-in-a-period/README.md) | Easy | Solved | 1 | mysql | 2026-10-22 |
 | 1378 | [Replace Employee ID With The Unique Identifier](../Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 1407 | [Top Travellers](../Database/1407-top-travellers/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 1517 | [Find Users With Valid E-Mails](../Database/1517-find-users-with-valid-e-mails/README.md) | Easy | Solved | 2 | mysql | 2026-10-20 |

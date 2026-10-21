@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2177758247,
+  "synced_through": 2178306461,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3363,6 +3363,42 @@
         {"id":2177757160,"status":"Wrong Answer","lang":"cpp","timestamp":1792570789,"runtime":null,"memory":null},
         {"id":2177757425,"status":"Wrong Answer","lang":"cpp","timestamp":1792570815,"runtime":null,"memory":null},
         {"id":2177758247,"status":"Accepted","lang":"cpp","timestamp":1792570897,"runtime":"11 ms","memory":"27.4 MB"}
+      ]
+    },
+    "department-highest-salary": {
+      "id": "184",
+      "title": "Department Highest Salary",
+      "slug": "department-highest-salary",
+      "difficulty": "Medium",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0184-department-highest-salary",
+      "first_attempt_at": 1792610386,
+      "last_attempt_at": 1792610386,
+      "solved_at": 1792610386,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2178296412,"status":"Accepted","lang":"mysql","timestamp":1792610386,"runtime":"973 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2178296412,"status":"Accepted","lang":"mysql","timestamp":1792610386,"runtime":"973 ms","memory":"0B"}
+      ]
+    },
+    "list-the-products-ordered-in-a-period": {
+      "id": "1327",
+      "title": "List the Products Ordered in a Period",
+      "slug": "list-the-products-ordered-in-a-period",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/1327-list-the-products-ordered-in-a-period",
+      "first_attempt_at": 1792611406,
+      "last_attempt_at": 1792611406,
+      "solved_at": 1792611406,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2178306461,"status":"Accepted","lang":"mysql","timestamp":1792611406,"runtime":"868 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2178306461,"status":"Accepted","lang":"mysql","timestamp":1792611406,"runtime":"868 ms","memory":"0B"}
       ]
     }
   }

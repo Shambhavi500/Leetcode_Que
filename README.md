@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 182 | 180 | 2 | 125 | 51 | 4 | 2026-10-21 |
+| 184 | 182 | 2 | 126 | 52 | 4 | 2026-10-22 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 84 | 82 | 2 | 46 | 33 | 5 |
-| [Database](Database/README.md) | 47 | 47 | 0 | 37 | 10 | 0 |
+| [Database](Database/README.md) | 49 | 49 | 0 | 38 | 11 | 0 |
 | [Math](Math/README.md) | 27 | 27 | 0 | 23 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
@@ -35,6 +35,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-22 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
+| 2026-10-22 | [184. Department Highest Salary](Database/0184-department-highest-salary/README.md) | Accepted | mysql |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Accepted | cpp |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
@@ -48,14 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Wrong Answer | mysql |
 | 2026-10-20 | [1084. Sales Analysis III](Database/1084-sales-analysis-iii/README.md) | Accepted | mysql |
 | 2026-10-20 | [181. Employees Earning More Than Their Managers](Database/0181-employees-earning-more-than-their-managers/README.md) | Accepted | mysql |
-| 2026-10-20 | [178. Rank Scores](Database/0178-rank-scores/README.md) | Accepted | mysql |
-| 2026-10-20 | [177. Nth Highest Salary](Database/0177-nth-highest-salary/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 58 | 83 |
+| 2026-10 | 60 | 85 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -123,6 +123,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 180 | [Consecutive Numbers](Database/0180-consecutive-numbers/README.md) | [Database](Database/README.md) | Medium | Solved | 2 | 2026-10-12 | 2026-10-12 |
 | 181 | [Employees Earning More Than Their Managers](Database/0181-employees-earning-more-than-their-managers/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-20 | 2026-10-20 |
 | 183 | [Customers Who Never Order](Database/0183-customers-who-never-order/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-18 | 2026-10-18 |
+| 184 | [Department Highest Salary](Database/0184-department-highest-salary/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-07-26 | 2026-07-26 |
 | 197 | [Rising Temperature](Database/0197-rising-temperature/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
 | 202 | [Happy Number](Hash-Table/0202-happy-number/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-02 | 2026-02-02 |
@@ -203,6 +204,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 1251 | [Average Selling Price](Database/1251-average-selling-price/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-07 | 2026-10-07 |
 | 1280 | [Students and Examinations](Database/1280-students-and-examinations/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-06 | 2026-10-06 |
 | 1304 | [Find N Unique Integers Sum up to Zero](Array/1304-find-n-unique-integers-sum-up-to-zero/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-01-28 | 2026-01-28 |
+| 1327 | [List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 1378 | [Replace Employee ID With The Unique Identifier](Database/1378-replace-employee-id-with-the-unique-identifier/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
 | 1407 | [Top Travellers](Database/1407-top-travellers/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 1464 | [Maximum Product of Two Elements in an Array](Array/1464-maximum-product-of-two-elements-in-an-array/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-27 | 2026-07-27 |
