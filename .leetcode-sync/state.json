@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2178306461,
+  "synced_through": 2178635654,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3399,6 +3399,24 @@
       },
       "submissions": [
         {"id":2178306461,"status":"Accepted","lang":"mysql","timestamp":1792611406,"runtime":"868 ms","memory":"0B"}
+      ]
+    },
+    "minimum-operations-to-sort-a-permutation": {
+      "id": "3942",
+      "title": "Minimum Operations to Sort a Permutation",
+      "slug": "minimum-operations-to-sort-a-permutation",
+      "difficulty": "Medium",
+      "tags": ["Array"],
+      "topic": "Array",
+      "dir": "Array/3942-minimum-operations-to-sort-a-permutation",
+      "first_attempt_at": 1792655923,
+      "last_attempt_at": 1792655923,
+      "solved_at": null,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2178635654,"status":"Wrong Answer","lang":"cpp","timestamp":1792655923,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":2178635654,"status":"Wrong Answer","lang":"cpp","timestamp":1792655923,"runtime":null,"memory":null}
       ]
     }
   }
