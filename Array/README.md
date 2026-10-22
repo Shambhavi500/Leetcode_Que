@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 85 | 82 | 3 | 46 | 34 | 5 |
+| 85 | 83 | 2 | 46 | 34 | 5 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -92,4 +92,4 @@
 | 3637 | [Trionic Array I](../Array/3637-trionic-array-i/README.md) | Easy | Solved | 2 | cpp | 2026-02-03 |
 | 3731 | [Find Missing Elements](../Array/3731-find-missing-elements/README.md) | Easy | Solved | 1 | cpp | 2026-08-04 |
 | 3732 | [Maximum Product of Three Elements After One Replacement](../Array/3732-maximum-product-of-three-elements-after-one-replacement/README.md) | Medium | Attempted | 1 | cpp | - |
-| 3942 | [Minimum Operations to Sort a Permutation](../Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Medium | Attempted | 1 | cpp | - |
+| 3942 | [Minimum Operations to Sort a Permutation](../Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Medium | Solved | 2 | cpp | 2026-10-22 |

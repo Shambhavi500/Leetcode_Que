@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 185 | 182 | 3 | 126 | 52 | 4 | 2026-10-22 |
+| 185 | 183 | 2 | 126 | 53 | 4 | 2026-10-22 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 85 | 82 | 3 | 46 | 34 | 5 |
+| [Array](Array/README.md) | 85 | 83 | 2 | 46 | 34 | 5 |
 | [Database](Database/README.md) | 49 | 49 | 0 | 38 | 11 | 0 |
 | [Math](Math/README.md) | 27 | 27 | 0 | 23 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
@@ -28,7 +28,6 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problem | Topic | Difficulty | Submissions | Last tried |
 | --- | --- | --- | --- | --- |
-| [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Array | Medium | 1 | 2026-10-22 |
 | [3732. Maximum Product of Three Elements After One Replacement](Array/3732-maximum-product-of-three-elements-after-one-replacement/README.md) | Array | Medium | 1 | 2026-07-26 |
 | [3510. Minimum Pair Removal to Sort Array II](Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | Array | Hard | 1 | 2026-01-23 |
 
@@ -36,6 +35,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Accepted | cpp |
 | 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Wrong Answer | cpp |
 | 2026-10-22 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
 | 2026-10-22 | [184. Department Highest Salary](Database/0184-department-highest-salary/README.md) | Accepted | mysql |
@@ -50,13 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [1587. Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | Wrong Answer | mysql |
 | 2026-10-20 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Accepted | mysql |
 | 2026-10-20 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Wrong Answer | mysql |
-| 2026-10-20 | [1084. Sales Analysis III](Database/1084-sales-analysis-iii/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 60 | 86 |
+| 2026-10 | 61 | 87 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -256,4 +255,4 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3732 | [Maximum Product of Three Elements After One Replacement](Array/3732-maximum-product-of-three-elements-after-one-replacement/README.md) | [Array](Array/README.md) | Medium | Attempted | 1 | 2026-07-26 | - |
 | 3793 | [Find Users with High Token Usage](Other/3793-find-users-with-high-token-usage/README.md) | [Other](Other/README.md) | Easy | Solved | 2 | 2026-10-19 | 2026-10-19 |
 | 3863 | [Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | [String](String/README.md) | Medium | Solved | 4 | 2026-10-21 | 2026-10-21 |
-| 3942 | [Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | [Array](Array/README.md) | Medium | Attempted | 1 | 2026-10-22 | - |
+| 3942 | [Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-22 | 2026-10-22 |

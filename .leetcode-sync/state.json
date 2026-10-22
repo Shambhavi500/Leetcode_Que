@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2178635654,
+  "synced_through": 2178638835,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3410,13 +3410,14 @@
       "topic": "Array",
       "dir": "Array/3942-minimum-operations-to-sort-a-permutation",
       "first_attempt_at": 1792655923,
-      "last_attempt_at": 1792655923,
-      "solved_at": null,
+      "last_attempt_at": 1792656269,
+      "solved_at": 1792656269,
       "languages": {
-        "cpp": {"file":"solution.cpp","id":2178635654,"status":"Wrong Answer","lang":"cpp","timestamp":1792655923,"runtime":null,"memory":null}
+        "cpp": {"file":"solution.cpp","id":2178638835,"status":"Accepted","lang":"cpp","timestamp":1792656269,"runtime":"7 ms","memory":"141.5 MB"}
       },
       "submissions": [
-        {"id":2178635654,"status":"Wrong Answer","lang":"cpp","timestamp":1792655923,"runtime":null,"memory":null}
+        {"id":2178635654,"status":"Wrong Answer","lang":"cpp","timestamp":1792655923,"runtime":null,"memory":null},
+        {"id":2178638835,"status":"Accepted","lang":"cpp","timestamp":1792656269,"runtime":"7 ms","memory":"141.5 MB"}
       ]
     }
   }

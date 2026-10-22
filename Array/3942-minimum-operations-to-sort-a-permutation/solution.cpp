@@ -2,34 +2,35 @@ class Solution {
 public:
     int minOperations(vector<int>& nums) {
         int n = nums.size();
-        int ans = INT_MAX;
+        if(n == 1)return 0;
 
-        vector<int> rev(nums.rbegin(), nums.rend());
-
-        for(int k = 0; k < n; k++) {
-            bool asc = true, desc = true, revAsc = true;
-
-            for(int i = 0; i < n; i++) {
-                if(nums[(k + i) % n] != i)
-                    asc = false;
-
-                if(nums[(k + i) % n] != n - 1 - i)
-                    desc = false;
-
-                if(rev[(k + i) % n] != i)
-                    revAsc = false;
-            }
-
-            if(asc)
-                ans = min(ans, k);
-
-            if(desc)
-                ans = min(ans, k + 1);
-
-            if(revAsc)
-                ans = min(ans, k + 1);
+        int zero = 0;
+        for(int a = 0 ;a < n ; a++){
+            if(nums[a] == 0) {zero = a;break;}
         }
 
-        return ans == INT_MAX ? -1 : ans;
+        bool asc = true;
+        bool desc = true;
+
+        for(int a = 1; a < n; a++){
+            int prev = (zero + a - 1) % n;
+            int curr = (zero + a) % n;
+
+            if(nums[prev] > nums[curr]){
+                asc = false;
+            }
+
+            prev = (zero - a + 1 + n) % n;
+            curr = (zero - a + n) % n;
+
+            if(nums[prev] > nums[curr]){
+                desc = false;
+            }
+        }
+
+        if(asc) return min(zero, n - zero + 2);
+        if(desc) return min(zero + 2, n - zero);
+
+        return -1;
     }
 };
