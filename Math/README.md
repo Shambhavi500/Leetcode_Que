@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 27 | 27 | 0 | 23 | 4 | 0 |
+| 28 | 28 | 0 | 24 | 4 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -23,6 +23,7 @@
 | 342 | [Power of Four](../Math/0342-power-of-four/README.md) | Easy | Solved | 1 | cpp | 2025-08-05 |
 | 367 | [Valid Perfect Square](../Math/0367-valid-perfect-square/README.md) | Easy | Solved | 2 | cpp | 2026-02-13 |
 | 412 | [Fizz Buzz](../Math/0412-fizz-buzz/README.md) | Easy | Solved | 1 | cpp | 2025-09-13 |
+| 415 | [Add Strings](../Math/0415-add-strings/README.md) | Easy | Solved | 2 | cpp | 2026-10-23 |
 | 441 | [Arranging Coins](../Math/0441-arranging-coins/README.md) | Easy | Solved | 1 | cpp | 2026-07-28 |
 | 492 | [Construct the Rectangle](../Math/0492-construct-the-rectangle/README.md) | Easy | Solved | 1 | cpp | 2026-07-29 |
 | 507 | [Perfect Number](../Math/0507-perfect-number/README.md) | Easy | Solved | 2 | cpp | 2026-07-29 |

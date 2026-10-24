@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 185 | 183 | 2 | 126 | 53 | 4 | 2026-10-22 |
+| 186 | 184 | 2 | 127 | 53 | 4 | 2026-10-23 |
 
 ## Topics
 
@@ -12,7 +12,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 85 | 83 | 2 | 46 | 34 | 5 |
 | [Database](Database/README.md) | 49 | 49 | 0 | 38 | 11 | 0 |
-| [Math](Math/README.md) | 27 | 27 | 0 | 23 | 4 | 0 |
+| [Math](Math/README.md) | 28 | 28 | 0 | 24 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
 | [String](String/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
@@ -35,6 +35,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Accepted | cpp |
+| 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Restrictions Failed | cpp |
 | 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Accepted | cpp |
 | 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Wrong Answer | cpp |
 | 2026-10-22 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
@@ -48,14 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [1741. Find Total Time Spent by Each Employee](Database/1741-find-total-time-spent-by-each-employee/README.md) | Accepted | mysql |
 | 2026-10-20 | [1587. Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | Accepted | mysql |
 | 2026-10-20 | [1587. Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | Wrong Answer | mysql |
-| 2026-10-20 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Accepted | mysql |
-| 2026-10-20 | [1527. Patients With a Condition](Database/1527-patients-with-a-condition/README.md) | Wrong Answer | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 61 | 87 |
+| 2026-10 | 62 | 89 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -155,6 +155,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 389 | [Find the Difference](Hash-Table/0389-find-the-difference/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-02-16 | 2026-02-16 |
 | 412 | [Fizz Buzz](Math/0412-fizz-buzz/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-09-13 | 2025-09-13 |
 | 414 | [Third Maximum Number](Array/0414-third-maximum-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-03-23 | 2026-03-23 |
+| 415 | [Add Strings](Math/0415-add-strings/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2026-10-23 | 2026-10-23 |
 | 441 | [Arranging Coins](Math/0441-arranging-coins/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-28 | 2026-07-28 |
 | 448 | [Find All Numbers Disappeared in an Array](Array/0448-find-all-numbers-disappeared-in-an-array/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-03-23 | 2026-03-23 |
 | 455 | [Assign Cookies](Array/0455-assign-cookies/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-02-08 | 2026-02-08 |

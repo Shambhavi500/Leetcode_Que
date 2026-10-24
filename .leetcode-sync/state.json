@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2178638835,
+  "synced_through": 2179726735,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3418,6 +3418,25 @@
       "submissions": [
         {"id":2178635654,"status":"Wrong Answer","lang":"cpp","timestamp":1792655923,"runtime":null,"memory":null},
         {"id":2178638835,"status":"Accepted","lang":"cpp","timestamp":1792656269,"runtime":"7 ms","memory":"141.5 MB"}
+      ]
+    },
+    "add-strings": {
+      "id": "415",
+      "title": "Add Strings",
+      "slug": "add-strings",
+      "difficulty": "Easy",
+      "tags": ["Math","String","Simulation"],
+      "topic": "Math",
+      "dir": "Math/0415-add-strings",
+      "first_attempt_at": 1792765549,
+      "last_attempt_at": 1792765570,
+      "solved_at": 1792765570,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2179726735,"status":"Accepted","lang":"cpp","timestamp":1792765570,"runtime":"1 ms","memory":"9 MB"}
+      },
+      "submissions": [
+        {"id":2179726457,"status":"Restrictions Failed","lang":"cpp","timestamp":1792765549,"runtime":null,"memory":null},
+        {"id":2179726735,"status":"Accepted","lang":"cpp","timestamp":1792765570,"runtime":"1 ms","memory":"9 MB"}
       ]
     }
   }
