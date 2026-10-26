@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2179726735,
+  "synced_through": 2181657716,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -144,13 +144,14 @@
       "topic": "Array",
       "dir": "Array/0001-two-sum",
       "first_attempt_at": 1755456250,
-      "last_attempt_at": 1755456250,
+      "last_attempt_at": 1792952990,
       "solved_at": 1755456250,
       "languages": {
-        "cpp": {"file":"solution.cpp","id":1738886795,"status":"Accepted","lang":"cpp","timestamp":1755456250,"runtime":"35 ms","memory":"14 MB"}
+        "cpp": {"file":"solution.cpp","id":2181657716,"status":"Accepted","lang":"cpp","timestamp":1792952990,"runtime":"37 ms","memory":"14.2 MB"}
       },
       "submissions": [
-        {"id":1738886795,"status":"Accepted","lang":"cpp","timestamp":1755456250,"runtime":"35 ms","memory":"14 MB"}
+        {"id":1738886795,"status":"Accepted","lang":"cpp","timestamp":1755456250,"runtime":"35 ms","memory":"14 MB"},
+        {"id":2181657716,"status":"Accepted","lang":"cpp","timestamp":1792952990,"runtime":"37 ms","memory":"14.2 MB"}
       ]
     },
     "reverse-integer": {
@@ -1803,13 +1804,14 @@
       "topic": "Array",
       "dir": "Array/0217-contains-duplicate",
       "first_attempt_at": 1777514451,
-      "last_attempt_at": 1777514451,
+      "last_attempt_at": 1792866112,
       "solved_at": 1777514451,
       "languages": {
-        "cpp": {"file":"solution.cpp","id":1991429810,"status":"Accepted","lang":"cpp","timestamp":1777514451,"runtime":"29 ms","memory":"70.9 MB"}
+        "cpp": {"file":"solution.cpp","id":2180774614,"status":"Accepted","lang":"cpp","timestamp":1792866112,"runtime":"86 ms","memory":"111.2 MB"}
       },
       "submissions": [
-        {"id":1991429810,"status":"Accepted","lang":"cpp","timestamp":1777514451,"runtime":"29 ms","memory":"70.9 MB"}
+        {"id":1991429810,"status":"Accepted","lang":"cpp","timestamp":1777514451,"runtime":"29 ms","memory":"70.9 MB"},
+        {"id":2180774614,"status":"Accepted","lang":"cpp","timestamp":1792866112,"runtime":"86 ms","memory":"111.2 MB"}
       ]
     },
     "counting-bits": {

@@ -4,7 +4,7 @@
 
 | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- |
-| Easy | Solved | 1 | 2026-04-30 | 2026-04-30 |
+| Easy | Solved | 2 | 2026-04-30 | 2026-04-30 |
 
 **Topics:** Array, Hash Table, Sorting
 
@@ -12,12 +12,13 @@
 
 | Language | Result | Runtime | Memory | Date |
 | --- | --- | --- | --- | --- |
-| [cpp](solution.cpp) | Accepted | 29 ms | 70.9 MB | 2026-04-30 |
+| [cpp](solution.cpp) | Accepted | 86 ms | 111.2 MB | 2026-10-24 |
 
 ## Submission history
 
 | Date | Result | Language | Runtime | Memory |
 | --- | --- | --- | --- | --- |
+| 2026-10-24 | Accepted | cpp | 86 ms | 111.2 MB |
 | 2026-04-30 | Accepted | cpp | 29 ms | 70.9 MB |
 
 ## Problem

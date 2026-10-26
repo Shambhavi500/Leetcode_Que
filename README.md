@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 186 | 184 | 2 | 127 | 53 | 4 | 2026-10-23 |
+| 186 | 184 | 2 | 127 | 53 | 4 | 2026-10-25 |
 
 ## Topics
 
@@ -35,6 +35,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-25 | [1. Two Sum](Array/0001-two-sum/README.md) | Accepted | cpp |
+| 2026-10-24 | [217. Contains Duplicate](Array/0217-contains-duplicate/README.md) | Accepted | cpp |
 | 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Accepted | cpp |
 | 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Restrictions Failed | cpp |
 | 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Accepted | cpp |
@@ -48,14 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
 | 2026-10-20 | [1741. Find Total Time Spent by Each Employee](Database/1741-find-total-time-spent-by-each-employee/README.md) | Accepted | mysql |
-| 2026-10-20 | [1587. Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | Accepted | mysql |
-| 2026-10-20 | [1587. Bank Account Summary II](Database/1587-bank-account-summary-ii/README.md) | Wrong Answer | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 62 | 89 |
+| 2026-10 | 62 | 91 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -71,7 +71,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | # | Problem | Topic | Difficulty | Status | Submissions | First tried | Solved on |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Two Sum](Array/0001-two-sum/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-18 | 2025-08-18 |
+| 1 | [Two Sum](Array/0001-two-sum/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2025-08-18 | 2025-08-18 |
 | 4 | [Median of Two Sorted Arrays](Array/0004-median-of-two-sorted-arrays/README.md) | [Array](Array/README.md) | Hard | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 7 | [Reverse Integer](Math/0007-reverse-integer/README.md) | [Math](Math/README.md) | Medium | Solved | 2 | 2025-08-19 | 2025-08-19 |
 | 9 | [Palindrome Number](Math/0009-palindrome-number/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-01-20 | 2026-01-20 |
@@ -129,7 +129,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 202 | [Happy Number](Hash-Table/0202-happy-number/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-02 | 2026-02-02 |
 | 204 | [Count Primes](Array/0204-count-primes/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-02-08 | 2026-02-08 |
 | 215 | [Kth Largest Element in an Array](Array/0215-kth-largest-element-in-an-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2025-08-24 | 2025-08-24 |
-| 217 | [Contains Duplicate](Array/0217-contains-duplicate/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-04-30 | 2026-04-30 |
+| 217 | [Contains Duplicate](Array/0217-contains-duplicate/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-04-30 | 2026-04-30 |
 | 219 | [Contains Duplicate II](Array/0219-contains-duplicate-ii/README.md) | [Array](Array/README.md) | Easy | Solved | 4 | 2026-07-26 | 2026-07-26 |
 | 225 | [Implement Stack using Queues](Stack/0225-implement-stack-using-queues/README.md) | [Stack](Stack/README.md) | Easy | Solved | 1 | 2026-02-11 | 2026-02-11 |
 | 231 | [Power of Two](Math/0231-power-of-two/README.md) | [Math](Math/README.md) | Easy | Solved | 3 | 2025-08-05 | 2025-08-05 |

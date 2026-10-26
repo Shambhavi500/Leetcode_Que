@@ -8,7 +8,7 @@
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [Two Sum](../Array/0001-two-sum/README.md) | Easy | Solved | 1 | cpp | 2025-08-18 |
+| 1 | [Two Sum](../Array/0001-two-sum/README.md) | Easy | Solved | 2 | cpp | 2025-08-18 |
 | 4 | [Median of Two Sorted Arrays](../Array/0004-median-of-two-sorted-arrays/README.md) | Hard | Solved | 1 | cpp | 2026-10-18 |
 | 11 | [Container With Most Water](../Array/0011-container-with-most-water/README.md) | Medium | Solved | 2 | cpp | 2026-01-06 |
 | 26 | [Remove Duplicates from Sorted Array](../Array/0026-remove-duplicates-from-sorted-array/README.md) | Easy | Solved | 1 | cpp | 2025-08-21 |
@@ -38,7 +38,7 @@
 | 189 | [Rotate Array](../Array/0189-rotate-array/README.md) | Medium | Solved | 2 | cpp | 2026-07-26 |
 | 204 | [Count Primes](../Array/0204-count-primes/README.md) | Medium | Solved | 1 | cpp | 2026-02-08 |
 | 215 | [Kth Largest Element in an Array](../Array/0215-kth-largest-element-in-an-array/README.md) | Medium | Solved | 2 | cpp | 2025-08-24 |
-| 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 1 | cpp | 2026-04-30 |
+| 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Easy | Solved | 2 | cpp | 2026-04-30 |
 | 219 | [Contains Duplicate II](../Array/0219-contains-duplicate-ii/README.md) | Easy | Solved | 4 | cpp | 2026-07-26 |
 | 238 | [Product of Array Except Self](../Array/0238-product-of-array-except-self/README.md) | Medium | Solved | 1 | cpp | 2026-10-17 |
 | 239 | [Sliding Window Maximum](../Array/0239-sliding-window-maximum/README.md) | Hard | Solved | 1 | cpp | 2025-12-12 |
