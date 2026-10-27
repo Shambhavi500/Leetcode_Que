@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 85 | 83 | 2 | 46 | 34 | 5 |
+| 86 | 84 | 2 | 47 | 34 | 5 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -86,6 +86,7 @@
 | 2549 | [Count Distinct Numbers on Board](../Array/2549-count-distinct-numbers-on-board/README.md) | Easy | Solved | 3 | cpp | 2026-02-01 |
 | 2778 | [Sum of Squares of Special Elements ](../Array/2778-sum-of-squares-of-special-elements/README.md) | Easy | Solved | 1 | cpp | 2026-10-16 |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](../Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | Easy | Solved | 1 | cpp | 2026-02-01 |
+| 3142 | [Check if Grid Satisfies Conditions](../Array/3142-check-if-grid-satisfies-conditions/README.md) | Easy | Solved | 1 | cpp | 2026-10-26 |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](../Array/3158-find-the-xor-of-numbers-which-appear-twice/README.md) | Easy | Solved | 2 | cpp | 2026-07-27 |
 | 3507 | [Minimum Pair Removal to Sort Array I](../Array/3507-minimum-pair-removal-to-sort-array-i/README.md) | Easy | Solved | 1 | cpp | 2026-01-23 |
 | 3510 | [Minimum Pair Removal to Sort Array II](../Array/3510-minimum-pair-removal-to-sort-array-ii/README.md) | Hard | Attempted | 1 | cpp | - |

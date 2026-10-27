@@ -4,13 +4,13 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 186 | 184 | 2 | 127 | 53 | 4 | 2026-10-25 |
+| 187 | 185 | 2 | 128 | 53 | 4 | 2026-10-26 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Array](Array/README.md) | 85 | 83 | 2 | 46 | 34 | 5 |
+| [Array](Array/README.md) | 86 | 84 | 2 | 47 | 34 | 5 |
 | [Database](Database/README.md) | 49 | 49 | 0 | 38 | 11 | 0 |
 | [Math](Math/README.md) | 28 | 28 | 0 | 24 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
@@ -35,6 +35,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-26 | [3142. Check if Grid Satisfies Conditions](Array/3142-check-if-grid-satisfies-conditions/README.md) | Accepted | cpp |
 | 2026-10-25 | [1. Two Sum](Array/0001-two-sum/README.md) | Accepted | cpp |
 | 2026-10-24 | [217. Contains Duplicate](Array/0217-contains-duplicate/README.md) | Accepted | cpp |
 | 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Accepted | cpp |
@@ -49,13 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
-| 2026-10-20 | [1741. Find Total Time Spent by Each Employee](Database/1741-find-total-time-spent-by-each-employee/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 62 | 91 |
+| 2026-10 | 63 | 92 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -244,6 +244,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](Array/3010-divide-an-array-into-subarrays-with-minimum-cost-i/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-02-01 | 2026-02-01 |
 | 3014 | [Minimum Number of Pushes to Type Word I](Math/3014-minimum-number-of-pushes-to-type-word-i/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-07-30 | 2026-07-30 |
 | 3120 | [Count the Number of Special Characters I](Hash-Table/3120-count-the-number-of-special-characters-i/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-02-24 | 2026-02-24 |
+| 3142 | [Check if Grid Satisfies Conditions](Array/3142-check-if-grid-satisfies-conditions/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-10-26 | 2026-10-26 |
 | 3158 | [Find the XOR of Numbers Which Appear Twice](Array/3158-find-the-xor-of-numbers-which-appear-twice/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-27 | 2026-07-27 |
 | 3345 | [Smallest Divisible Digit Product I](Math/3345-smallest-divisible-digit-product-i/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2026-08-06 | 2026-08-06 |
 | 3498 | [Reverse Degree of a String](String/3498-reverse-degree-of-a-string/README.md) | [String](String/README.md) | Easy | Solved | 1 | 2026-02-24 | 2026-02-24 |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2181657716,
+  "synced_through": 2182460298,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3439,6 +3439,24 @@
       "submissions": [
         {"id":2179726457,"status":"Restrictions Failed","lang":"cpp","timestamp":1792765549,"runtime":null,"memory":null},
         {"id":2179726735,"status":"Accepted","lang":"cpp","timestamp":1792765570,"runtime":"1 ms","memory":"9 MB"}
+      ]
+    },
+    "check-if-grid-satisfies-conditions": {
+      "id": "3142",
+      "title": "Check if Grid Satisfies Conditions",
+      "slug": "check-if-grid-satisfies-conditions",
+      "difficulty": "Easy",
+      "tags": ["Array","Matrix"],
+      "topic": "Array",
+      "dir": "Array/3142-check-if-grid-satisfies-conditions",
+      "first_attempt_at": 1793035760,
+      "last_attempt_at": 1793035760,
+      "solved_at": 1793035760,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2182460298,"status":"Accepted","lang":"cpp","timestamp":1793035760,"runtime":"0 ms","memory":"29.3 MB"}
+      },
+      "submissions": [
+        {"id":2182460298,"status":"Accepted","lang":"cpp","timestamp":1793035760,"runtime":"0 ms","memory":"29.3 MB"}
       ]
     }
   }
