@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 187 | 185 | 2 | 128 | 53 | 4 | 2026-10-26 |
+| 188 | 186 | 2 | 129 | 53 | 4 | 2026-10-27 |
 
 ## Topics
 
@@ -17,11 +17,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
 | [String](String/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
 | [Tree](Tree/README.md) | 3 | 3 | 0 | 2 | 1 | 0 |
+| [Other](Other/README.md) | 2 | 2 | 0 | 2 | 0 | 0 |
 | [Binary Search](Binary-Search/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Dynamic Programming](Dynamic-Programming/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Graph Theory](Graph-Theory/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
 | [Linked List](Linked-List/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
-| [Other](Other/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Two Pointers](Two-Pointers/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 
 ## Not solved yet
@@ -35,6 +35,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-10-27 | [3963. Create Grid With Exactly One Path](Other/3963-create-grid-with-exactly-one-path/README.md) | Accepted | cpp |
 | 2026-10-26 | [3142. Check if Grid Satisfies Conditions](Array/3142-check-if-grid-satisfies-conditions/README.md) | Accepted | cpp |
 | 2026-10-25 | [1. Two Sum](Array/0001-two-sum/README.md) | Accepted | cpp |
 | 2026-10-24 | [217. Contains Duplicate](Array/0217-contains-duplicate/README.md) | Accepted | cpp |
@@ -49,13 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
 | 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Accepted | mysql |
-| 2026-10-20 | [1517. Find Users With Valid E-Mails](Database/1517-find-users-with-valid-e-mails/README.md) | Wrong Answer | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-10 | 63 | 92 |
+| 2026-10 | 64 | 93 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
 | 2026-04 | 3 | 5 |
@@ -258,3 +258,4 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 3793 | [Find Users with High Token Usage](Other/3793-find-users-with-high-token-usage/README.md) | [Other](Other/README.md) | Easy | Solved | 2 | 2026-10-19 | 2026-10-19 |
 | 3863 | [Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | [String](String/README.md) | Medium | Solved | 4 | 2026-10-21 | 2026-10-21 |
 | 3942 | [Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-10-22 | 2026-10-22 |
+| 3963 | [Create Grid With Exactly One Path](Other/3963-create-grid-with-exactly-one-path/README.md) | [Other](Other/README.md) | Easy | Solved | 1 | 2026-10-27 | 2026-10-27 |
