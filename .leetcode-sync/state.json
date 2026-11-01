@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2183154860,
+  "synced_through": 2184192391,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3475,6 +3475,24 @@
       },
       "submissions": [
         {"id":2183154860,"status":"Accepted","lang":"cpp","timestamp":1793111684,"runtime":"1 ms","memory":"11 MB"}
+      ]
+    },
+    "duplicate-emails": {
+      "id": "182",
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0182-duplicate-emails",
+      "first_attempt_at": 1793212108,
+      "last_attempt_at": 1793212108,
+      "solved_at": 1793212108,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2184192391,"status":"Accepted","lang":"mysql","timestamp":1793212108,"runtime":"498 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2184192391,"status":"Accepted","lang":"mysql","timestamp":1793212108,"runtime":"498 ms","memory":"0B"}
       ]
     }
   }
