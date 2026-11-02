@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 50 | 50 | 0 | 39 | 11 | 0 |
+| 51 | 51 | 0 | 39 | 11 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -17,6 +17,7 @@
 | 182 | [Duplicate Emails](../Database/0182-duplicate-emails/README.md) | Easy | Solved | 1 | mysql | 2026-10-28 |
 | 183 | [Customers Who Never Order](../Database/0183-customers-who-never-order/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 184 | [Department Highest Salary](../Database/0184-department-highest-salary/README.md) | Medium | Solved | 1 | mysql | 2026-10-22 |
+| 185 | [Department Top Three Salaries](../Database/0185-department-top-three-salaries/README.md) | Hard | Solved | 1 | mysql | 2026-11-01 |
 | 197 | [Rising Temperature](../Database/0197-rising-temperature/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 511 | [Game Play Analysis I](../Database/0511-game-play-analysis-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 550 | [Game Play Analysis IV](../Database/0550-game-play-analysis-iv/README.md) | Medium | Solved | 2 | mysql | 2026-10-11 |

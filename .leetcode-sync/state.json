@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2184192391,
+  "synced_through": 2186991868,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3493,6 +3493,24 @@
       },
       "submissions": [
         {"id":2184192391,"status":"Accepted","lang":"mysql","timestamp":1793212108,"runtime":"498 ms","memory":"0B"}
+      ]
+    },
+    "department-top-three-salaries": {
+      "id": "185",
+      "title": "Department Top Three Salaries",
+      "slug": "department-top-three-salaries",
+      "difficulty": "Hard",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0185-department-top-three-salaries",
+      "first_attempt_at": 1793538563,
+      "last_attempt_at": 1793538563,
+      "solved_at": 1793538563,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2186991868,"status":"Accepted","lang":"mysql","timestamp":1793538563,"runtime":"1025 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2186991868,"status":"Accepted","lang":"mysql","timestamp":1793538563,"runtime":"1025 ms","memory":"0B"}
       ]
     }
   }

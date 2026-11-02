@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 189 | 187 | 2 | 130 | 53 | 4 | 2026-10-28 |
+| 190 | 188 | 2 | 130 | 53 | 5 | 2026-11-01 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 86 | 84 | 2 | 47 | 34 | 5 |
-| [Database](Database/README.md) | 50 | 50 | 0 | 39 | 11 | 0 |
+| [Database](Database/README.md) | 51 | 51 | 0 | 39 | 11 | 1 |
 | [Math](Math/README.md) | 28 | 28 | 0 | 24 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
@@ -35,6 +35,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-01 | [185. Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | Accepted | mysql |
 | 2026-10-28 | [182. Duplicate Emails](Database/0182-duplicate-emails/README.md) | Accepted | mysql |
 | 2026-10-27 | [3963. Create Grid With Exactly One Path](Other/3963-create-grid-with-exactly-one-path/README.md) | Accepted | cpp |
 | 2026-10-26 | [3142. Check if Grid Satisfies Conditions](Array/3142-check-if-grid-satisfies-conditions/README.md) | Accepted | cpp |
@@ -49,12 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Accepted | cpp |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
-| 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
+| 2026-11 | 1 | 1 |
 | 2026-10 | 65 | 94 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
@@ -125,6 +126,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 182 | [Duplicate Emails](Database/0182-duplicate-emails/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-28 | 2026-10-28 |
 | 183 | [Customers Who Never Order](Database/0183-customers-who-never-order/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-18 | 2026-10-18 |
 | 184 | [Department Highest Salary](Database/0184-department-highest-salary/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-22 | 2026-10-22 |
+| 185 | [Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | [Database](Database/README.md) | Hard | Solved | 1 | 2026-11-01 | 2026-11-01 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-07-26 | 2026-07-26 |
 | 197 | [Rising Temperature](Database/0197-rising-temperature/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
 | 202 | [Happy Number](Hash-Table/0202-happy-number/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-02 | 2026-02-02 |
