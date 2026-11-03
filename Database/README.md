@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 51 | 51 | 0 | 39 | 11 | 1 |
+| 53 | 53 | 0 | 41 | 11 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -18,12 +18,14 @@
 | 183 | [Customers Who Never Order](../Database/0183-customers-who-never-order/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 184 | [Department Highest Salary](../Database/0184-department-highest-salary/README.md) | Medium | Solved | 1 | mysql | 2026-10-22 |
 | 185 | [Department Top Three Salaries](../Database/0185-department-top-three-salaries/README.md) | Hard | Solved | 1 | mysql | 2026-11-01 |
+| 196 | [Delete Duplicate Emails](../Database/0196-delete-duplicate-emails/README.md) | Easy | Solved | 1 | mysql | 2026-11-02 |
 | 197 | [Rising Temperature](../Database/0197-rising-temperature/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 511 | [Game Play Analysis I](../Database/0511-game-play-analysis-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-18 |
 | 550 | [Game Play Analysis IV](../Database/0550-game-play-analysis-iv/README.md) | Medium | Solved | 2 | mysql | 2026-10-11 |
 | 570 | [Managers with at Least 5 Direct Reports](../Database/0570-managers-with-at-least-5-direct-reports/README.md) | Medium | Solved | 2 | mysql | 2026-10-07 |
 | 577 | [Employee Bonus](../Database/0577-employee-bonus/README.md) | Easy | Solved | 1 | mysql | 2026-10-05 |
 | 584 | [Find Customer Referee](../Database/0584-find-customer-referee/README.md) | Easy | Solved | 1 | mysql | 2026-10-02 |
+| 586 | [Customer Placing the Largest Number of Orders](../Database/0586-customer-placing-the-largest-number-of-orders/README.md) | Easy | Solved | 1 | mysql | 2026-11-02 |
 | 595 | [Big Countries](../Database/0595-big-countries/README.md) | Easy | Solved | 1 | mysql | 2026-10-02 |
 | 596 | [Classes With at Least 5 Students](../Database/0596-classes-with-at-least-5-students/README.md) | Easy | Solved | 1 | mysql | 2026-10-10 |
 | 610 | [Triangle Judgement](../Database/0610-triangle-judgement/README.md) | Easy | Solved | 1 | mysql | 2026-10-10 |

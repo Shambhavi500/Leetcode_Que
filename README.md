@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 190 | 188 | 2 | 130 | 53 | 5 | 2026-11-01 |
+| 192 | 190 | 2 | 132 | 53 | 5 | 2026-11-02 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 86 | 84 | 2 | 47 | 34 | 5 |
-| [Database](Database/README.md) | 51 | 51 | 0 | 39 | 11 | 1 |
+| [Database](Database/README.md) | 53 | 53 | 0 | 41 | 11 | 1 |
 | [Math](Math/README.md) | 28 | 28 | 0 | 24 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
@@ -35,6 +35,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-02 | [586. Customer Placing the Largest Number of Orders](Database/0586-customer-placing-the-largest-number-of-orders/README.md) | Accepted | mysql |
+| 2026-11-02 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
 | 2026-11-01 | [185. Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | Accepted | mysql |
 | 2026-10-28 | [182. Duplicate Emails](Database/0182-duplicate-emails/README.md) | Accepted | mysql |
 | 2026-10-27 | [3963. Create Grid With Exactly One Path](Other/3963-create-grid-with-exactly-one-path/README.md) | Accepted | cpp |
@@ -48,14 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-22 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
 | 2026-10-22 | [184. Department Highest Salary](Database/0184-department-highest-salary/README.md) | Accepted | mysql |
 | 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Accepted | cpp |
-| 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
-| 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Wrong Answer | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 1 | 1 |
+| 2026-11 | 3 | 3 |
 | 2026-10 | 65 | 94 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
@@ -128,6 +128,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 184 | [Department Highest Salary](Database/0184-department-highest-salary/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-10-22 | 2026-10-22 |
 | 185 | [Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | [Database](Database/README.md) | Hard | Solved | 1 | 2026-11-01 | 2026-11-01 |
 | 189 | [Rotate Array](Array/0189-rotate-array/README.md) | [Array](Array/README.md) | Medium | Solved | 2 | 2026-07-26 | 2026-07-26 |
+| 196 | [Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-02 | 2026-11-02 |
 | 197 | [Rising Temperature](Database/0197-rising-temperature/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-03 | 2026-10-03 |
 | 202 | [Happy Number](Hash-Table/0202-happy-number/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 2 | 2026-02-02 | 2026-02-02 |
 | 204 | [Count Primes](Array/0204-count-primes/README.md) | [Array](Array/README.md) | Medium | Solved | 1 | 2026-02-08 | 2026-02-08 |
@@ -179,6 +180,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 575 | [Distribute Candies](Array/0575-distribute-candies/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-28 | 2026-07-28 |
 | 577 | [Employee Bonus](Database/0577-employee-bonus/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-05 | 2026-10-05 |
 | 584 | [Find Customer Referee](Database/0584-find-customer-referee/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
+| 586 | [Customer Placing the Largest Number of Orders](Database/0586-customer-placing-the-largest-number-of-orders/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-02 | 2026-11-02 |
 | 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 596 | [Classes With at Least 5 Students](Database/0596-classes-with-at-least-5-students/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
 | 605 | [Can Place Flowers](Array/0605-can-place-flowers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-28 | 2026-07-28 |

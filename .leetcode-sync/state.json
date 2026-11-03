@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2186991868,
+  "synced_through": 2187927681,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3511,6 +3511,42 @@
       },
       "submissions": [
         {"id":2186991868,"status":"Accepted","lang":"mysql","timestamp":1793538563,"runtime":"1025 ms","memory":"0B"}
+      ]
+    },
+    "delete-duplicate-emails": {
+      "id": "196",
+      "title": "Delete Duplicate Emails",
+      "slug": "delete-duplicate-emails",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0196-delete-duplicate-emails",
+      "first_attempt_at": 1793637598,
+      "last_attempt_at": 1793637598,
+      "solved_at": 1793637598,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2187925534,"status":"Accepted","lang":"mysql","timestamp":1793637598,"runtime":"1095 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2187925534,"status":"Accepted","lang":"mysql","timestamp":1793637598,"runtime":"1095 ms","memory":"0B"}
+      ]
+    },
+    "customer-placing-the-largest-number-of-orders": {
+      "id": "586",
+      "title": "Customer Placing the Largest Number of Orders",
+      "slug": "customer-placing-the-largest-number-of-orders",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0586-customer-placing-the-largest-number-of-orders",
+      "first_attempt_at": 1793637733,
+      "last_attempt_at": 1793637733,
+      "solved_at": 1793637733,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2187927681,"status":"Accepted","lang":"mysql","timestamp":1793637733,"runtime":"663 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2187927681,"status":"Accepted","lang":"mysql","timestamp":1793637733,"runtime":"663 ms","memory":"0B"}
       ]
     }
   }
