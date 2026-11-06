@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2187927681,
+  "synced_through": 2190897156,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3547,6 +3547,24 @@
       },
       "submissions": [
         {"id":2187927681,"status":"Accepted","lang":"mysql","timestamp":1793637733,"runtime":"663 ms","memory":"0B"}
+      ]
+    },
+    "is-subsequence": {
+      "id": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String","Dynamic Programming"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0392-is-subsequence",
+      "first_attempt_at": 1793989500,
+      "last_attempt_at": 1793989500,
+      "solved_at": 1793989500,
+      "languages": {
+        "cpp": {"file":"solution.cpp","id":2190897156,"status":"Accepted","lang":"cpp","timestamp":1793989500,"runtime":"0 ms","memory":"8.6 MB"}
+      },
+      "submissions": [
+        {"id":2190897156,"status":"Accepted","lang":"cpp","timestamp":1793989500,"runtime":"0 ms","memory":"8.6 MB"}
       ]
     }
   }

@@ -4,7 +4,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 192 | 190 | 2 | 132 | 53 | 5 | 2026-11-02 |
+| 193 | 191 | 2 | 133 | 53 | 5 | 2026-11-06 |
 
 ## Topics
 
@@ -18,11 +18,11 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | [String](String/README.md) | 4 | 4 | 0 | 3 | 1 | 0 |
 | [Tree](Tree/README.md) | 3 | 3 | 0 | 2 | 1 | 0 |
 | [Other](Other/README.md) | 2 | 2 | 0 | 2 | 0 | 0 |
+| [Two Pointers](Two-Pointers/README.md) | 2 | 2 | 0 | 2 | 0 | 0 |
 | [Binary Search](Binary-Search/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Dynamic Programming](Dynamic-Programming/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 | [Graph Theory](Graph-Theory/README.md) | 1 | 1 | 0 | 0 | 1 | 0 |
 | [Linked List](Linked-List/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
-| [Two Pointers](Two-Pointers/README.md) | 1 | 1 | 0 | 1 | 0 | 0 |
 
 ## Not solved yet
 
@@ -35,6 +35,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-06 | [392. Is Subsequence](Two-Pointers/0392-is-subsequence/README.md) | Accepted | cpp |
 | 2026-11-02 | [586. Customer Placing the Largest Number of Orders](Database/0586-customer-placing-the-largest-number-of-orders/README.md) | Accepted | mysql |
 | 2026-11-02 | [196. Delete Duplicate Emails](Database/0196-delete-duplicate-emails/README.md) | Accepted | mysql |
 | 2026-11-01 | [185. Department Top Three Salaries](Database/0185-department-top-three-salaries/README.md) | Accepted | mysql |
@@ -49,13 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Wrong Answer | cpp |
 | 2026-10-22 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
 | 2026-10-22 | [184. Department Highest Salary](Database/0184-department-highest-salary/README.md) | Accepted | mysql |
-| 2026-10-21 | [3863. Minimum Operations to Sort a String](String/3863-minimum-operations-to-sort-a-string/README.md) | Accepted | cpp |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 3 | 3 |
+| 2026-11 | 4 | 4 |
 | 2026-10 | 65 | 94 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
@@ -157,6 +157,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 367 | [Valid Perfect Square](Math/0367-valid-perfect-square/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2026-02-13 | 2026-02-13 |
 | 374 | [Guess Number Higher or Lower](Binary-Search/0374-guess-number-higher-or-lower/README.md) | [Binary Search](Binary-Search/README.md) | Easy | Solved | 2 | 2026-02-13 | 2026-02-13 |
 | 389 | [Find the Difference](Hash-Table/0389-find-the-difference/README.md) | [Hash Table](Hash-Table/README.md) | Easy | Solved | 1 | 2026-02-16 | 2026-02-16 |
+| 392 | [Is Subsequence](Two-Pointers/0392-is-subsequence/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 1 | 2026-11-06 | 2026-11-06 |
 | 412 | [Fizz Buzz](Math/0412-fizz-buzz/README.md) | [Math](Math/README.md) | Easy | Solved | 1 | 2025-09-13 | 2025-09-13 |
 | 414 | [Third Maximum Number](Array/0414-third-maximum-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-03-23 | 2026-03-23 |
 | 415 | [Add Strings](Math/0415-add-strings/README.md) | [Math](Math/README.md) | Easy | Solved | 2 | 2026-10-23 | 2026-10-23 |

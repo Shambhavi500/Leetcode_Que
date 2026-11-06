@@ -4,11 +4,12 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 1 | 0 | 1 | 0 | 0 |
+| 2 | 2 | 0 | 2 | 0 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
 | 344 | [Reverse String](../Two-Pointers/0344-reverse-string/README.md) | Easy | Solved | 2 | cpp | 2026-02-19 |
+| 392 | [Is Subsequence](../Two-Pointers/0392-is-subsequence/README.md) | Easy | Solved | 1 | cpp | 2026-11-06 |
 
 ## Also tagged Two Pointers
 
