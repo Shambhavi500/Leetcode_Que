@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2190897156,
+  "synced_through": 2191433887,
   "problems": {
     "power-of-two": {
       "id": "231",
@@ -3565,6 +3565,24 @@
       },
       "submissions": [
         {"id":2190897156,"status":"Accepted","lang":"cpp","timestamp":1793989500,"runtime":"0 ms","memory":"8.6 MB"}
+      ]
+    },
+    "sales-person": {
+      "id": "607",
+      "title": "Sales Person",
+      "slug": "sales-person",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0607-sales-person",
+      "first_attempt_at": 1794068777,
+      "last_attempt_at": 1794068777,
+      "solved_at": 1794068777,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":2191433887,"status":"Accepted","lang":"mysql","timestamp":1794068777,"runtime":"2329 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":2191433887,"status":"Accepted","lang":"mysql","timestamp":1794068777,"runtime":"2329 ms","memory":"0B"}
       ]
     }
   }
