@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 194 | 192 | 2 | 134 | 53 | 5 | 2026-11-07 |
+| 196 | 194 | 2 | 135 | 54 | 5 | 2026-11-08 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 86 | 84 | 2 | 47 | 34 | 5 |
-| [Database](Database/README.md) | 54 | 54 | 0 | 42 | 11 | 1 |
+| [Database](Database/README.md) | 56 | 56 | 0 | 43 | 12 | 1 |
 | [Math](Math/README.md) | 28 | 28 | 0 | 24 | 4 | 0 |
 | [Hash Table](Hash-Table/README.md) | 6 | 6 | 0 | 5 | 1 | 0 |
 | [Stack](Stack/README.md) | 5 | 5 | 0 | 4 | 1 | 0 |
@@ -35,6 +35,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-08 | [602. Friend Requests II: Who Has the Most Friends](Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | Accepted | mysql |
+| 2026-11-08 | [627. Swap Sex of Employees](Database/0627-swap-sex-of-employees/README.md) | Accepted | mysql |
 | 2026-11-07 | [607. Sales Person](Database/0607-sales-person/README.md) | Accepted | mysql |
 | 2026-11-06 | [392. Is Subsequence](Two-Pointers/0392-is-subsequence/README.md) | Accepted | cpp |
 | 2026-11-02 | [586. Customer Placing the Largest Number of Orders](Database/0586-customer-placing-the-largest-number-of-orders/README.md) | Accepted | mysql |
@@ -48,14 +50,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Accepted | cpp |
 | 2026-10-23 | [415. Add Strings](Math/0415-add-strings/README.md) | Restrictions Failed | cpp |
 | 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Accepted | cpp |
-| 2026-10-22 | [3942. Minimum Operations to Sort a Permutation](Array/3942-minimum-operations-to-sort-a-permutation/README.md) | Wrong Answer | cpp |
-| 2026-10-22 | [1327. List the Products Ordered in a Period](Database/1327-list-the-products-ordered-in-a-period/README.md) | Accepted | mysql |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 5 | 5 |
+| 2026-11 | 7 | 7 |
 | 2026-10 | 65 | 94 |
 | 2026-08 | 3 | 6 |
 | 2026-07 | 22 | 38 |
@@ -184,12 +184,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 586 | [Customer Placing the Largest Number of Orders](Database/0586-customer-placing-the-largest-number-of-orders/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-02 | 2026-11-02 |
 | 595 | [Big Countries](Database/0595-big-countries/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-02 | 2026-10-02 |
 | 596 | [Classes With at Least 5 Students](Database/0596-classes-with-at-least-5-students/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
+| 602 | [Friend Requests II: Who Has the Most Friends](Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | [Database](Database/README.md) | Medium | Solved | 1 | 2026-11-08 | 2026-11-08 |
 | 605 | [Can Place Flowers](Array/0605-can-place-flowers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-28 | 2026-07-28 |
 | 607 | [Sales Person](Database/0607-sales-person/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-07 | 2026-11-07 |
 | 610 | [Triangle Judgement](Database/0610-triangle-judgement/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
 | 619 | [Biggest Single Number](Database/0619-biggest-single-number/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-10-10 | 2026-10-10 |
 | 620 | [Not Boring Movies](Database/0620-not-boring-movies/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2026-10-07 | 2026-10-07 |
 | 626 | [Exchange Seats](Database/0626-exchange-seats/README.md) | [Database](Database/README.md) | Medium | Solved | 5 | 2026-10-15 | 2026-10-16 |
+| 627 | [Swap Sex of Employees](Database/0627-swap-sex-of-employees/README.md) | [Database](Database/README.md) | Easy | Solved | 1 | 2026-11-08 | 2026-11-08 |
 | 628 | [Maximum Product of Three Numbers](Array/0628-maximum-product-of-three-numbers/README.md) | [Array](Array/README.md) | Easy | Solved | 2 | 2026-07-26 | 2026-07-26 |
 | 645 | [Set Mismatch](Array/0645-set-mismatch/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2026-07-29 | 2026-07-29 |
 | 682 | [Baseball Game](Array/0682-baseball-game/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-08-31 | 2025-08-31 |

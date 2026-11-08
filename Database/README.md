@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 54 | 54 | 0 | 42 | 11 | 1 |
+| 56 | 56 | 0 | 43 | 12 | 1 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -28,11 +28,13 @@
 | 586 | [Customer Placing the Largest Number of Orders](../Database/0586-customer-placing-the-largest-number-of-orders/README.md) | Easy | Solved | 1 | mysql | 2026-11-02 |
 | 595 | [Big Countries](../Database/0595-big-countries/README.md) | Easy | Solved | 1 | mysql | 2026-10-02 |
 | 596 | [Classes With at Least 5 Students](../Database/0596-classes-with-at-least-5-students/README.md) | Easy | Solved | 1 | mysql | 2026-10-10 |
+| 602 | [Friend Requests II: Who Has the Most Friends](../Database/0602-friend-requests-ii-who-has-the-most-friends/README.md) | Medium | Solved | 1 | mysql | 2026-11-08 |
 | 607 | [Sales Person](../Database/0607-sales-person/README.md) | Easy | Solved | 1 | mysql | 2026-11-07 |
 | 610 | [Triangle Judgement](../Database/0610-triangle-judgement/README.md) | Easy | Solved | 1 | mysql | 2026-10-10 |
 | 619 | [Biggest Single Number](../Database/0619-biggest-single-number/README.md) | Easy | Solved | 1 | mysql | 2026-10-10 |
 | 620 | [Not Boring Movies](../Database/0620-not-boring-movies/README.md) | Easy | Solved | 2 | mysql | 2026-10-07 |
 | 626 | [Exchange Seats](../Database/0626-exchange-seats/README.md) | Medium | Solved | 5 | mysql | 2026-10-16 |
+| 627 | [Swap Sex of Employees](../Database/0627-swap-sex-of-employees/README.md) | Easy | Solved | 1 | mysql | 2026-11-08 |
 | 1068 | [Product Sales Analysis I](../Database/1068-product-sales-analysis-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-03 |
 | 1070 | [Product Sales Analysis III](../Database/1070-product-sales-analysis-iii/README.md) | Medium | Solved | 4 | mysql | 2026-10-17 |
 | 1075 | [Project Employees I](../Database/1075-project-employees-i/README.md) | Easy | Solved | 1 | mysql | 2026-10-07 |
